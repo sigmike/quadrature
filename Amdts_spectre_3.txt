@@ -1,0 +1,543 @@
+﻿Amendment		<NumAm>1</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Recital 4</Article>
+
+Text proposed by the Commission
+Amendment
+(4) This first programme should in particular support the Europe 2020 Strategy for smart, sustainable and inclusive growth given the huge potential of wireless services to promote an information-based economy, develop and assist sectors relying on information and communications technologies and overcome the digital divide. It is also a key action in the Digital Agenda for Europe which aims to deliver fast broadband internet in the future network-based knowledge economy, with an ambitious target for universal broadband coverage with speeds of at least 30 Mbps for all Europeans by 2020, thereby achieving the sustainable economic and social benefits of a digital single market. It should also support and promote other Union sectoral policies such as a sustainable environment and economic and social inclusion for all Union citizens. Given the importance of wireless applications for innovation, this programme is also a key initiative in support of Union policies on innovation.
+(4) This first programme should in particular support the Europe 2020 Strategy for smart, sustainable and inclusive growth given the huge potential of wireless services to promote an information-based economy, develop and assist sectors relying on information and communications technologies and overcome the digital divide. It is also a key action in the Digital Agenda for Europe which aims to deliver fast broadband internet in the future network-based knowledge economy, with an ambitious target for universal broadband coverage. Providing the highest possible broadband speeds and capacity, ensuring not less than 30 Mbps for all by 2020 with at least half of European households having broadband access at a speed of at least 100 Mbps, is important for fostering economic growth and global competitiveness, thereby achieving the sustainable economic and social benefits of a digital single market. It should also support and promote other Union sectoral policies such as a sustainable environment and economic and social inclusion for all Union citizens. Given the importance of wireless applications for innovation, this programme is also a key initiative in support of Union policies on innovation.
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>2</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Recital 4 a (new)</Article>
+
+Text proposed by the Commission
+Amendment
+ 
+(4a) The first programme must lay the ground for a development where the Union can take the lead regarding broadband speeds, mobility, coverage and capacity. Such leadership is essential in order to establish a competitive digital single market working as a spearhead to open up the internal market for all Union citizens.
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>3</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Recital 7</Article>
+
+Text proposed by the Commission
+Amendment
+(7) Ensuring the optimal use of spectrum may require innovative authorisation solutions such as collective use of spectrum, general authorisations or infrastructure sharing. The application of such principles in the Union might be facilitated by the definition of certain common or converging conditions for spectrum usage. General authorisations, which are the least onerous authorisation system, are of particular interest where interference does not risk hampering the development of other services.
+(7) Ensuring the optimal and productive use of spectrum may require innovative authorisation solutions such as collective use of spectrum, general authorisations, auctions or infrastructure sharing. The application of such principles in the Union might be facilitated by identifying best practices and encouraging information sharing, as well as the definition of certain common or converging conditions for spectrum usage. General authorisations, which are the most appropriate and least onerous authorisation system, are of particular interest where interference does not risk hampering the development of other services.
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>4</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Recital 9</Article>
+
+Text proposed by the Commission
+Amendment
+(9) As underlined in the Digital Agenda for Europe, wireless broadband is an important means to boost competition, consumer choice and access in rural and other areas where deployment of wired broadband is difficult or economically unviable. However, spectrum management may affect competition by changing the role and power of market players, for example if existing users receive undue competitive advantages. Limited spectrum access, in particular when appropriate spectrum becomes scarcer, can create a barrier to entry for new services or applications and hamper innovation and competition. Acquisition of new usage rights, including through spectrum trading or other transactions between users, and the introduction of new flexible criteria for spectrum use can have an impact on the existing competitive situation. Member States should therefore take appropriate ex ante or ex post regulatory measures (such as action to amend existing rights, to prohibit certain acquisitions of spectrum rights, to impose conditions on spectrum hoarding and efficient use such as those referred to in Article 9 paragraph 7 of the Framework Directive, to limit the amount of spectrum for each operator, or to avoid excessive accumulation of spectrum) to avoid distortions of competition in line with the principles underpinning Article 5(6) of Directive 2002/20/EC (the "Authorisation" Directive) and Article 1(2) of Directive 87/372/EEC (the "GSM" Directive).
+(9) As underlined in the Digital Agenda for Europe, wireless broadband is an important means to boost pan-European competition, consumer choice and access in rural and other areas where deployment of wired broadband is difficult or economically unviable. However, spectrum management may affect competition by changing the role and power of market players, for example if existing users receive undue competitive advantages. Limited spectrum access, in particular when appropriate spectrum becomes scarcer, can create a barrier to entry for new services or applications and hamper innovation and competition. Acquisition of new usage rights, including through spectrum trading or other transactions between users, and the introduction of new flexible criteria for spectrum use can have an impact on the existing competitive situation. Member States should therefore take appropriate ex ante or ex post regulatory measures (such as action to amend existing rights, to prohibit certain acquisitions of spectrum rights, to impose conditions on spectrum hoarding and efficient use such as those referred to in Article 9 paragraph 7 of the Framework Directive, to limit the amount of spectrum for each operator, or to avoid excessive accumulation of spectrum) to avoid distortions of competition in line with the principles underpinning Article 5(6) of Directive 2002/20/EC (the "Authorisation" Directive) and Article 1(2) of Directive 87/372/EEC (the "GSM" Directive). Member States may also take steps to achieve a more even spectrum allocation between economic operators by reserving spectrum for new entrants to a frequency band or group of bands with similar characteristics.
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>5</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Recital 10</Article>
+
+Text proposed by the Commission
+Amendment
+(10) Optimal and efficient spectrum use requires continuous monitoring of developments, and up-to-date transparent information on spectrum use throughout the Union. While Commission Decision 2007/344/EC on harmonised availability of information regarding spectrum use within the Community requires Member States to publish information on usage rights, a detailed inventory of existing spectrum use together with an effective review and assessment methodology are necessary in the Union to improve the efficiency of spectrum and radio equipment use, in particular between 300 MHz and 3 GHz. This would help to identify inefficient technologies and usages in both the commercial and public sectors, as well as unused assignments and sharing opportunities, and to evaluate future consumer and business needs.
+(10) Optimal and efficient spectrum use requires continuous monitoring of developments, and up-to-date transparent information on spectrum use throughout the Union. While Commission Decision 2007/344/EC on harmonised availability of information regarding spectrum use within the Community requires Member States to publish information on usage rights, a detailed inventory of existing spectrum use together with an effective review and assessment methodology are necessary in the Union to improve the efficiency of spectrum and radio equipment use, in particular between 300 MHz and 6GHz, but also from 6 GHz to 70 GHz as these frequencies will become increasingly important following rapid technological developments. This would help to identify inefficient technologies and usages in both the commercial and public sectors, as well as unused assignments and sharing opportunities, and to evaluate future consumer and business needs.
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>6</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Recital 12</Article>
+
+Text proposed by the Commission
+Amendment
+(12) In line with the objectives of the Commission's flagship initiative "Digital Agenda for Europe", wireless broadband could contribute substantially to economic recovery and growth if sufficient spectrum is made available, usage rights are awarded quickly and trading is allowed to adapt to market evolution. The Digital Agenda calls for all Union citizens to have access to broadband of at least 30 Mbps by 2020. Therefore, spectrum that has already been designated should be authorised by 2012 for terrestrial communications to ensure easy access to wireless broadband for all, in particular within spectrum bands designated by Commission Decisions 2008/477/EC, 2008/411/EC and 2009/766/EC. To complement terrestrial broadband services and ensure coverage of most remote Union areas, affordable satellite broadband access could be a fast and feasible solution.
+(12) In line with the objectives of the Commission's flagship initiative "Digital Agenda for Europe", wireless broadband services contribute substantially to economic recovery and growth if sufficient spectrum is made available, usage rights are awarded quickly and trading is allowed to adapt to market evolution. The Digital Agenda calls for all Union citizens to have access to broadband of at least 30 Mbps by 2020. Therefore, spectrum that has already been harmonised should be authorised by 2012 for terrestrial communications to ensure easy access to wireless broadband for all, in particular within spectrum bands designated by Commission Decisions 2008/477/EC, 2008/411/EC and 2009/766/EC. To complement terrestrial broadband services and ensure coverage of most remote Union areas, affordable satellite broadband access could be a fast and feasible solution.
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>7</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Recital 12 a (new)</Article>
+
+Text proposed by the Commission
+Amendment
+ 
+(12a) A European market with nearly 500 million people connected to high-speed broadband would act as a spearhead for the development of the internal market, creating a globally unique critical mass of users exposing all regions to new opportunities and giving each user increased value and the Union the capacity to be a world-leading knowledge-based economy. A rapid deployment of broadband is crucial for the development of European productivity and for the emergence of new and small enterprises that can be leaders in different sectors, for example health care, manufacturing and the services industry.
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>8</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Recital 12 b (new)</Article>
+
+Text proposed by the Commission
+Amendment
+ 
+(12b) Mobile data traffic is increasing rapidly and is currently doubling every year. At this pace, which is likely to continue in the coming years, mobile data traffic will have increased nearly 40-fold from 2009 to 2014. This increase is to a high extent being driven by video, which will account for 66% of all mobile traffic in 2014. In order to manage this exponential growth, a number of actions will be required by regulators and market players including further harmonised spectrum allocations for wireless broadband, increased spectrum efficiency and offloading traffic onto wireless networks via dual-use devices .
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>9</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Recital 12 c (new)</Article>
+
+Text proposed by the Commission
+Amendment
+ 
+(12c) The International Telecommunications Union (ITU) has estimated the future spectrum bandwidth requirements for the development of International Mobile  Telecommunications-2000 (IMT-2000) and IMT-advanced systems (i.e. 3G and 4G mobile communications) as amounting to between 1280 and 1720 MHz in 2020 for the commercial mobile industry for each ITU region including Europe. Without the freeing up of additional spectrum, preferably harmonised at global level, new services and economic growth will be hindered by capacity constraints in mobile networks. 
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>10</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Recital 13</Article>
+
+Text proposed by the Commission
+Amendment
+(13) The 800 MHz band is optimal for the coverage of large areas by wireless broadband services. Building on the harmonisation of technical conditions under Decision 2010/267/EU, and on Commission Recommendation of 28 October 2009 calling for analogue broadcasting to be switched off by 1 January 2012, and given rapid national regulatory developments, this band should in principle be made available for electronic communications in the Union by 2013. In the longer term, additional spectrum below 790 MHz could also be envisaged, depending on experience and the lack of spectrum in other bands adequate for coverage. Considering the capacity of the 800 MHz band to transmit over large areas, coverage obligations should be attached to rights.
+(13).  The 800 MHz band is optimal for the coverage of large areas by wireless broadband services. Building on the harmonisation of technical conditions under Decision 2010/267/EU, and on Commission Recommendation of 28 October 2009 calling for analogue broadcasting to be switched off by 1 January 2012, and given rapid national regulatory developments, this band should be made available for electronic communications in the Union by 2013. Considering the capacity of the 800 MHz band to transmit over large areas, coverage obligations achieved through the principles of technical and service neutrality should be attached to rights. Additional spectrum for wireless broadband services in the 1.5 MHz band (1452-1492 MHz) and the 2.3 GHz band (2300-2400 MHz) should be freed up to meet the increasing demand for mobile traffic. Further mobile service spectrum allocations, such as the 700 MHz band (694-790 MHz), should be evaluated depending on future capacity requirements for wireless broadband services and terrestrial TV.
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>11</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Recital 13 a (new)</Article>
+
+Text proposed by the Commission
+Amendment
+ 
+(13a) Similar to the GSM standard, which was successfully taken up around the world thanks to an early and decisive pan-European harmonisation, the Union should aim to set the global agenda for future spectrum re-allocations especially for the most efficient part of the spectrum. Agreements in the World Radio Conference 2016 will be pivotal to ensure global harmonisation and co-ordination with neighbouring third countries.
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>12</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Recital 13 b (new)</Article>
+
+Text proposed by the Commission
+Amendment
+ 
+(13b) Increased mobile broadband opportunities are crucial to provide the cultural sector with new distribution platforms, thereby paving the way for a thriving future development of the sector. It is essential that terrestrial TV services and other actors be able to maintain existing services when an additional part of the spectrum is freed up for wireless services. Migration costs, resulting from the opening up of additional spectrum, may be covered through licence fees, making it possible for broadcasters to have the same opportunities as are enjoyed today in other parts of the spectrum.
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>13</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Recital 13 c (new)</Article>
+
+Text proposed by the Commission
+Amendment
+ 
+(13c) Wireless access systems, including radio local access networks, are outgrowing their current allocations on an unlicensed basis at 2.4GHz and 5GHz. In order to accommodate the next generation of wireless technologies, for example, wider channels are required, enabling speeds in excess of 1Gbps.  
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>14</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Recital 14</Article>
+
+Text proposed by the Commission
+Amendment
+(14) Since a common approach and economies of scale are key to developing broadband communications throughout the Union and preventing competition distortion and market fragmentation among Member States, certain authorisation and procedural conditions could be defined in concerted action among Member States and with the Commission. Conditions could include coverage obligations, spectrum block size, the timing of granting rights, access to mobile virtual network operators (MVNOs) and the duration of rights of use. Reflecting the importance of spectrum trading for increasing efficient use of spectrum and developing the internal market for wireless equipment and services, these conditions should apply to spectrum bands that are allocated to wireless communications, and for which rights of use may be transferred or leased.
+(14) Since a common approach and economies of scale are key to developing broadband communications throughout the Union and preventing competition distortion and market fragmentation among Member States, certain authorisation and procedural conditions could be defined in concerted action among Member States and with the Commission. Conditions could include coverage obligations, spectrum block size, the timing of granting rights, access to mobile virtual network operators (MVNOs) and the duration of rights of use. Reflecting the importance of spectrum trading for increasing efficient use of spectrum, facilitating the emergence of pan-European operators, and developing the internal market for wireless equipment and services, these conditions should apply to spectrum bands that are allocated to wireless communications, and for which rights of use may be transferred or leased.
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>15</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Recital 15</Article>
+
+Text proposed by the Commission
+Amendment
+(15) Additional spectrum may be needed by other sectors such as transport (for safety, information and management systems), R&D, public protection and disaster relief, e-health and e-inclusion. Optimising synergies between spectrum policy and R&D activities and carrying out studies of radio compatibility between different spectrum users should help innovation. The Commission's Joint Research Centre should help in developing the technical aspects of spectrum regulation, notably by providing testing facilities to verify interference models relevant to Union legislation. Moreover, results of research under the Seventh Framework Programme require the examination of the spectrum needs of projects that may have a large economic or investment potential, in particular for SMEs, e.g. cognitive radio or e-health. Adequate protection against harmful interference should also be ensured to sustain R&D and scientific activities.
+(15) Additional spectrum may be needed by other sectors such as transport (for safety, information and management systems), R&D, public protection and disaster relief, e-health and e-inclusion. Optimising synergies between spectrum policy and R&D activities and carrying out studies of radio compatibility between different spectrum users should help innovation. Relevant research organisations should help in developing the technical aspects of spectrum regulation, notably by providing testing facilities to verify interference models relevant to Union legislation. Moreover, results of research under the Seventh Framework Programme require the examination of the spectrum needs of projects that may have a large economic or investment potential, in particular for SMEs, e.g. cognitive radio or e-health. Adequate protection against harmful interference should also be ensured to sustain R&D and scientific activities.
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>16</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Recital 22</Article>
+
+Text proposed by the Commission
+Amendment
+(22) Member States may also need support on frequency coordination in bilateral negotiations with non-Union neighbouring countries, including accession or candidate countries, to meet their Union obligations on frequency coordination issues. This should also help avoid harmful interference and improve spectrum efficiency and spectrum use convergence even beyond Union borders. Action is particularly pressing in the 800 MHz and 3.4-3.8GHz bands for the transition to cellular broadband technologies and for the harmonisation of spectrum necessary for the modernisation of air traffic control.
+(22) Member States are encouraged to continue bilateral negotiations with neighbouring third countries, including candidate and potential candidate countries, to meet their Union obligations on frequency coordination issues and to try to find agreements which can set a positive precedent for other Member States. The Union shall assist Member States with technical and political support in their bilateral and multilateral negotiations with third countries, in particular neighbouring countries including candidate and potential candidate countries. This should also help avoid harmful interference and improve spectrum efficiency and spectrum use convergence even beyond Union borders. Action is particularly pressing in the 800 MHz and 3.4-3.8GHz bands for the transition to cellular broadband technologies and for the harmonisation of spectrum necessary for the modernisation of air traffic control.
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>17</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Recital 24</Article>
+
+Text proposed by the Commission
+Amendment
+(24) The Commission should report to the European Parliament and the Council on the results achieved under this Decision, as well as on planned future actions.
+(24) The Commission should report annually to the European Parliament and the Council on the results achieved under this Decision, as well as on planned future actions.
+Or. <Original>{EN}en</Original>
+</Amend>
+
+<Amend>Amendment		<NumAm>18</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Article 2 – point a</Article>
+
+Text proposed by the Commission
+Amendment
+(a) encouraging efficient use of spectrum to best meet the increasing demand for use of frequencies;
+deleted 
+Or. <Original>{EN}en</Original>
+</Amend>
+
+<Amend>Amendment 	<NumAm>19</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Article 2 – point b</Article>
+
+Text proposed by the Commission
+Amendment
+(b) applying technology and service neutrality in the use of spectrum for electronic communications networks and services, in accordance with Article 9 of Directive 2002/21/EC (Framework Directive), and where possible for other sectors and applications, in such a way as to promote efficiency of spectrum use, in particular by fostering flexibility, and to promote innovation;
+(b) applying technology and service neutrality for the harmonised use of spectrum for electronic communications networks and services, in accordance with Article 9 of Directive 2002/21/EC (Framework Directive), and where possible for other sectors and applications, in such a way as to promote efficiency of spectrum use and facilitate increased mobile data traffic and broadband services, in particular by fostering flexibility  and to promote innovation;
+Or. <Original>{EN}en</Original>
+</Amend>
+
+<Amend>Amendment 	<NumAm>20</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Article 2 – point c</Article>
+
+Text proposed by the Commission
+Amendment
+(c) applying the least onerous authorisation system possible in such a way as to maximise flexibility and efficiency in spectrum usage;
+(c) applying the most appropriate and the least onerous authorisation system possible in such a way as to maximise flexibility and efficiency in spectrum usage;
+Or. <Original>{EN}en</Original>
+</Amend>
+
+
+<Amend>Amendment	<NumAm>21</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Article 2 – point d</Article>
+
+Text proposed by the Commission
+Amendment
+(d) guaranteeing the functioning of the internal market, in particular by ensuring effective competition.
+(d) guaranteeing the development of the internal market and digital services by ensuring effective competition, a level playing field and by promoting the emergence of pan-European operators.
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>22</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Article 2 – point d a (new)</Article>
+
+Text proposed by the Commission
+Amendment
+
+(da) taking full account of the relevant EU law on human health of electromagnetic field emissions when defining the technical conditions for the use of spectrum,;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>23</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Article 2 – point d b (new)</Article>
+
+Text proposed by the Commission
+Amendment
+
+(db) promoting the harmonisation of the use of radio frequencies across the Union, consistent with the need to ensure effective and efficient use.
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>24</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Article 3 – point - a (new)</Article>
+
+Text proposed by the Commission
+Amendment
+
+(-a) encourage efficient management and use of spectrum to meet the increasing demand for use of frequencies;
+Or. <Original>{EN}en</Original>
+</Amend>
+
+<Amend>Amendment		<NumAm>25</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Article 3 – point a</Article>
+
+Text proposed by the Commission
+Amendment
+(a) make sufficient appropriate spectrum available in a timely manner to support Union policy objectives;
+(a) ensure that sufficient and appropriate spectrum is allocated for wireless services, amounting to at least 1200 Mhz by 2015, unless specified otherwise in the Radio Spectrum Policy Programme, in order to meet a rapidly growing demand for mobile data traffic, thereby allowing the development of  commercial and public services; 
+
+
+Or. <Original>{EN}en</Original>
+
+</Amend>
+<Amend>Amendment	<NumAm>26</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Article 3 – point a a (new)</Article>
+
+Text proposed by the Commission
+Amendment
+ 
+(aa) bridge the digital divide and realise the objectives of the Digital Agenda, ensuring that all Union citizens have access to broadband, not less than 30 Mbps by 2020 and making it possible for the Union to have the highest possible broadband speed and capacity;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>27</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Article 3 – point a b (new)</Article>
+
+Text proposed by the Commission
+Amendment
+
+(ab) enable the Union to take the lead in wireless electronic communication broadband services by opening up sufficient additional spectrum in the most cost-efficient bands for these services to be widely available;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>28</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Article 3 – point a c (new)</Article>
+
+Text proposed by the Commission
+Amendment
+ 
+(ac) secure opportunities for both the commercial sector as well as public services by means of increased mobile broadband capacities;
+Or. <Original>{EN}en</Original>
+The amendment is self-explanatory.</Amend>
+<Amend>Amendment		<NumAm>29</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Article 3 – point b</Article>
+
+Text proposed by the Commission
+Amendment
+(b) maximise flexibility in the use of spectrum, to promote innovation and investment, through the application of the principles of technology and service neutrality, the opening of spectrum to new services, and the possibility to trade spectrum rights;
+(b) maximise flexibility in the use of spectrum, to promote innovation and investment, through the consistent  application of the principles of technology and service neutrality and through adequate regulatory predictability, the opening up of harmonised spectrum to new advanced services, and the possibility of trading spectrum rights, thereby creating opportunities for pan-European structures to be established;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>30</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Article 3 – point d</Article>
+
+Text proposed by the Commission
+Amendment
+(d) maintain and develop effective competition, in particular in electronic communication services, by preventing ex ante, or remedying ex post, excessive accumulation of radio frequencies by certain economic operators which results in significant harm to competition;
+(d) maintain and develop effective competition, in particular in electronic communication services, by preventing ex ante, or remedying ex post, excessive accumulation of radio frequencies by certain economic operators which results in significant harm to competition, or by assigning frequencies in ways that correct market distortions;
+Or. <Original>{EN}en</Original>
+</Amend><Amend>Amendment		<NumAm>31</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Article 3 – point e</Article>
+
+Text proposed by the Commission
+Amendment
+(e) reduce the fragmentation of the internal market by enhancing coordination and harmonisation of technical conditions for the use and availability of spectrum, as appropriate, including the development of transnational services, and by promoting economies of scale at Union level;
+(e) reduce the fragmentation and fully exploit the potential of the internal market in order to foster economic growth and economies of scope and scale at Union level by enhancing coordination and harmonisation of technical conditions for the use and availability of spectrum, as appropriate; 
+Or. <Original>{EN}en</Original>
+</Amend><Amend>Amendment		<NumAm>32</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Article 4 – paragraph 1</Article>
+
+Text proposed by the Commission
+Amendment
+1. Member States shall adopt by 1 January 2013 authorisation and allocation measures appropriate for the development of broadband services, in conformity with Directive 2002/20/EC of the European Parliament and of the Council on the authorisation of electronic communications networks and services (Authorisation Directive), such as allowing relevant operators, where possible and on the basis of consultations in accordance with Article 11, direct or indirect access to contiguous blocks of spectrum of at least 10 MHz.
+1. Member States shall adopt by 1 January 2013 authorisation and allocation measures that are similar to each other and appropriate for the development of broadband services, in conformity with Directive 2002/20/EC of the European Parliament and of the Council on the authorisation of electronic communications networks and services (Authorisation Directive), such as allowing relevant operators, where possible and on the basis of consultations in accordance with Article 11, direct or indirect access to contiguous blocks of spectrum of at least 10 MHz, thereby allowing the highest possible capacity and broadband speeds to be achieved, as well as making effective competition possible.
+Or. <Original>{EN}en</Original>
+</Amend>
+
+<Amend>Amendment		<NumAm>33</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Article 4 – paragraph 2</Article>
+
+Text proposed by the Commission
+Amendment
+2. Member States shall foster, in cooperation with the Commission, the collective use of spectrum as well as shared use of spectrum.
+2. Member States shall foster, in cooperation with the Commission, the collective use of spectrum as well as shared use of spectrum by enabling new technologies, such as cognitive radio, to develop.
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>34</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Article 4 – paragraph 5</Article>
+
+Text proposed by the Commission
+Amendment
+5. In order to avoid possible fragmentation of the internal market due to divergent selection conditions and procedures for harmonised spectrum bands allocated to electronic communication services and made tradable in all Member States pursuant to Article 9b of Directive 2002/21/EC, the Commission, in cooperation with Member States, shall develop guidelines on authorisation conditions and procedures for such bands, in particular on infrastructure sharing and coverage conditions;
+5. In order to avoid possible fragmentation of the internal market due to divergent selection conditions and procedures for harmonised spectrum bands allocated to electronic communication services and made tradable in all Member States pursuant to Article 9b of Directive 2002/21/EC, the Commission, in cooperation with Member States, shall identify best practices and encourage sharing of information for such bands and develop guidelines on authorisation conditions and procedures for such bands, for example on infrastructure sharing and coverage conditions, achieved through  the principles of technology and service neutrality;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>35</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Article 4 – paragraph 6</Article>
+
+Text proposed by the Commission
+Amendment
+6. Whenever necessary in order to ensure the effective use of spectrum rights and avoid spectrum hoarding, Member States shall take appropriate measures including financial penalties or the withdrawal of rights.
+6. In order to ensure the effective use of spectrum rights and avoid spectrum hoarding, Member States shall, when necessary, take appropriate measures including financial penalties, use of incentive fees tools and withdrawal of rights.
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>36</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Article 5 – paragraph 1</Article>
+
+Text proposed by the Commission
+Amendment
+1. Member States shall maintain and promote effective competition and avoid distortions of competition in the internal market or in a substantial part of it. 
+1. Member States shall promote effective competition and avoid distortions of competition in the internal market or in a substantial part of it. 
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>37</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Article 5 – paragraph 2 – point a a new</Article>
+
+Text proposed by the Commission
+Amendment
+
+(aa) Member States may take steps to achieve a more even spectrum allocation between economic operators by reserving spectrum for new entrants to a frequency band or group of bands with similar characteristics;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>38</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Article 5 – paragraph 3</Article>
+
+Text proposed by the Commission
+Amendment
+3. Member States shall ensure that authorisation and selection procedures avoid delays and promote effective competition.
+3. Member States shall ensure that authorisation and selection procedures avoid delays and promote effective competition by taking into account any potential anti-competitive outcomes for the benefit of Union citizens and consumers.
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>39</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Article 6 – paragraph 1</Article>
+
+Text proposed by the Commission
+Amendment
+1. Without prejudice to the principles of service and technology neutrality, Member States, in cooperation with the Commission, shall take all steps necessary to ensure that sufficient spectrum for coverage and capacity purposes is allocated within the Union, in order to ensure that wireless applications contribute effectively to achieving the target for all citizens to have access to broadband of a speed of at least 30 Mbps by 2020.
+1. Without prejudice to the principles of service and technology neutrality, Member States, in cooperation with the Commission, shall take all steps necessary to ensure that sufficient harmonised spectrum for coverage and capacity purposes is allocated within the Union, enabling the Union to have the fastest broadband speed in the world in order to ensure that wireless applications and European leadership in new services contribute effectively to economic growth, achieving the target for all citizens to have access to broadband speeds of not less than 30 Mbps by 2020.
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>40</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Article 6 – paragraph 2</Article>
+
+Text proposed by the Commission
+Amendment
+2. Member States shall, by 1 January 2012, authorise the use of all the spectrum designated by Commission Decisions 2008/477/EC (2.5–2.69 GHz), 2008/411/EC (3.4–3.8 GHz) and 2009/766/EC (900/1800 MHz), under conditions that provide consumers with easy access to wireless broadband services.
+2. Member States shall, by 1 January 2012, authorise the use of all the spectrum designated by Commission Decisions 2008/477/EC (2.5–2.69 GHz), 2008/411/EC (3.4–3.8 GHz) and 2009/766/EC (900/1800 MHz), under conditions that provide consumers with easy access to wireless broadband services, without prejudice to the existing and future deployment of other services that have equal access to this spectrum under the conditions specified in those Commission Decisions.
+Or. <Original>{EN}en</Original>
+
+</Amend>
+<Amend>Amendment		<NumAm>41</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Article 6 – paragraph 3</Article>
+
+Text proposed by the Commission
+Amendment
+3. Member States shall, by 1 January 2013 make the 800 MHz band available for electronic communications services in line with the harmonised technical conditions laid down pursuant to the Decision No 676/2002/EC. In Member States where exceptional national or local circumstances would prevent the availability of the band, the Commission may authorise specific derogations until 2015. In accordance with Article 9 of Directive 2002/21/EC, the Commission, in cooperation with the Member States, shall keep under review the use of the spectrum below 1GHz and assess whether additional spectrum could be freed and made available for new applications.
+3. Member States shall, by 1 January 2013 make the 800 MHz band available for electronic communications services in line with the harmonised technical conditions laid down pursuant to the Decision No 676/2002/EC. Only in cases duly justified for technical reasons, the Commission may authorise specific derogations until 2015. In accordance with Article 9 of Directive 2002/21/EC, the Commission, in cooperation with the Member States, shall keep under review the use of the spectrum below 1GHz and assess whether additional spectrum could be freed and made available in order to meet an increasing demand for wireless broadband.
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>42</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Article 6 – paragraph 3 a (new)</Article>
+
+Text proposed by the Commission
+Amendment
+
+3a. The Commission, in cooperation with Member States, is invited to take action at the appropriate levels to achieve the harmonisation and use of the 1.5 MHz band (1452-1492 MHz) and the 2.3 GHz band (2300-2400 MHz) for wireless broadband services. The Commission shall continuously monitor the capacity requirements for wireless broadband services and when justified, in cooperation with Member States, evaluate the need for action to harmonise additional spectrum bands, such as the 700 MHz band (694-790 MHz).
+
+Member States shall ensure that, where appropriate, the cost of migration or re-allocation of spectrum usage are adequately compensated in accordance with national law.
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>43</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Article 6 – paragraph 4</Article>
+
+Text proposed by the Commission
+Amendment
+4. Member States, in cooperation with the Commission, shall ensure that the provision of access to broadband content and services using the 790-862 MHz (800MHz) band is encouraged in sparsely populated areas, in particular through coverage obligations; in doing so, they shall examine ways and, where necessary, take appropriate measures to ensure that the freeing of the 800 MHz band does not adversely affect programme making and special events (PMSE) users.
+4. The Commission, in cooperation with Member States, shall ensure that the provision of access to broadband content and services using the 790-862 MHz (800MHz) band is encouraged in sparsely populated areas, for example through coverage obligations achieved through the principles of technology and service neutrality; in doing so, they shall examine ways and, where necessary, take appropriate measures to ensure that the freeing of the 800 MHz band does not adversely affect programme making and special events (PMSE) users.
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>44</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Article 6 – paragraph 4 a (new)</Article>
+
+Text proposed by the Commission
+Amendment
+ 
+4a. The Commission, in cooperation with Member States, shall assess the feasibility of extending the allocations of unlicensed spectrum for wireless access systems including radio local area networks as established by Decision 2005/513/EC to the entire 5GHz band.
+
+The Commission is invited to pursue the adopted harmonisation agenda at the relevant international fora, notably the ITU World Radiocommunication Conferences.
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>45</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Article 6 – paragraph 5</Article>
+
+Text proposed by the Commission
+Amendment
+5. The Commission is invited to adopt, as a priority, appropriate measures, pursuant to Article 9b(3) of the Directive 2002/21/EC, to ensure that Member States allow trading within the Union of spectrum usage rights in the harmonised bands 790–862 MHz (the "800 MHz band"), 880–915 MHz, 925–960 MHz, 1710–1785 MHz, 1805–1880 MHz, 1900–1980 MHz, 2010–2025 MHz, 2110–2170 MHz, 2.5–2.69 GHz, and 3.4–3.8 GHz.
+5.	The Commission is invited to adopt, as a priority, appropriate measures, pursuant to Article 9b(3) of the Directive 2002/21/EC, to ensure that Member States allow trading within the Union of spectrum usage rights in the harmonised bands 790–862 MHz (the "800 MHz band"), 880–915 MHz, 925–960 MHz, 1710–1785 MHz, 1805–1880 MHz, 1900–1980 MHz, 2010–2025 MHz, 2110–2170 MHz, 2.5–2.69 GHz, and 3.4–3.8 GHz and other additional part of the spectrum being freed up for mobile services.
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>46</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Article 6 – paragraph 6</Article>
+
+Text proposed by the Commission
+Amendment
+6. If necessary, the Commission shall ensure the availability of additional spectrum bands for the provision of harmonised satellite services for broadband access that will cover the whole territory of the Union including the most remote areas with a broadband offering enabling Internet access at a comparable price to terrestrial offerings.
+6. In order to ensure that all citizens have access to advanced digital services including broadband, in particular in remote and sparsely populated areas, Member States and the Commission shall ensure the availability of sufficient spectrum for the provision of broadband satellite services enabling Internet access. 
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>47</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Article - 7 (new)</Article>
+
+Text proposed by the Commission
+Amendment
+
+Article -7
+Spectrum needs for other wireless communication policies
+
+In order to support the further development of innovative audiovisual media and other services to European citizens, taking into account the economic and social benefits of a digital single market, Member States, in cooperation with the Commission, shall ensure sufficient spectrum availability for satellite and terrestrial provision of such services.
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>48</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Article 7 – title</Article>
+
+Text proposed by the Commission
+Amendment
+Spectrum needs for specific Union policies
+Spectrum needs for other specific Union policies
+Or. <Original>{EN}en</Original>
+</Amend>
+
+<Amend>Amendment	<NumAm>49</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Article 8 – paragraph 1</Article>
+
+Text proposed by the Commission
+Amendment
+1. The Commission, assisted by the Member States, which shall provide all appropriate information on spectrum use, shall create an inventory of existing spectrum use and of possible future needs for spectrum in the Union, in particular in the range from 300 MHz to 3 GHz.
+1. The Commission, assisted by the Member States, which shall provide all appropriate information on spectrum use, shall create an inventory of existing spectrum use and identify future demand for spectrum in the Union. As an initial step such inventory shall include frequencies in the range from 300 MHz to 6 GHz, to be followed by frequencies from 6 GHz up to 70 GHz.
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment	<NumAm>50</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Article 8 – paragraph 3 a (new)</Article>
+
+Text proposed by the Commission
+Amendment
+
+3a. The inventory shall also include a report of the measures taken by the Member States in order to implement decisions at EU level regarding the harmonisation and use of the specific frequency bands.
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment	<NumAm>51</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Article 9 – paragraph 4</Article>
+
+Text proposed by the Commission
+Amendment
+4. The Union shall provide, upon request, political and technical support to Member States in their bilateral negotiations with non-Union neighbouring countries including candidate and acceding countries, to resolve spectrum coordination issues that prevent Member States from implementing their obligations under Union law regarding spectrum policy and management. The Union shall also support efforts by third countries to implement spectrum management that is compatible with that of the Union, so as to safeguard Union spectrum policy objectives.
+4. The Union shall assist Member States with political and technical support in their bilateral and multilateral negotiations with third countries, in particular non-Union neighbouring countries including candidate and acceding countries, to resolve spectrum coordination issues that prevent Member States from implementing their obligations under Union law regarding spectrum policy and management. The Union shall also support efforts by third countries to implement spectrum management that is compatible with that of the Union, so as to safeguard Union spectrum policy objectives.
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>52</NumAm>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Article 12</Article>
+
+Text proposed by the Commission
+Amendment
+By 31 December 2015, the Commission shall conduct a review of the application of this radio spectrum policy programme and report to the European Parliament and the Council on the activities developed and the measures adopted pursuant to this Decision.
+By 31 December 2015, the Commission shall conduct a review of the application of this radio spectrum policy programme. The Commission shall report annually to the European Parliament and the Council on the activities developed and the measures adopted pursuant to this Decision.
+Or. <Original>{EN}en</Original>
+</Amend>
+
+</RepeatBlock-Amend>
+
+
+
+

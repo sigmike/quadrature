@@ -6,54 +6,77 @@ require 'rubygems'
 require 'nokogiri'
 require 'erb'
 
-data = File.read('Amdts_spectre_1.txt')
+data = %w(3 1 2).map { |i| File.read("Amdts_spectre_#{i}.txt") }.join
 sections = data.scan(%r(<Amend>.+?</Amend>)m)
 
+Amendment = Struct.new :num, :note, :color, :commission_rows, :amendement_rows, :members, :article
+
+
+
+class Amendment
+  Template = ERB.new File.read('template.erb'), nil, '-'
   
-template = ERB.new File.read('template.erb'), nil, '-'
+  def format
+    Template.result(binding)
+  end
+end
+
+amendments = sections.map do |xml|
+  doc = Nokogiri::XML(xml)
+
+  num, note = doc.css('NumAm').text.split(' ', 2)
+  num = num.to_i
+  note.gsub!(/\s/, '') if note
+  
+  color = case note.to_s.gsub(/[^-+]/, '')
+    when "--"
+      "red"
+    when "-"
+      "IndianRed"
+    when "++", "+++"
+      "green"
+    when "+"
+      "lightgreen"
+    when ""
+      "lightgrey"
+    else
+      raise "Invalid note: #{note.inspect}"
+  end
+  
+  infos = xml.scan(%r(Text proposed by the Commission\nAmendment\n(.+)\nOr.)m).first
+  raise "No info found" unless infos
+  
+  
+  infos = infos.first.split(/\n/)
+
+  commission_rows = []
+  amendement_rows = []
+  infos.each_slice(2) do |commission, amendement|
+    commission_rows << commission
+    amendement_rows << amendement
+  end
+  
+  [commission_rows, amendement_rows].each do |rows|
+    rows.delete_if { |row| row.nil? or row.empty? }
+  end
+  
+  members = doc.css('Members').text
+  article = doc.css('Article').text
+
+  Amendment.new num, note, color, commission_rows, amendement_rows, members, article
+end
+
 
 File.open "result.mediawiki", "w" do |f|
-  sections.each do |xml|
-    doc = Nokogiri::XML(xml)
-
-    num, note = doc.css('NumAm').text.split(' ', 2)
-    note.gsub!(/\s/, '') if note
-    
-    color = case note.to_s.gsub(/[^-+]/, '')
-      when "--"
-        "red"
-      when "-"
-        "IndianRed"
-      when "++"
-        "green"
-      when "+"
-        "lightgreen"
-      when ""
-        "lightgrey"
-      else
-        raise "Invalid note: #{note.inspect}"
+  grouped = amendments.group_by { |am| (am.num - 1) / 10 }
+  grouped.keys.sort.each do |index|
+    ams = grouped[index].sort_by { |am| am.num }
+    first = ams.first.num
+    last = ams.last.num
+    f.puts "== Amendments #{first} – #{last} =="
+    ams.each do |am|
+      f.puts am.format
     end
-    
-    infos = xml.scan(%r(Text proposed by the Commission\nAmendment\n(.+)\nOr.)m).first
-    raise "No info found" unless infos
-    
-    
-    infos = infos.first.split(/\n/)
-
-    commission_rows = []
-    amendement_rows = []
-    infos.each_slice(2) do |commission, amendement|
-      commission_rows << commission
-      amendement_rows << amendement
-    end
-    
-    [commission_rows, amendement_rows].each do |rows|
-      rows.delete_if { |row| row.nil? or row.empty? }
-    end
-    
-    members = doc.css('Members').text
-    article = doc.css('Article').text
-
-    f.puts template.result(binding)
+    f.puts
   end
 end
