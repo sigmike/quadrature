@@ -232,7 +232,7 @@ Jens Rohde, Fiona Hall
 == Amendement 64 ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
-! colspan="2" style="background-color: green;" |
+! colspan="2" style="background-color: red;" |
 Amendement 64
 <br/>
 Recital 4 
@@ -379,7 +379,7 @@ Hella Ranner
 == Amendement 71 ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
-! colspan="2" style="background-color: green;" |
+! colspan="2" style="background-color: red;" |
 Amendement 71
 <br/>
 Recital 7 
@@ -400,7 +400,7 @@ Hella Ranner
 == Amendement 72 ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
-! colspan="2" style="background-color: IndianRed;" |
+! colspan="2" style="background-color: lightgreen;" |
 Amendement 72
 <br/>
 Recital 7 
@@ -442,7 +442,7 @@ Jean-Pierre Audy
 == Amendement 74 ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
-! colspan="2" style="background-color: red;" |
+! colspan="2" style="background-color: green;" |
 Amendement 74
 <br/>
 Recital 7 
@@ -463,7 +463,7 @@ Lena Kolarska-Bobińska
 == Amendement 75 ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
-! colspan="2" style="background-color: red;" |
+! colspan="2" style="background-color: green;" |
 Amendement 75
 <br/>
 Recital 7 a (new) 
@@ -484,7 +484,7 @@ Catherine Trautmann
 == Amendement 76 ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
-! colspan="2" style="background-color: lightgreen;" |
+! colspan="2" style="background-color: IndianRed;" |
 Amendement 76
 <br/>
 Recital 7 a (new) 
@@ -505,7 +505,7 @@ Patrizia Toia
 == Amendement 77 ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
-! colspan="2" style="background-color: IndianRed;" |
+! colspan="2" style="background-color: lightgreen;" |
 Amendement 77
 <br/>
 Recital 8 
@@ -526,7 +526,7 @@ Hella Ranner
 == Amendement 78 ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
-! colspan="2" style="background-color: IndianRed;" |
+! colspan="2" style="background-color: lightgreen;" |
 Amendement 78
 <br/>
 Recital 8 
@@ -547,7 +547,7 @@ Petra Kammerevert
 == Amendement 79 ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
-! colspan="2" style="background-color: IndianRed;" |
+! colspan="2" style="background-color: lightgreen;" |
 Amendement 79
 <br/>
 Recital 8 
@@ -568,7 +568,7 @@ Hermann Winkler
 == Amendement 80 ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
-! colspan="2" style="background-color: IndianRed;" |
+! colspan="2" style="background-color: lightgreen;" |
 Amendement 80
 <br/>
 Recital 8 
@@ -736,7 +736,7 @@ Pilar del Castillo Vera
 == Amendement 88 ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
-! colspan="2" style="background-color: red;" |
+! colspan="2" style="background-color: green;" |
 Amendement 88
 <br/>
 Recital 10 
@@ -757,7 +757,7 @@ Philippe Lamberts
 == Amendement 89 ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
-! colspan="2" style="background-color: red;" |
+! colspan="2" style="background-color: green;" |
 Amendement 89
 <br/>
 Recital 10 
@@ -862,7 +862,7 @@ Hella Ranner
 == Amendement 94 ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
-! colspan="2" style="background-color: lightgreen;" |
+! colspan="2" style="background-color: IndianRed;" |
 Amendement 94
 <br/>
 Recital 11 
@@ -883,7 +883,7 @@ Giles Chichester
 == Amendement 95 ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
-! colspan="2" style="background-color: lightgreen;" |
+! colspan="2" style="background-color: IndianRed;" |
 Amendement 95
 <br/>
 Recital 11 
@@ -904,7 +904,7 @@ Patrizia Toia
 == Amendement 96 ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
-! colspan="2" style="background-color: lightgreen;" |
+! colspan="2" style="background-color: IndianRed;" |
 Amendement 96
 <br/>
 Recital 11 
@@ -1372,7 +1372,7 @@ Arturs Krišjānis Kariņš
 == Amendement 118 ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
-! colspan="2" style="background-color: green;" |
+! colspan="2" style="background-color: red;" |
 Amendement 118
 <br/>
 Recital 13 a (new) 
@@ -1393,7 +1393,7 @@ Hella Ranner
 == Amendement 119 ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
-! colspan="2" style="background-color: green;" |
+! colspan="2" style="background-color: red;" |
 Amendement 119
 <br/>
 Recital 13 a (new) 
@@ -1435,7 +1435,7 @@ Adina-Ioana Vălean
 == Amendement 121 ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
-! colspan="2" style="background-color: lightgreen;" |
+! colspan="2" style="background-color: IndianRed;" |
 Amendement 121
 <br/>
 Recital 13 a (new) 
@@ -1456,7 +1456,7 @@ Jean-Pierre Audy
 == Amendement 122 ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
-! colspan="2" style="background-color: red;" |
+! colspan="2" style="background-color: green;" |
 Amendement 122
 <br/>
 Recital 13 a (new) 
@@ -2193,7 +2193,7 @@ This Decision establishes a radio spectrum policy programme for the strategic pl
 == Amendement 157 ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
-! colspan="2" style="background-color: lightgreen;" |
+! colspan="2" style="background-color: IndianRed;" |
 Amendement 157
 <br/>
 Article 1 – paragraph 1 a (new) 
@@ -2214,7 +2214,7 @@ Henri Weber
 == Amendement 158 ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
-! colspan="2" style="background-color: green;" |
+! colspan="2" style="background-color: red;" |
 Amendement 158
 <br/>
 Article 1 – paragraph 1 a (new) 
@@ -2235,7 +2235,7 @@ This decision shall be without prejudice to existing EU law and to measures take
 == Amendement 159 ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
-! colspan="2" style="background-color: lightgreen;" |
+! colspan="2" style="background-color: IndianRed;" |
 Amendement 159
 <br/>
 Article 1 – paragraph 1 a (new) 
@@ -2424,7 +2424,7 @@ deleted
 == Amendement 168 ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
-! colspan="2" style="background-color: lightgreen;" |
+! colspan="2" style="background-color: IndianRed;" |
 Amendement 168
 <br/>
 Article 2 – point a 
@@ -2466,7 +2466,7 @@ Petra Kammerevert
 == Amendement 170 ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
-! colspan="2" style="background-color: green;" |
+! colspan="2" style="background-color: red;" |
 Amendement 170
 <br/>
 Article 2 – point a 
@@ -2613,7 +2613,7 @@ Sabine Verheyen, Herbert Reul
 == Amendement 177 ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
-! colspan="2" style="background-color: IndianRed;" |
+! colspan="2" style="background-color: lightgreen;" |
 Amendement 177
 <br/>
 Article 2 – point a 
@@ -2697,7 +2697,7 @@ deleted
 == Amendement 181 ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
-! colspan="2" style="background-color: lightgreen;" |
+! colspan="2" style="background-color: IndianRed;" |
 Amendement 181
 <br/>
 Article 2 – point b 
@@ -2718,7 +2718,7 @@ Jan Březina, Alajos Mészáros
 == Amendement 182 ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
-! colspan="2" style="background-color: lightgreen;" |
+! colspan="2" style="background-color: IndianRed;" |
 Amendement 182
 <br/>
 Article 2 – point b 
@@ -3201,7 +3201,7 @@ Jean-Pierre Audy
 == Amendement 205 ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
-! colspan="2" style="background-color: IndianRed;" |
+! colspan="2" style="background-color: lightgreen;" |
 Amendement 205
 <br/>
 Article 2 – paragraph 1 a (new) 
@@ -3228,7 +3228,7 @@ c) maintaining and developing effective competition by preventing through ex ant
 == Amendement 206 ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
-! colspan="2" style="background-color: IndianRed;" |
+! colspan="2" style="background-color: lightgreen;" |
 Amendement 206
 <br/>
 Article 2 – paragraph 1 a (new) 

@@ -34,13 +34,13 @@ File.open "result.mediawiki", "w" do |f|
     
     color = case note.to_s.gsub(/[^-+]/, '')
       when "--"
-        "green"
-      when "-"
-        "lightgreen"
-      when "++"
         "red"
-      when "+"
+      when "-"
         "IndianRed"
+      when "++"
+        "green"
+      when "+"
+        "lightgreen"
       when ""
         "lightgrey"
       else
