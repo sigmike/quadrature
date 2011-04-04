@@ -1,25 +1,12 @@
 #!/usr/bin/env ruby
 
-data = File.read('Amdts_spectre_1.txt')
-
-
-# <Amend>Amendment    <NumAm>74 + +</NumAm>
-# <Members>Lena Kolarska-Bobińska</Members>
-# <DocAmend>Proposal for a decision</DocAmend>
-# <Article>Recital 7 </Article>
-# 
-# Text proposed by the Commission
-# Amendment
-# (7) Ensuring the optimal use of spectrum may require innovative authorisation solutions such as collective use of spectrum, general authorisations or infrastructure sharing. The application of such principles in the Union might be facilitated by the definition of certain common or converging conditions for spectrum usage. General authorisations, which are the least onerous authorisation system, are of particular interest where interference does not risk hampering the development of other services.
-# (7) Ensuring the optimal use of spectrum as a public good may require innovative authorisation solutions such as collective use of spectrum, general authorisations or infrastructure sharing. The application of such principles in the Union might be facilitated by the definition of certain common or converging conditions for spectrum usage. General authorisations, which are the least onerous authorisation system, are of particular interest where interference does not risk hampering the development of other services.
-# Or. <Original>{EN}en</Original>
-# </Amend>
+# Pour lancer le script il faut ruby, rubygems et la gem nokogiri
 
 require 'rubygems'
-require 'pp'
 require 'nokogiri'
-require 'unindent'
 require 'erb'
+
+data = File.read('Amdts_spectre_1.txt')
 sections = data.scan(%r(<Amend>.+?</Amend>)m)
 
   
