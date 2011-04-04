@@ -9,11 +9,13 @@ Amendement <%= num %>
 <%= members %>
 <br/>
 <%= note %>
+<% rows.times do |row| -%>
 |-
 |width="50%"|
-<%= commission_rows.join("\n\n") %>
+<%= commission_rows[row] %>
 |width="50%"|
-<%= amendement_rows.join("\n\n") %>
+<%= amendement_rows[row] %>
+<% end -%>
 |-
 | colspan="2" |
 Comments: 

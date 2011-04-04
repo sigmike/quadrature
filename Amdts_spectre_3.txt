@@ -1,4 +1,4 @@
-﻿Amendment		<NumAm>1</NumAm>
+﻿<Amend>Amendment		<NumAm>1</NumAm>
 <DocAmend>Proposal for a decision</DocAmend>
 <Article>Recital 4</Article>
 

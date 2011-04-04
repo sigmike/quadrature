@@ -1,9 +1,10 @@
 #!/usr/bin/env ruby
 
-# Pour lancer le script il faut ruby, rubygems et la gem nokogiri
+# Pour lancer le script il faut ruby, rubygems et les gems nokogiri et differ
 
 require 'rubygems'
 require 'nokogiri'
+require 'differ'
 require 'erb'
 
 data = %w(3 1 2).map { |i| File.read("Amdts_spectre_#{i}.txt") }.join
@@ -11,13 +12,17 @@ sections = data.scan(%r(<Amend>.+?</Amend>)m)
 
 Amendment = Struct.new :num, :note, :color, :commission_rows, :amendement_rows, :members, :article
 
-
+Differ.format = :html
 
 class Amendment
   Template = ERB.new File.read('template.erb'), nil, '-'
   
   def format
     Template.result(binding)
+  end
+  
+  def rows
+    [commission_rows.size, amendement_rows.size].max
   end
 end
 
@@ -51,13 +56,12 @@ amendments = sections.map do |xml|
 
   commission_rows = []
   amendement_rows = []
-  infos.each_slice(2) do |commission, amendement|
-    commission_rows << commission
-    amendement_rows << amendement
-  end
-  
-  [commission_rows, amendement_rows].each do |rows|
-    rows.delete_if { |row| row.nil? or row.empty? }
+  infos.each_slice(2) do |commission, amendment|
+    commission = commission.to_s
+    amendment = amendment.to_s
+    #p [commission, amendment, Differ.diff_by_char(amendment, commission).to_s]
+    commission_rows << Differ.diff_by_char(commission, amendment).to_s
+    amendement_rows << Differ.diff_by_char(amendment, commission).to_s
   end
   
   members = doc.css('Members').text
