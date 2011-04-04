@@ -18,9 +18,10 @@ data = File.read('Amdts_spectre_1.txt')
 require 'rubygems'
 require 'pp'
 require 'nokogiri'
+require 'unindent'
 sections = data.scan(%r(<Amend>.+?</Amend>)m)
 
-amendements = sections.map do |xml|
+sections.each do |xml|
   doc = Nokogiri::XML(xml)
 
   num, note = doc.css('NumAm').text.split(' ', 2)
@@ -34,7 +35,7 @@ amendements = sections.map do |xml|
     when "++"
       "red"
     when "+"
-      "lightred"
+      "IndianRed"
     when ""
       "lightgrey"
     else
@@ -54,15 +55,36 @@ amendements = sections.map do |xml|
     amendement_rows << amendement
   end
   
-  {
-    :num => num,
-    :note => note,
-    :color => color,
-    :members => doc.css('Members').text,
-    :article => doc.css('Article').text,
-    :commission_rows => commission_rows,
-    :amendement_rows => amendement_rows,
-  }
+  commission_rows, amendement_rows = [commission_rows, amendement_rows].map do |rows|
+    rows.delete_if { |row| row.nil? or row.empty? }
+    rows.join("\n")
+  end
+  
+  members = doc.css('Members').text
+  article = doc.css('Article').text
+  
+  puts <<-TEXT.unindent
+    == Amendement #{num} ==
+    {| border="1" style="border-spacing:0;" cellpadding="3"
+    |-
+    ! colspan="2" style="background-color: #{color};" |
+    Amendement #{num}
+    <br/>
+    #{article}
+    <br/>
+    #{members}
+    <br/>
+    #{note}
+    |-
+    |
+    #{commission_rows}
+    ||
+    #{amendement_rows}
+    |-
+    | colspan="2" |
+    <!-- Commentaires -->
+    |}
+
+    TEXT
 end
 
-puts amendements.to_yaml
