@@ -19,72 +19,54 @@ require 'rubygems'
 require 'pp'
 require 'nokogiri'
 require 'unindent'
+require 'erb'
 sections = data.scan(%r(<Amend>.+?</Amend>)m)
 
-sections.each do |xml|
-  doc = Nokogiri::XML(xml)
+  
+template = ERB.new File.read('template.erb'), nil, '-'
 
-  num, note = doc.css('NumAm').text.split(' ', 2)
-  note.gsub!(/\s/, '') if note
-  
-  color = case note.to_s.gsub(/[^-+]/, '')
-    when "--"
-      "green"
-    when "-"
-      "lightgreen"
-    when "++"
-      "red"
-    when "+"
-      "IndianRed"
-    when ""
-      "lightgrey"
-    else
-      raise "Invalid note: #{note.inspect}"
-  end
-  
-  infos = xml.scan(%r(Text proposed by the Commission\nAmendment\n(.+)\nOr.)m).first
-  raise "No info found" unless infos
-  
-  
-  infos = infos.first.split(/\n/)
+File.open "result.txt", "w" do |f|
+  sections.each do |xml|
+    doc = Nokogiri::XML(xml)
 
-  commission_rows = []
-  amendement_rows = []
-  infos.each_slice(2) do |commission, amendement|
-    commission_rows << commission
-    amendement_rows << amendement
-  end
-  
-  commission_rows, amendement_rows = [commission_rows, amendement_rows].map do |rows|
-    rows.delete_if { |row| row.nil? or row.empty? }
-    rows.join("\n")
-  end
-  
-  members = doc.css('Members').text
-  article = doc.css('Article').text
-  
-  puts <<-TEXT.unindent
-    == Amendement #{num} ==
-    {| border="1" style="border-spacing:0;" cellpadding="3"
-    |-
-    ! colspan="2" style="background-color: #{color};" |
-    Amendement #{num}
-    <br/>
-    #{article}
-    <br/>
-    #{members}
-    <br/>
-    #{note}
-    |-
-    |
-    #{commission_rows}
-    ||
-    #{amendement_rows}
-    |-
-    | colspan="2" |
-    <!-- Commentaires -->
-    |}
+    num, note = doc.css('NumAm').text.split(' ', 2)
+    note.gsub!(/\s/, '') if note
+    
+    color = case note.to_s.gsub(/[^-+]/, '')
+      when "--"
+        "green"
+      when "-"
+        "lightgreen"
+      when "++"
+        "red"
+      when "+"
+        "IndianRed"
+      when ""
+        "lightgrey"
+      else
+        raise "Invalid note: #{note.inspect}"
+    end
+    
+    infos = xml.scan(%r(Text proposed by the Commission\nAmendment\n(.+)\nOr.)m).first
+    raise "No info found" unless infos
+    
+    
+    infos = infos.first.split(/\n/)
 
-    TEXT
+    commission_rows = []
+    amendement_rows = []
+    infos.each_slice(2) do |commission, amendement|
+      commission_rows << commission
+      amendement_rows << amendement
+    end
+    
+    [commission_rows, amendement_rows].each do |rows|
+      rows.delete_if { |row| row.nil? or row.empty? }
+    end
+    
+    members = doc.css('Members').text
+    article = doc.css('Article').text
+
+    f.puts template.result(binding)
+  end
 end
-

@@ -1,0 +1,21 @@
+== Amendement <%= num %> ==
+{| border="1" style="border-spacing:0;" cellpadding="3"
+|-
+! colspan="2" style="background-color: <%= color %>;" |
+Amendement <%= num %>
+<br/>
+<%= article %>
+<br/>
+<%= members %>
+<br/>
+<%= note %>
+|-
+|width="50%"|
+<%= commission_rows.join("\n\n") %>
+|width="50%"|
+<%= amendement_rows.join("\n\n") %>
+|-
+| colspan="2" |
+<!-- Commentaires -->
+|}
+
