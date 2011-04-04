@@ -229,7 +229,7 @@ Jens Rohde, Fiona Hall
 <!-- Commentaires -->
 |}
 
-== Amendement 64 ==
+== Amendement 64 -- ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
 ! colspan="2" style="background-color: red;" |
@@ -376,7 +376,7 @@ Hella Ranner
 <!-- Commentaires -->
 |}
 
-== Amendement 71 ==
+== Amendement 71 -- ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
 ! colspan="2" style="background-color: red;" |
@@ -397,7 +397,7 @@ Hella Ranner
 <!-- Commentaires -->
 |}
 
-== Amendement 72 ==
+== Amendement 72 +? ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
 ! colspan="2" style="background-color: lightgreen;" |
@@ -439,7 +439,7 @@ Jean-Pierre Audy
 <!-- Commentaires -->
 |}
 
-== Amendement 74 ==
+== Amendement 74 ++ ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
 ! colspan="2" style="background-color: green;" |
@@ -460,7 +460,7 @@ Lena Kolarska-Bobińska
 <!-- Commentaires -->
 |}
 
-== Amendement 75 ==
+== Amendement 75 ++ ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
 ! colspan="2" style="background-color: green;" |
@@ -481,7 +481,7 @@ Catherine Trautmann
 <!-- Commentaires -->
 |}
 
-== Amendement 76 ==
+== Amendement 76 - ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
 ! colspan="2" style="background-color: IndianRed;" |
@@ -502,7 +502,7 @@ Patrizia Toia
 <!-- Commentaires -->
 |}
 
-== Amendement 77 ==
+== Amendement 77 +? ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
 ! colspan="2" style="background-color: lightgreen;" |
@@ -523,7 +523,7 @@ Hella Ranner
 <!-- Commentaires -->
 |}
 
-== Amendement 78 ==
+== Amendement 78 + ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
 ! colspan="2" style="background-color: lightgreen;" |
@@ -544,7 +544,7 @@ Petra Kammerevert
 <!-- Commentaires -->
 |}
 
-== Amendement 79 ==
+== Amendement 79 + ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
 ! colspan="2" style="background-color: lightgreen;" |
@@ -565,7 +565,7 @@ Hermann Winkler
 <!-- Commentaires -->
 |}
 
-== Amendement 80 ==
+== Amendement 80 + ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
 ! colspan="2" style="background-color: lightgreen;" |
@@ -733,7 +733,7 @@ Pilar del Castillo Vera
 <!-- Commentaires -->
 |}
 
-== Amendement 88 ==
+== Amendement 88 ++ ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
 ! colspan="2" style="background-color: green;" |
@@ -754,7 +754,7 @@ Philippe Lamberts
 <!-- Commentaires -->
 |}
 
-== Amendement 89 ==
+== Amendement 89 ++ ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
 ! colspan="2" style="background-color: green;" |
@@ -859,7 +859,7 @@ Hella Ranner
 <!-- Commentaires -->
 |}
 
-== Amendement 94 ==
+== Amendement 94 - ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
 ! colspan="2" style="background-color: IndianRed;" |
@@ -880,7 +880,7 @@ Giles Chichester
 <!-- Commentaires -->
 |}
 
-== Amendement 95 ==
+== Amendement 95 - ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
 ! colspan="2" style="background-color: IndianRed;" |
@@ -901,7 +901,7 @@ Patrizia Toia
 <!-- Commentaires -->
 |}
 
-== Amendement 96 ==
+== Amendement 96 - ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
 ! colspan="2" style="background-color: IndianRed;" |
@@ -1369,7 +1369,7 @@ Arturs Krišjānis Kariņš
 <!-- Commentaires -->
 |}
 
-== Amendement 118 ==
+== Amendement 118 -- ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
 ! colspan="2" style="background-color: red;" |
@@ -1390,7 +1390,7 @@ Hella Ranner
 <!-- Commentaires -->
 |}
 
-== Amendement 119 ==
+== Amendement 119 -- ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
 ! colspan="2" style="background-color: red;" |
@@ -1432,7 +1432,7 @@ Adina-Ioana Vălean
 <!-- Commentaires -->
 |}
 
-== Amendement 121 ==
+== Amendement 121 -? ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
 ! colspan="2" style="background-color: IndianRed;" |
@@ -1453,7 +1453,7 @@ Jean-Pierre Audy
 <!-- Commentaires -->
 |}
 
-== Amendement 122 ==
+== Amendement 122 ++ ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
 ! colspan="2" style="background-color: green;" |
@@ -2190,7 +2190,7 @@ This Decision establishes a radio spectrum policy programme for the strategic pl
 <!-- Commentaires -->
 |}
 
-== Amendement 157 ==
+== Amendement 157 - ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
 ! colspan="2" style="background-color: IndianRed;" |
@@ -2211,7 +2211,7 @@ Henri Weber
 <!-- Commentaires -->
 |}
 
-== Amendement 158 ==
+== Amendement 158 -- ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
 ! colspan="2" style="background-color: red;" |
@@ -2232,7 +2232,7 @@ This decision shall be without prejudice to existing EU law and to measures take
 <!-- Commentaires -->
 |}
 
-== Amendement 159 ==
+== Amendement 159 - ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
 ! colspan="2" style="background-color: IndianRed;" |
@@ -2421,7 +2421,7 @@ deleted
 <!-- Commentaires -->
 |}
 
-== Amendement 168 ==
+== Amendement 168 - ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
 ! colspan="2" style="background-color: IndianRed;" |
@@ -2463,7 +2463,7 @@ Petra Kammerevert
 <!-- Commentaires -->
 |}
 
-== Amendement 170 ==
+== Amendement 170 -- ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
 ! colspan="2" style="background-color: red;" |
@@ -2526,7 +2526,7 @@ Giles Chichester
 <!-- Commentaires -->
 |}
 
-== Amendement 173 ==
+== Amendement 173  ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
 ! colspan="2" style="background-color: lightgrey;" |
@@ -2547,7 +2547,7 @@ Jean-Pierre Audy
 <!-- Commentaires -->
 |}
 
-== Amendement 174 ==
+== Amendement 174  ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
 ! colspan="2" style="background-color: lightgrey;" |
@@ -2568,7 +2568,7 @@ Henri Weber
 <!-- Commentaires -->
 |}
 
-== Amendement 175 ==
+== Amendement 175  ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
 ! colspan="2" style="background-color: lightgrey;" |
@@ -2610,7 +2610,7 @@ Sabine Verheyen, Herbert Reul
 <!-- Commentaires -->
 |}
 
-== Amendement 177 ==
+== Amendement 177 + ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
 ! colspan="2" style="background-color: lightgreen;" |
@@ -2694,7 +2694,7 @@ deleted
 <!-- Commentaires -->
 |}
 
-== Amendement 181 ==
+== Amendement 181 - ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
 ! colspan="2" style="background-color: IndianRed;" |
@@ -2715,7 +2715,7 @@ Jan Březina, Alajos Mészáros
 <!-- Commentaires -->
 |}
 
-== Amendement 182 ==
+== Amendement 182 - ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
 ! colspan="2" style="background-color: IndianRed;" |
@@ -2736,7 +2736,7 @@ Robert Goebbels, Catherine Trautmann
 <!-- Commentaires -->
 |}
 
-== Amendement 183 ==
+== Amendement 183  ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
 ! colspan="2" style="background-color: lightgrey;" |
@@ -3198,7 +3198,7 @@ Jean-Pierre Audy
 <!-- Commentaires -->
 |}
 
-== Amendement 205 ==
+== Amendement 205 + ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
 ! colspan="2" style="background-color: lightgreen;" |
@@ -3225,7 +3225,7 @@ c) maintaining and developing effective competition by preventing through ex ant
 <!-- Commentaires -->
 |}
 
-== Amendement 206 ==
+== Amendement 206 + ==
 {| border="1" style="border-spacing:0;" cellpadding="3"
 |-
 ! colspan="2" style="background-color: lightgreen;" |
