@@ -25,7 +25,7 @@ sections = data.scan(%r(<Amend>.+?</Amend>)m)
   
 template = ERB.new File.read('template.erb'), nil, '-'
 
-File.open "result.txt", "w" do |f|
+File.open "result.mediawiki", "w" do |f|
   sections.each do |xml|
     doc = Nokogiri::XML(xml)
 
