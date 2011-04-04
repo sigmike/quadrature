@@ -26,10 +26,42 @@ amendements = sections.map do |xml|
   num, note = doc.css('NumAm').text.split(' ', 2)
   note.gsub!(/\s/, '') if note
   
+  color = case note.to_s.gsub(/[^-+]/, '')
+    when "--"
+      "green"
+    when "-"
+      "lightgreen"
+    when "++"
+      "red"
+    when "+"
+      "lightred"
+    when ""
+      "lightgrey"
+    else
+      raise "Invalid note: #{note.inspect}"
+  end
+  
+  infos = xml.scan(%r(Text proposed by the Commission\nAmendment\n(.+)\nOr.)m).first
+  raise "No info found" unless infos
+  
+  
+  infos = infos.first.split(/\n/)
+
+  commission_rows = []
+  amendement_rows = []
+  infos.each_slice(2) do |commission, amendement|
+    commission_rows << commission
+    amendement_rows << amendement
+  end
+  
   {
     :num => num,
     :note => note,
+    :color => color,
     :members => doc.css('Members').text,
+    :article => doc.css('Article').text,
+    :commission_rows => commission_rows,
+    :amendement_rows => amendement_rows,
   }
 end
 
