@@ -20,12 +20,22 @@ files.each do |type|
     name = CGI::unescape(name)
     #name = Iconv.iconv("utf-8", "iso8859-15", name).first
     names = name.split("_")
-    language = names.pop
+    
+    language = names.last.dup
+      
+    language.gsub!(/\s/, "")
+    if language.size == 2
+      names.pop
+    else
+      language = nil
+    end
     
     annex = names.index { |part| part =~ /^annex/ }
     if annex
       names[annex..-1] = []
     end
+    
+    raise "no name on #{url}" if names.empty?
     
     name = names.map(&:capitalize).join(" ")
     #name = "#{name} (#{language})"
@@ -36,8 +46,10 @@ files.each do |type|
     else
       answer.files << url
     end
-    answer.languages << language
-    answer.languages.uniq!
+    if language
+      answer.languages << language
+      answer.languages.uniq!
+    end
   end
 
   answers.sort.each do |name, answer|

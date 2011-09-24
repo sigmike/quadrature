@@ -48,14 +48,6 @@ European Fashion Council: !ruby/struct:Answer
 
   languages: 
   - en
-"": !ruby/struct:Answer 
-  name: ""
-  files: 
-  - https://circabc.europa.eu/d/d/workspace/SpacesStore/318e33ff-694a-4485-9755-dde97697d148/fast.pdf
-  annexes: []
-
-  languages: 
-  - fast
 Voez: !ruby/struct:Answer 
   name: Voez
   files: 
@@ -338,7 +330,7 @@ Aepoc: !ruby/struct:Answer
   annexes: []
 
   languages: 
-  - " en"
+  - en
 Rim: !ruby/struct:Answer 
   name: Rim
   files: 
@@ -676,6 +668,14 @@ Faep: !ruby/struct:Answer
 
   languages: 
   - en
+Fast: !ruby/struct:Answer 
+  name: Fast
+  files: 
+  - https://circabc.europa.eu/d/d/workspace/SpacesStore/318e33ff-694a-4485-9755-dde97697d148/fast.pdf
+  annexes: []
+
+  languages: []
+
 Danish Patent Agents Association: !ruby/struct:Answer 
   name: Danish Patent Agents Association
   files: 
