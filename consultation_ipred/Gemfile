@@ -1,4 +1,4 @@
 source "http://rubygems.org"
 
-gem 'nokogiri'
 gem 'selenium-webdriver'
+gem 'mediawiki-gateway', :git => "git://github.com/piglop/mediawiki-gateway.git"

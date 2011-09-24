@@ -1,11 +1,24 @@
+GIT
+  remote: git://github.com/piglop/mediawiki-gateway.git
+  revision: 745f3c9395fd68805f18d7a93d5857a0dd43e98b
+  specs:
+    mediawiki-gateway (0.4.3)
+      activesupport
+      rest-client (>= 1.3.0)
+
 GEM
   remote: http://rubygems.org/
   specs:
+    activesupport (3.1.0)
+      multi_json (~> 1.0)
     childprocess (0.2.2)
       ffi (~> 1.0.6)
     ffi (1.0.9)
     json_pure (1.6.1)
-    nokogiri (1.5.0)
+    mime-types (1.16)
+    multi_json (1.0.3)
+    rest-client (1.6.7)
+      mime-types (>= 1.16)
     rubyzip (0.9.4)
     selenium-webdriver (2.7.0)
       childprocess (>= 0.2.1)
@@ -17,5 +30,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  nokogiri
+  mediawiki-gateway!
   selenium-webdriver

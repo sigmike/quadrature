@@ -1,0 +1,13 @@
+====<%= name_with_languages %>====
+
+<% (answer.files + answer.annexes).each do |file| %>
+* [<%= file %> <%= CGI.unescape(File.basename(URI.parse(file).path)) %>]
+<% end %>
+
+=====coopération=====
+
+=====measures=====
+
+=====filtering=====
+
+
