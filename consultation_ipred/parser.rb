@@ -3,54 +3,53 @@ require "rubygems"
 require "bundler/setup"
 require 'cgi'
 require 'iconv'
+require 'answer'
+require 'yaml'
 
-files = %w(organisations.links public_authorities.links)
+files = %w(organisations public_authorities)
 
-file = files.first
+files.each do |type|
+  file = type + ".links"
 
-links = File.read(file).split("\n")
+  links = File.read(file).split("\n")
 
-class Answer < Struct.new(:name, :files, :annexes, :languages)
-  def initialize(*args)
-    super
-    self.annexes ||= []
-    self.files ||= []
-    self.languages ||= []
+  answers = {}
+
+  links.each do |url|
+    name = File.basename(URI.parse(url).path, ".pdf")
+    name = CGI::unescape(name)
+    #name = Iconv.iconv("utf-8", "iso8859-15", name).first
+    names = name.split("_")
+    language = names.pop
+    
+    annex = names.index { |part| part =~ /^annex/ }
+    if annex
+      names[annex..-1] = []
+    end
+    
+    name = names.map(&:capitalize).join(" ")
+    #name = "#{name} (#{language})"
+    
+    answer = answers[name] ||= Answer.new(name)
+    if annex
+      answer.annexes << url
+    else
+      answer.files << url
+    end
+    answer.languages << language
+    answer.languages.uniq!
   end
-end
 
-answers = {}
-
-links.each do |url|
-  name = File.basename(URI.parse(url).path, ".pdf")
-  name = CGI::unescape(name)
-  #name = Iconv.iconv("utf-8", "iso8859-15", name).first
-  names = name.split("_")
-  language = names.pop
-  
-  annex = names.index { |part| part =~ /^annex/ }
-  if annex
-    names[annex..-1] = []
+  answers.sort.each do |name, answer|
+    puts "#{answer.name} (#{answer.languages.join(",")})"
+    (answer.files + answer.annexes).each do |url|
+      # p answer
+      name = File.basename(URI.parse(url).path)
+      puts "  " + name
+    end
   end
-  
-  name = names.map(&:capitalize).join(" ")
-  #name = "#{name} (#{language})"
-  
-  answer = answers[name] ||= Answer.new(name)
-  if annex
-    answer.annexes << url
-  else
-    answer.files << url
-  end
-  answer.languages << language
-  answer.languages.uniq!
-end
 
-answers.sort.each do |name, answer|
-  puts "#{answer.name} (#{answer.languages.join(",")})"
-  (answer.files + answer.annexes).each do |url|
-    # p answer
-    name = File.basename(URI.parse(url).path)
-    puts "  " + name
+  File.open(type + ".yaml", "w") do |f|
+    f.puts answers.to_yaml
   end
 end
