@@ -12,6 +12,18 @@ doc = Nokogiri::HTML(File.read(file))
 links = doc.css("a").map do |link|
   href =link["href"] 
   href if href =~ /\.pdf$/i
-end.compact
+end.compact.uniq { |url| URI.parse(url).path }
 
-p links
+parsed_names = []
+
+links.each do |url|
+  name = File.basename(URI.parse(url).path, ".pdf")
+  next if parsed_names.include?(name)
+  parsed_names << name
+  names = name.split("_")
+  language = names.pop
+  
+  name = names.map(&:capitalize).join(" ")
+  p [name, language]
+end
+
