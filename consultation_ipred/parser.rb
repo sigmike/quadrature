@@ -8,6 +8,7 @@ require 'yaml'
 
 files = %w(organisations public_authorities)
 
+all_answers = {}
 files.each do |type|
   file = type + ".links"
 
@@ -61,7 +62,9 @@ files.each do |type|
     end
   end
 
-  File.open(type + ".yaml", "w") do |f|
-    f.puts answers.to_yaml
-  end
+  all_answers[type] = answers
+end
+
+File.open("answers.yaml", "w") do |f|
+  f.puts all_answers.to_yaml
 end

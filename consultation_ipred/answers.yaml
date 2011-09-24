@@ -1,0 +1,1787 @@
+--- 
+public_authorities: 
+  Portugal: !ruby/struct:Answer 
+    name: Portugal
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/fcf00a0f-7d50-4423-8101-2deb638cd16e/portugal_pt.pdf
+    annexes: []
+
+    languages: 
+    - pt
+  Spain Ministry Of Justice: !ruby/struct:Answer 
+    name: Spain Ministry Of Justice
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/8c1ac475-47f7-486f-adc6-d68fddd7a141/spain_ministry_of_justice_es.pdf
+    annexes: []
+
+    languages: 
+    - es
+  Italy Ministry Of Agrifood: !ruby/struct:Answer 
+    name: Italy Ministry Of Agrifood
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/0c470e92-6585-442f-9d26-e76046744085/italy_ministry_of_agrifood_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Hungary Ministry Public  administration And Justice: !ruby/struct:Answer 
+    name: Hungary Ministry Public  administration And Justice
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/7668b8f8-3080-4de2-8a90-62c7d6be0e60/hungary_ministry_public_%20administration_and_justice_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Finland Ministry Of Empl And Economy: !ruby/struct:Answer 
+    name: Finland Ministry Of Empl And Economy
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/cce241c1-0810-4d19-b288-5c5f6d8e26d4/finland_ministry_of_empl_and_economy_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Romania: !ruby/struct:Answer 
+    name: Romania
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/919f019f-bb07-443d-801c-f6db3a668134/romania_en.pdf
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/046d1325-6cc6-4f8e-aee5-25e354b60f69/romania_ro.pdf
+    annexes: []
+
+    languages: 
+    - en
+    - ro
+  Bulgaria: !ruby/struct:Answer 
+    name: Bulgaria
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/3346b4d7-2171-428d-a9af-fe31a3dd67c9/bulgaria_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Ak Oesterreich: !ruby/struct:Answer 
+    name: Ak Oesterreich
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/39852257-57a4-4002-a6df-8b799661c3ea/ak_oesterreich_de.pdf
+    annexes: []
+
+    languages: 
+    - de
+  Lithuania Ministry Culture: !ruby/struct:Answer 
+    name: Lithuania Ministry Culture
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/d941e7ac-0ad0-4934-b05d-711f816b95e7/lithuania_ministry_culture_lt.pdf
+    annexes: []
+
+    languages: 
+    - lt
+  Wko Austria: !ruby/struct:Answer 
+    name: Wko Austria
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/df9bf458-a928-43c2-931e-fe722ca1e317/wko_austria_de.pdf
+    annexes: []
+
+    languages: 
+    - de
+  Italy Office Of The Prime Minister: !ruby/struct:Answer 
+    name: Italy Office Of The Prime Minister
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/71f09778-f7f6-4b49-af15-3dd02d03c42e/italy_office_of_the_prime_minister_it.pdf
+    annexes: []
+
+    languages: 
+    - it
+  France: !ruby/struct:Answer 
+    name: France
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/4edaf82a-d143-4a07-9880-e59529afc595/france.pdf
+    annexes: []
+
+    languages: []
+
+  Finnish Commerce Federation: !ruby/struct:Answer 
+    name: Finnish Commerce Federation
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/13b94e78-5719-4892-af14-469f47d8cf2d/finnish_commerce_federation_fi.pdf
+    annexes: []
+
+    languages: 
+    - fi
+  Belgium: !ruby/struct:Answer 
+    name: Belgium
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/32fe9217-6c5a-4b3b-a954-88e491337f7f/belgium_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Slovakia: !ruby/struct:Answer 
+    name: Slovakia
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/05142029-2e42-43d6-b4b8-0bb42d5e836a/slovakia_sk.pdf
+    annexes: []
+
+    languages: 
+    - sk
+  Latvia: !ruby/struct:Answer 
+    name: Latvia
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/0f084a74-d6ca-41e2-afe5-97b74f539ea3/latvia_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Danish Chamber Of Commerce: !ruby/struct:Answer 
+    name: Danish Chamber Of Commerce
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/295fb523-cbec-4f7f-b9f1-55ec2715652b/danish_chamber_of_commerce_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Poland Ministry Culture: !ruby/struct:Answer 
+    name: Poland Ministry Culture
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/e4d28106-09a7-4989-8aad-cfbe36fdfc02/poland_ministry_culture_en.pdf
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/b32505cb-63b5-4828-a4dd-81ba03fe8a43/poland_ministry_culture_pl.pdf
+    annexes: []
+
+    languages: 
+    - en
+    - pl
+  Parti Pirate: !ruby/struct:Answer 
+    name: Parti Pirate
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/54f046e5-c3b3-4b75-8394-0f84d204ae97/parti_pirate_fr.pdf
+    annexes: []
+
+    languages: 
+    - fr
+  Malta: !ruby/struct:Answer 
+    name: Malta
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/c8884ac2-d625-44e5-a3a7-7e7b98b111ac/malta_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Denmark: !ruby/struct:Answer 
+    name: Denmark
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/f37efa48-d5c4-4b22-8d87-893d50170a70/denmark_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Netherlands Ministry Security Justice: !ruby/struct:Answer 
+    name: Netherlands Ministry Security Justice
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/11bc6214-9b28-4d89-a1f6-58bf0a4e1abd/netherlands_ministry_security_justice_nl.pdf
+    annexes: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/607ebe73-a7ae-489e-8f14-2dff48521320/netherlands_ministry_security_justice_annex1_nl.pdf
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/36934912-7ec6-4f14-aa80-e8780fa56cb0/netherlands_ministry_security_justice_annex2_nl.pdf
+    languages: 
+    - nl
+  Ireland: !ruby/struct:Answer 
+    name: Ireland
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/ddc21a57-b983-4ede-a02f-59dd3f2bc8a6/ireland_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Hadopi: !ruby/struct:Answer 
+    name: Hadopi
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/c2cdc614-5073-4306-8293-2c40c9fa84da/hadopi_fr.pdf
+    annexes: []
+
+    languages: 
+    - fr
+  Czech Republic: !ruby/struct:Answer 
+    name: Czech Republic
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/2c8a3544-c150-4fc0-941b-6496375682b8/czech_republic_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Uk Governement: !ruby/struct:Answer 
+    name: Uk Governement
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/6436e9a1-1ba6-414e-af8c-d50fa3ac2c52/uk_governement.pdf
+    annexes: []
+
+    languages: []
+
+  Germany: !ruby/struct:Answer 
+    name: Germany
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/0ef00dda-f4be-4950-bfad-f48baf11cb0c/germany_de.pdf
+    annexes: []
+
+    languages: 
+    - de
+  European Parliament Committee On Legal Affairs: !ruby/struct:Answer 
+    name: European Parliament Committee On Legal Affairs
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/fa293e2c-cfae-43ed-abcb-59ac2d31a4fb/european_parliament_committee_on_legal_affairs_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Deutscher Bundestag: !ruby/struct:Answer 
+    name: Deutscher Bundestag
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/82d024ea-ce88-4974-9122-2bf368f91906/deutscher_bundestag_de.pdf
+    annexes: []
+
+    languages: 
+    - de
+organisations: 
+  Unifab: !ruby/struct:Answer 
+    name: Unifab
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/b8ab9e4e-0fb6-413d-b390-bb9263a4f4cb/unifab_fr.pdf
+    annexes: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/382c270f-d9ce-4e91-bca9-0c4238ce0678/unifab_annexe1_fr.pdf
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/af813a83-6a47-4d24-bce7-a269f0d2fde9/unifab_annexe2_fr.pdf
+    languages: 
+    - fr
+  Fdn: !ruby/struct:Answer 
+    name: Fdn
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/87a277e1-82c7-4565-88fe-3b64c7eca247/fdn_fr.pdf
+    annexes: []
+
+    languages: 
+    - fr
+  Gesac: !ruby/struct:Answer 
+    name: Gesac
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/5fc605c1-98f2-46dd-8089-11ece69f5256/gesac_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Cmba: !ruby/struct:Answer 
+    name: Cmba
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/58b44de7-8def-471d-aa45-63a3f1cd59de/cmba_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Dbf: !ruby/struct:Answer 
+    name: Dbf
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/5eb4d9b5-2937-4969-a9ff-6880a2898b77/dbf_fr.pdf
+    annexes: []
+
+    languages: 
+    - fr
+  European Fashion Council: !ruby/struct:Answer 
+    name: European Fashion Council
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/e312a94b-a641-4015-adf8-3dabe29e1c02/european_fashion_council_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Voez: !ruby/struct:Answer 
+    name: Voez
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/736e3f17-55ff-4a5e-817d-d97470939f48/voez_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Lyhty: !ruby/struct:Answer 
+    name: Lyhty
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/b7351d7e-8ff6-462c-b3af-1bdfecc14e50/lyhty_fi.pdf
+    annexes: []
+
+    languages: 
+    - fi
+  Lesi: !ruby/struct:Answer 
+    name: Lesi
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/80053a23-4ace-4402-aacc-c036840d4cf3/lesi_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  European Publishers Council: !ruby/struct:Answer 
+    name: European Publishers Council
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/15566735-2c07-444a-b70e-674a450b7021/european_publishers_council_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Ccia: !ruby/struct:Answer 
+    name: Ccia
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/47cc8088-b2a4-4840-a748-b9bd8c0fdd7b/ccia_en.pdf
+    annexes: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/19ba1b24-745f-44f6-98eb-4cfdfb8b27a4/ccia_annex1_en.pdf
+    languages: 
+    - en
+  Aim: !ruby/struct:Answer 
+    name: Aim
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/31616ef7-c8b1-4789-aff5-a4bbe1a76638/aim_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Bdwi: !ruby/struct:Answer 
+    name: Bdwi
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/1f23d2e6-91ab-4f53-a644-e3230adfad8b/bdwi_de.pdf
+    annexes: []
+
+    languages: 
+    - de
+  Deutscher Anwaltverein: !ruby/struct:Answer 
+    name: Deutscher Anwaltverein
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/71cc27c4-a4e8-4d1e-8939-309c06b33b05/deutscher_anwaltverein_de.pdf
+    annexes: []
+
+    languages: 
+    - de
+  Boev: !ruby/struct:Answer 
+    name: Boev
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/c32ae6a5-77f0-4d3f-ac62-e417b74b1035/boev_de.pdf
+    annexes: []
+
+    languages: 
+    - de
+  Dacs: !ruby/struct:Answer 
+    name: Dacs
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/10628e42-90df-4141-a628-5042f2ba97ab/dacs_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Tie: !ruby/struct:Answer 
+    name: Tie
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/bfb06c6d-b49c-499a-aedb-f59d7b26f573/tie_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Assotelecomunicazioni Asstel: !ruby/struct:Answer 
+    name: Assotelecomunicazioni Asstel
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/5f442c47-b40b-4dc0-a697-3503e138037e/assotelecomunicazioni_asstel_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Alstom: !ruby/struct:Answer 
+    name: Alstom
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/ec4b6d44-2f6c-4895-8d82-d28c8924e569/alstom_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Deutscher Markenverband: !ruby/struct:Answer 
+    name: Deutscher Markenverband
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/ab300bb4-7063-4070-9aa7-5d21e66f2734/deutscher_markenverband_de.pdf
+    annexes: []
+
+    languages: 
+    - de
+  Bascap: !ruby/struct:Answer 
+    name: Bascap
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/e564b4ac-0698-4218-938d-112cd24d8d9e/bascap_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Sroc: !ruby/struct:Answer 
+    name: Sroc
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/d09ae4e7-8c38-4a00-88e3-bffa9583541e/sroc_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  "Johan Schl\xEF\xBF\xBDter Advokatfirma": !ruby/struct:Answer 
+    name: "Johan Schl\xEF\xBF\xBDter Advokatfirma"
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/8459d8d4-9931-4cfb-bd4c-83135f980333/johan_schl%ef%bf%bdter_advokatfirma_en.pdf
+    annexes: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/1112d983-66e5-4202-8c6b-9723120805ca/johan_schl%ef%bf%bdter_advokatfirma_annexe_dk.pdf
+    languages: 
+    - dk
+    - en
+  Act: !ruby/struct:Answer 
+    name: Act
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/41729d92-644e-49d7-b81f-57e71784268d/act_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Grur: !ruby/struct:Answer 
+    name: Grur
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/a7a6c87d-3fac-4525-824a-e1f29c57a3e1/grur_de.pdf
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/df3d709a-410f-4bd8-b5fa-2ac019df9c36/grur_en.pdf
+    annexes: []
+
+    languages: 
+    - de
+    - en
+  Comite Colbert: !ruby/struct:Answer 
+    name: Comite Colbert
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/e3e57273-61ce-479e-9d03-0f860fa1a255/comite_colbert_fr.pdf
+    annexes: []
+
+    languages: 
+    - fr
+  Ebay: !ruby/struct:Answer 
+    name: Ebay
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/f65df245-3c7e-4d21-abcb-aef6d4a438cb/ebay_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Ebca: !ruby/struct:Answer 
+    name: Ebca
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/e89686b5-e91c-4e12-83bf-362830fb9bcf/ebca_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Ppl Uk: !ruby/struct:Answer 
+    name: Ppl Uk
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/570f8938-d25a-4f28-87e3-787ea2fc5586/ppl_uk_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Iuridicum Remedium: !ruby/struct:Answer 
+    name: Iuridicum Remedium
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/3e59c1c4-2c14-492c-a526-bd60859b5e44/iuridicum_remedium_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Ebf Contribution: !ruby/struct:Answer 
+    name: Ebf Contribution
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/e7c8858f-0e19-4fca-ba9d-5f53553c1b1f/ebf_contribution_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Deutsche Post Dhl: !ruby/struct:Answer 
+    name: Deutsche Post Dhl
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/165d8a2f-4804-433d-addf-1ca26bbc9577/deutsche_post_dhl_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Fsfe: !ruby/struct:Answer 
+    name: Fsfe
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/4e2dcf5e-a783-46e8-9a2b-9e6453f83552/fsfe_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  European Producers Club: !ruby/struct:Answer 
+    name: European Producers Club
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/0092e2b3-fb55-43f9-8772-2e0e2119a1a9/european_producers_club_fr.pdf
+    annexes: []
+
+    languages: 
+    - fr
+  Alliance Against Ip Theft: !ruby/struct:Answer 
+    name: Alliance Against Ip Theft
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/7f814509-4d22-429b-acbc-b26e65c9a03c/alliance_against_ip_theft_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Vdma: !ruby/struct:Answer 
+    name: Vdma
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/4f5e8896-dfc4-4248-a4b0-1f6b31db8266/vdma_de.pdf
+    annexes: []
+
+    languages: 
+    - de
+  Rga: !ruby/struct:Answer 
+    name: Rga
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/8a060404-4f6d-4656-81a4-741e5daef5bb/rga_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Kepka: !ruby/struct:Answer 
+    name: Kepka
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/d6b371c9-7387-4fc0-952e-6732182c017f/kepka_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Gleiss Lutz: !ruby/struct:Answer 
+    name: Gleiss Lutz
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/7c232c01-51de-4d66-b6e6-191bff479386/gleiss_lutz_en.pdf
+    annexes: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/fa10a09a-bbba-4b90-80d3-2f9b48ad4fe2/gleiss_lutz_annex_en.pdf
+    languages: 
+    - en
+  Fondation Giacometti: !ruby/struct:Answer 
+    name: Fondation Giacometti
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/8086e5da-46e8-436e-b9a4-03297bd12dd5/fondation_giacometti_fr.pdf
+    annexes: []
+
+    languages: 
+    - fr
+  Aepoc: !ruby/struct:Answer 
+    name: Aepoc
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/780b1531-ab11-45cc-bade-fb1cce032c8c/aepoc_%20en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Rim: !ruby/struct:Answer 
+    name: Rim
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/bd8b6686-269c-4d44-8ce2-babdfc2e2212/rim_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Ifrro: !ruby/struct:Answer 
+    name: Ifrro
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/546862cb-f32e-4a56-b6a2-37ce064af46d/ifrro_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Consumer Focus: !ruby/struct:Answer 
+    name: Consumer Focus
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/3094d35d-cc2c-4b05-933e-d215e31ee21a/consumer_focus_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Efpia: !ruby/struct:Answer 
+    name: Efpia
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/a266982a-3721-4b09-9755-69cafa8b1e74/efpia_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Hai Europe: !ruby/struct:Answer 
+    name: Hai Europe
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/1a676af8-7ed6-488a-80ad-603f09ba0682/hai_europe_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Constant: !ruby/struct:Answer 
+    name: Constant
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/8507f6ce-2f3b-495c-8c6f-8797630e11f1/constant_fr.pdf
+    annexes: []
+
+    languages: 
+    - fr
+  Fesi: !ruby/struct:Answer 
+    name: Fesi
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/f3d9fc63-bfcb-4e51-9a76-00693dd767c3/fesi_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Cnac: !ruby/struct:Answer 
+    name: Cnac
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/cc085c36-517c-463c-8f33-41b321676b0a/cnac_fr.pdf
+    annexes: []
+
+    languages: 
+    - fr
+  Ver.di: !ruby/struct:Answer 
+    name: Ver.di
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/f906c314-0c51-43eb-a3cb-d9e57cdcbb5b/ver.di_de.pdf
+    annexes: []
+
+    languages: 
+    - de
+  Uk Music: !ruby/struct:Answer 
+    name: Uk Music
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/edbdf7c4-d2e8-4efa-9d1a-54e45bad88a0/uk_music_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Sabam Questionnaire: !ruby/struct:Answer 
+    name: Sabam Questionnaire
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/c558df2a-232c-4de1-80c1-8050bb0b9313/sabam_questionnaire_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Pirelli: !ruby/struct:Answer 
+    name: Pirelli
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/4e62764b-2b5c-464c-8014-fb8d29099106/pirelli_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  La-ex Fcforum: !ruby/struct:Answer 
+    name: La-ex Fcforum
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/17ee6f3c-a1ee-44f3-843a-6bd4c17404f8/la-ex_fcforum_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Aippi General Secretariat: !ruby/struct:Answer 
+    name: Aippi General Secretariat
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/e5cc4084-9090-4e27-9722-eef16f6aa433/aippi_general_secretariat_en.pdf
+    annexes: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/a8fd925f-7223-4fa0-bb16-6a617946f153/aippi_general_secretariat_annex1_q163%20_en.pdf
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/d2e27f08-ff21-4682-8f1b-f41b4ef57bf9/aippi_general_secretariat_annex2_q216_resolution_en.pdf
+    languages: 
+    - en
+  Sek: !ruby/struct:Answer 
+    name: Sek
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/2234b16e-f413-4603-aac1-2c5852d03b94/sek_fi.pdf
+    annexes: []
+
+    languages: 
+    - fi
+  Nuovo Imaie: !ruby/struct:Answer 
+    name: Nuovo Imaie
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/37592f52-a280-4f9d-8dec-2f67b09ec87a/nuovo_imaie_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Mediaset: !ruby/struct:Answer 
+    name: Mediaset
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/e7d55a7e-fc2e-4302-a126-259f85d79ea8/mediaset_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  La Quadrature Du Net: !ruby/struct:Answer 
+    name: La Quadrature Du Net
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/586bd324-b94a-4334-98b6-ee1bfabcf49f/la_quadrature_du_net_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Edps: !ruby/struct:Answer 
+    name: Edps
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/e3946b92-b920-4d1f-a57b-4cf57e128b3c/edps_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  April: !ruby/struct:Answer 
+    name: April
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/41abdeb6-1546-4ae3-839e-57d1f3e21e4f/april_fr.pdf
+    annexes: []
+
+    languages: 
+    - fr
+  Epa: !ruby/struct:Answer 
+    name: Epa
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/b8c6d0f5-eb14-418c-b9a8-c274ef21ea8a/epa_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Eli Lilly: !ruby/struct:Answer 
+    name: Eli Lilly
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/23adb508-cb3b-4d38-8372-85eba6317398/eli_lilly_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Ifpi: !ruby/struct:Answer 
+    name: Ifpi
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/e0dd15b2-88c9-42b8-9ef2-511fa2da9329/ifpi_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Ffii: !ruby/struct:Answer 
+    name: Ffii
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/9feca5af-9994-49ff-8520-58bce65f2899/ffii_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Fimi: !ruby/struct:Answer 
+    name: Fimi
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/5d5a26a1-d4c7-4a0f-a437-03eecefe3b70/fimi_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Gsma  europe: !ruby/struct:Answer 
+    name: Gsma  europe
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/a5dfdaf8-50c8-4fd0-9e1e-f6a50efdd5d3/gsma_%20europe_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Eaea: !ruby/struct:Answer 
+    name: Eaea
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/acfef7a7-cf13-496a-9e38-79e96078cb30/eaea_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Cepi Fera Fiad Fiapf Ivf: !ruby/struct:Answer 
+    name: Cepi Fera Fiad Fiapf Ivf
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/94f7bb94-2d03-4f38-8f39-86956130e6d4/cepi_fera_fiad_fiapf_ivf_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Confindustria: !ruby/struct:Answer 
+    name: Confindustria
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/6a2a0320-7cf3-4d5b-9de7-d9d39ed9025f/confindustria_it.pdf
+    annexes: []
+
+    languages: 
+    - it
+  Bouygues: !ruby/struct:Answer 
+    name: Bouygues
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/2d2a837c-d4a3-4287-baee-387133f8963f/bouygues_fr.pdf
+    annexes: []
+
+    languages: 
+    - fr
+  Qdlaty: !ruby/struct:Answer 
+    name: Qdlaty
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/d5b4db92-5009-4fac-bb17-bcfacd6b29b0/qdlaty_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Medef: !ruby/struct:Answer 
+    name: Medef
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/971040a7-5890-45fc-bdc1-6416edf7294d/medef_fr.pdf
+    annexes: []
+
+    languages: 
+    - fr
+  Edima: !ruby/struct:Answer 
+    name: Edima
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/e56d2a80-6b93-4b00-b90d-dc51713aa9fe/edima_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Allegroup: !ruby/struct:Answer 
+    name: Allegroup
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/e8756aa3-77ac-4c2e-bc8f-d51e5bc66eed/allegroup_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Pin Sme: !ruby/struct:Answer 
+    name: Pin Sme
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/de79eb43-92db-441f-aeb4-073c78b31604/pin_sme_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Egdf: !ruby/struct:Answer 
+    name: Egdf
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/cd786d81-c5e5-4eff-950c-ea15029d6693/egdf_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Egma: !ruby/struct:Answer 
+    name: Egma
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/21d6a615-d51b-47ab-8f65-665cc162f7be/egma_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Esa: !ruby/struct:Answer 
+    name: Esa
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/eef32134-ef69-42b0-a320-247c4c025e7f/esa_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Danske Universiteter: !ruby/struct:Answer 
+    name: Danske Universiteter
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/f1af8778-3a4e-4323-bbe8-6a3d0bf59c31/danske_universiteter_dk.pdf
+    annexes: []
+
+    languages: 
+    - dk
+  Qxl Ricardo Greece: !ruby/struct:Answer 
+    name: Qxl Ricardo Greece
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/a54f18ae-482c-404c-b170-de11cd373226/qxl_ricardo_greece_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Mih: !ruby/struct:Answer 
+    name: Mih
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/449b9abc-0001-40b2-ae7c-d456d09a30c2/mih_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Faep: !ruby/struct:Answer 
+    name: Faep
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/929c28b5-de44-4774-9849-311e5ffc0ec8/faep_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Fast: !ruby/struct:Answer 
+    name: Fast
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/318e33ff-694a-4485-9755-dde97697d148/fast.pdf
+    annexes: []
+
+    languages: []
+
+  Danish Patent Agents Association: !ruby/struct:Answer 
+    name: Danish Patent Agents Association
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/6cc97517-3046-451f-82e3-e663ba9ee2d6/danish_patent_agents_association_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Tsic: !ruby/struct:Answer 
+    name: Tsic
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/90ee7074-fa8a-4c32-a5f6-9e343d5774ef/tsic_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Royal Tnt Post Taxud: !ruby/struct:Answer 
+    name: Royal Tnt Post Taxud
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/b3802de1-bc22-46af-9c17-f2710f8a7a5b/royal_tnt_post_taxud_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Ip Federation: !ruby/struct:Answer 
+    name: Ip Federation
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/cfcba58f-3e0d-4a10-93f0-cd160e925097/ip_federation_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Fep: !ruby/struct:Answer 
+    name: Fep
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/bf7936bb-07e1-4496-871a-1c462bd6a9b4/fep_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Cefic: !ruby/struct:Answer 
+    name: Cefic
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/5e963609-8ec2-4abd-bd15-aa4989ff5bf9/cefic_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Vno Ncw Mkb Nederland: !ruby/struct:Answer 
+    name: Vno Ncw Mkb Nederland
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/6b6b87b2-97ad-4cd5-9bf0-76ad12aa6bd2/vno_ncw_mkb_nederland_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Bwin Party: !ruby/struct:Answer 
+    name: Bwin Party
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/21fd1591-2c1e-4834-8036-527571b7e753/bwin_party_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Gi Dpi: !ruby/struct:Answer 
+    name: Gi Dpi
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/a4d2ca14-e574-4a1d-aa83-54524247319f/gi_dpi_es.pdf
+    annexes: []
+
+    languages: 
+    - es
+  Ttvk Finnish Organisation: !ruby/struct:Answer 
+    name: Ttvk Finnish Organisation
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/b47aa65a-480a-4cd7-b23b-74b9e37b5557/ttvk_finnish_organisation_fi.pdf
+    annexes: []
+
+    languages: 
+    - fi
+  Apm: !ruby/struct:Answer 
+    name: Apm
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/e675cf2a-ff8c-4b04-842a-c74556f8271e/apm_de.pdf
+    annexes: []
+
+    languages: 
+    - de
+  Aukro Slovakia: !ruby/struct:Answer 
+    name: Aukro Slovakia
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/ef08c7cf-2060-4492-8ba4-47c1e3cf0d84/aukro_slovakia_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Ccip: !ruby/struct:Answer 
+    name: Ccip
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/49e01323-f1b4-4db2-a219-cb295325943f/ccip_fr.pdf
+    annexes: []
+
+    languages: 
+    - fr
+  Vit Hnilica: !ruby/struct:Answer 
+    name: Vit Hnilica
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/1a08f417-28e6-4e81-a766-6547cf851983/vit_hnilica_cz.pdf
+    annexes: []
+
+    languages: 
+    - cz
+  Brein: !ruby/struct:Answer 
+    name: Brein
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/a2cd211f-7d54-400e-b28d-be2040a9fc02/brein_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Bdzv Vdz En: !ruby/struct:Answer 
+    name: Bdzv Vdz En
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/d153c833-b9d4-48f1-8f31-99724c48ab04/bdzv_vdz_en_de.pdf
+    annexes: []
+
+    languages: 
+    - de
+  Fondation Le Corbusier: !ruby/struct:Answer 
+    name: Fondation Le Corbusier
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/d1b714f8-7863-46a4-899b-93a71837a155/fondation_le_corbusier_fr.pdf
+    annexes: []
+
+    languages: 
+    - fr
+  Upu: !ruby/struct:Answer 
+    name: Upu
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/26e0b82a-5f28-4b45-be48-b23373062ee9/upu_en.pdf
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/e0a73783-9750-4bcd-b7d9-3a9a88b7736b/upu_fr.pdf
+    annexes: []
+
+    languages: 
+    - en
+    - fr
+  Teva: !ruby/struct:Answer 
+    name: Teva
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/d1fd2634-197c-49bd-a75e-9a77ddf296c7/teva_en.pdf
+    annexes: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/b77582cf-bb4b-4f39-9d7f-14a3d741352b/teva_annex1_en.pdf
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/771537e9-3277-4ba1-ae08-fedecf4cc1bb/teva_annex2_en.pdf
+    languages: 
+    - en
+  Telecom Italia: !ruby/struct:Answer 
+    name: Telecom Italia
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/21bf8338-36b9-47b7-bb99-49bcfe86049d/telecom_italia_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Aippi Finland: !ruby/struct:Answer 
+    name: Aippi Finland
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/ba03b69f-1dd3-426b-8868-5df390683c68/aippi_finland_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Apram: !ruby/struct:Answer 
+    name: Apram
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/610921c5-4aa2-4650-b88a-6eac42ec2391/apram_fr.pdf
+    annexes: []
+
+    languages: 
+    - fr
+  Google: !ruby/struct:Answer 
+    name: Google
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/3b771082-ce5d-4eeb-aa53-bdf11809fa80/google_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Isfe: !ruby/struct:Answer 
+    name: Isfe
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/c1e71bc7-206d-4533-b570-815b58b203c4/isfe_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Confindustria Servizi Innovativi E Tecnologici: !ruby/struct:Answer 
+    name: Confindustria Servizi Innovativi E Tecnologici
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/836ff77a-fb54-4efd-b4a3-8dd106541754/confindustria_servizi_innovativi_e_tecnologici_it.pdf
+    annexes: []
+
+    languages: 
+    - it
+  Euroispa: !ruby/struct:Answer 
+    name: Euroispa
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/c05400be-7ae7-463c-b75b-4d85418ab812/euroispa_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Swedish Publishers Association: !ruby/struct:Answer 
+    name: Swedish Publishers Association
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/f064aa0e-7e1e-40ad-b4a9-5c823891525a/swedish_publishers_association_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Royal Tnt Post: !ruby/struct:Answer 
+    name: Royal Tnt Post
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/f82a0042-698b-4761-bfdd-72cd244237a8/royal_tnt_post_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Aippi Belgium: !ruby/struct:Answer 
+    name: Aippi Belgium
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/ebe24c69-9d9f-4355-8e69-468e49cd5758/aippi_belgium_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Tuotos: !ruby/struct:Answer 
+    name: Tuotos
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/96aad758-9ca0-4719-ab28-79fed54ecdbf/tuotos_fi.pdf
+    annexes: []
+
+    languages: 
+    - fi
+  "Suomen Yritt\xEF\xBF\xBDj\xEF\xBF\xBDt": !ruby/struct:Answer 
+    name: "Suomen Yritt\xEF\xBF\xBDj\xEF\xBF\xBDt"
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/bcd4f812-adf4-410d-86e8-72071b7bc453/suomen_yritt%ef%bf%bdj%ef%bf%bdt_fi.pdf
+    annexes: []
+
+    languages: 
+    - fi
+  Philips: !ruby/struct:Answer 
+    name: Philips
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/f93a4842-9cdf-414f-b11c-5c6d4753c48a/philips_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Org: !ruby/struct:Answer 
+    name: Org
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/7d4105ce-0f19-411b-bcbb-21a8898f68bc/org_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Internet Society: !ruby/struct:Answer 
+    name: Internet Society
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/de3db01d-b4ab-4f93-ad12-a374d26de812/internet_society_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Deutsche Patentanwaltskammer: !ruby/struct:Answer 
+    name: Deutsche Patentanwaltskammer
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/8bf2ef5b-c658-4b80-87e8-0e15be26a976/deutsche_patentanwaltskammer_de.pdf
+    annexes: []
+
+    languages: 
+    - de
+  Andema: !ruby/struct:Answer 
+    name: Andema
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/e3f6e4f8-03c4-4478-8c22-471c74f68dbf/andema_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Egeda: !ruby/struct:Answer 
+    name: Egeda
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/ce4b344f-cfbd-494a-8fae-e817165887d4/egeda_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Stm: !ruby/struct:Answer 
+    name: Stm
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/d82ce305-6129-4f07-be99-cd4444d813b7/stm_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Saa: !ruby/struct:Answer 
+    name: Saa
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/50894d99-5f22-43f6-8f8b-800f3df46c6d/saa_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Mpa: !ruby/struct:Answer 
+    name: Mpa
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/f1009a80-8c40-45ce-b2a8-a9431848df99/mpa_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Association Francaise Ubuntu: !ruby/struct:Answer 
+    name: Association Francaise Ubuntu
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/e4e09645-6672-490b-bcdd-e58ec69dd08b/association_francaise_ubuntu_fr.pdf
+    annexes: []
+
+    languages: 
+    - fr
+  Cable Europe: !ruby/struct:Answer 
+    name: Cable Europe
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/a8087e70-2849-46e7-9cd1-5ecbdbaf1479/cable_europe_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Union: !ruby/struct:Answer 
+    name: Union
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/8cb19bdd-1797-4683-930f-4bb8fc09ed5c/union_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Ecta: !ruby/struct:Answer 
+    name: Ecta
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/09728c3e-3ebd-4c2c-bd38-4ece38e81909/ecta_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Deutsche Telekom: !ruby/struct:Answer 
+    name: Deutsche Telekom
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/1bd7ec1e-5bf7-4c51-8626-2a3c55defdff/deutsche_telekom_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Danish Copyright Council: !ruby/struct:Answer 
+    name: Danish Copyright Council
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/86e78f3e-48da-4f59-b823-d844989bc372/danish_copyright_council_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Tee: !ruby/struct:Answer 
+    name: Tee
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/2a63da05-5ece-4b45-8384-ac8d4231b9db/tee_fr.pdf
+    annexes: []
+
+    languages: 
+    - fr
+  Sazas: !ruby/struct:Answer 
+    name: Sazas
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/17172130-1185-4b7e-b11d-f6416f5e39b2/sazas_si.pdf
+    annexes: []
+
+    languages: 
+    - si
+  Ceipi: !ruby/struct:Answer 
+    name: Ceipi
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/451321ab-ce2e-4e52-9fa8-f8540f5943ea/ceipi_fr.pdf
+    annexes: []
+
+    languages: 
+    - fr
+  Apt: !ruby/struct:Answer 
+    name: Apt
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/34be8eff-9804-46b4-8fe7-c46b7941e4af/apt_it.pdf
+    annexes: []
+
+    languages: 
+    - it
+  Marques: !ruby/struct:Answer 
+    name: Marques
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/4bb04002-969a-4c56-9306-af4aac5cb16e/marques_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Aukro Czech Rep: !ruby/struct:Answer 
+    name: Aukro Czech Rep
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/4c878238-2549-4876-82ad-da9f7a37c061/aukro_czech_rep_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Edri: !ruby/struct:Answer 
+    name: Edri
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/9e1385e4-02b4-4c76-9ad1-f48ecd22d03b/edri_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Telefonica: !ruby/struct:Answer 
+    name: Telefonica
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/49e4d245-0745-40a8-b634-9c89000c1516/telefonica_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Sacd: !ruby/struct:Answer 
+    name: Sacd
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/4ea5f33a-ce28-4696-82a9-8a0e7f3ba234/sacd_fr.pdf
+    annexes: []
+
+    languages: 
+    - fr
+  Pike: !ruby/struct:Answer 
+    name: Pike
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/3c30b43b-95c1-4bc8-8fa2-6b699c21ceb4/pike_pl.pdf
+    annexes: []
+
+    languages: 
+    - pl
+  Les: !ruby/struct:Answer 
+    name: Les
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/f966138a-9a17-4fd1-a8c0-253707476533/les_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Ispa Austria: !ruby/struct:Answer 
+    name: Ispa Austria
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/2ecf75ae-9982-4fbd-bfa7-e4bd003cf0f8/ispa_austria_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Etno: !ruby/struct:Answer 
+    name: Etno
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/28559761-75f2-42a8-a125-fa5a43d888ed/etno_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Beuc: !ruby/struct:Answer 
+    name: Beuc
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/8f0a99bb-79b7-49cb-acb9-f94941851c3a/beuc_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Anica Fapav Univideo: !ruby/struct:Answer 
+    name: Anica Fapav Univideo
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/d1b7d6f2-7ef5-4ad3-830f-994939098c15/anica_fapav_univideo_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Bskyb: !ruby/struct:Answer 
+    name: Bskyb
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/967efd4d-02d9-4023-baec-222995f70cc3/bskyb_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Bsa: !ruby/struct:Answer 
+    name: Bsa
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/fb0484a1-9831-4b5b-867b-61c250fc027d/bsa_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Enpa50: !ruby/struct:Answer 
+    name: Enpa50
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/927a8f32-55e3-4f8f-8d27-a9b3c2d62def/enpa50_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Deutsche Patentanwaltskammer Cover: !ruby/struct:Answer 
+    name: Deutsche Patentanwaltskammer Cover
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/55cf80a1-7ad7-4656-a211-04960b338486/deutsche_patentanwaltskammer_cover_de.pdf
+    annexes: []
+
+    languages: 
+    - de
+  Eurocopya: !ruby/struct:Answer 
+    name: Eurocopya
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/f62c2f53-1559-43e8-bac1-60aee228fa09/eurocopya_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Colipa: !ruby/struct:Answer 
+    name: Colipa
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/b6bcfe7d-79f9-4b70-a215-ae6ebccdc77a/colipa_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Fox International Channels: !ruby/struct:Answer 
+    name: Fox International Channels
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/b263516d-f792-4867-add4-8e846fe9b61b/fox_international_channels_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Grupa Allegro: !ruby/struct:Answer 
+    name: Grupa Allegro
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/a642f20b-117e-4f35-bbfd-433e25bfd0b3/grupa_allegro_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Tacd: !ruby/struct:Answer 
+    name: Tacd
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/a4f29f46-3a14-4ffe-b279-ae9d95b3aa91/tacd_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Ispa Belgium: !ruby/struct:Answer 
+    name: Ispa Belgium
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/bb434037-d42b-43c2-a22b-1636f1a9af42/ispa_belgium_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Emeca: !ruby/struct:Answer 
+    name: Emeca
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/33006c7f-940b-4cb8-9b98-74eb7e465cc1/emeca_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Eccia: !ruby/struct:Answer 
+    name: Eccia
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/dff65565-e7bc-4cdf-a049-29ba3ee7fbe1/eccia_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Fondation Hartung-bergman: !ruby/struct:Answer 
+    name: Fondation Hartung-bergman
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/531c3f67-29b7-4c1f-a1f6-02970630c0e1/fondation_hartung-bergman_fr.pdf
+    annexes: []
+
+    languages: 
+    - fr
+  Gema: !ruby/struct:Answer 
+    name: Gema
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/4f98a5b2-4ba3-42be-abbd-82b4e3b4b28d/gema_de.pdf
+    annexes: []
+
+    languages: 
+    - de
+  Vzbv: !ruby/struct:Answer 
+    name: Vzbv
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/66339b48-d732-4d7a-b12a-ebb5b6a55b30/vzbv_de.pdf
+    annexes: []
+
+    languages: 
+    - de
+  Sacg: !ruby/struct:Answer 
+    name: Sacg
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/588847f6-8ff8-44a9-a067-f8e6c74606bf/sacg_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Inta: !ruby/struct:Answer 
+    name: Inta
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/a87e3987-71c4-4949-84a0-178218fde118/inta_en.pdf
+    annexes: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/a9512659-ff8e-443f-8bf4-ea6e20b280db/inta_annex_en.pdf
+    languages: 
+    - en
+  Icmp: !ruby/struct:Answer 
+    name: Icmp
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/5c67a4c1-928b-47a9-8f67-51f7576fceb9/icmp_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Stop43: !ruby/struct:Answer 
+    name: Stop43
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/b1b7801e-f124-4209-8cd4-1977c16ac077/stop43_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Ipo: !ruby/struct:Answer 
+    name: Ipo
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/057c6c04-1371-4c6a-a306-2a17af94c007/ipo_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Internet Society Poland Panoptykon: !ruby/struct:Answer 
+    name: Internet Society Poland Panoptykon
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/bad4d770-67ae-476b-ad98-372d13f24149/internet_society_poland_panoptykon_pl.pdf
+    annexes: []
+
+    languages: 
+    - pl
+  Chartered Institute Of Pa: !ruby/struct:Answer 
+    name: Chartered Institute Of Pa
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/1f09d6a0-fcfe-4448-b56a-f2292c353ebe/chartered_institute_of_pa_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Vrijschrift: !ruby/struct:Answer 
+    name: Vrijschrift
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/fc959544-a7dc-4b6a-9093-4e7cfd99826a/vrijschrift_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Qxl Ricardo Denmark: !ruby/struct:Answer 
+    name: Qxl Ricardo Denmark
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/8aaf1da4-f2f2-4175-be45-1818d151be66/qxl_ricardo_denmark_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Nurpa: !ruby/struct:Answer 
+    name: Nurpa
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/86c7d6ca-32db-4da9-a9f5-57ef470eb8f6/nurpa_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Indicam: !ruby/struct:Answer 
+    name: Indicam
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/4d633b8d-1061-47a4-a354-eb67375842db/indicam_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Fastweb: !ruby/struct:Answer 
+    name: Fastweb
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/969adb9c-e73f-483b-b8d6-5a1116663204/fastweb_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Ccip Fiche Synthese: !ruby/struct:Answer 
+    name: Ccip Fiche Synthese
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/b27164ef-5655-4232-be4b-ce8890d6b8dd/ccip_fiche_synthese_fr.pdf
+    annexes: []
+
+    languages: 
+    - fr
+  Aukro Bulgaria: !ruby/struct:Answer 
+    name: Aukro Bulgaria
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/5b7720f7-52c3-487c-bfdd-49a8b7e5f4f5/aukro_bulgaria_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Microsoft: !ruby/struct:Answer 
+    name: Microsoft
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/a3340986-bc91-4b20-a94f-18a9a7310709/microsoft_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Ksb Sas: !ruby/struct:Answer 
+    name: Ksb Sas
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/0db25dc1-a1cf-4f2e-b758-e7aa4a5bfde7/ksb_sas_fr.pdf
+    annexes: []
+
+    languages: 
+    - fr
+  Kopiosto: !ruby/struct:Answer 
+    name: Kopiosto
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/6491391f-40ca-4e86-ba8e-b62a1c4af3c4/kopiosto_fi.pdf
+    annexes: []
+
+    languages: 
+    - fi
+  Ericsson: !ruby/struct:Answer 
+    name: Ericsson
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/c9b41849-0e38-4cf8-b826-aecc4c410097/ericsson_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Dihk: !ruby/struct:Answer 
+    name: Dihk
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/f298a998-036c-41b9-9919-61be829aa862/dihk_de.pdf
+    annexes: []
+
+    languages: 
+    - de
+  Cable Europe Ecta Etno Euroispa Gsma: !ruby/struct:Answer 
+    name: Cable Europe Ecta Etno Euroispa Gsma
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/6ee0f8bb-a247-4cf1-bca9-42be27247efd/cable_europe_ecta_etno_euroispa_gsma_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Vprt: !ruby/struct:Answer 
+    name: Vprt
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/e8bf58ae-9706-47dc-8b57-e5e14cdca098/vprt_de.pdf
+    annexes: []
+
+    languages: 
+    - de
+  Sty: !ruby/struct:Answer 
+    name: Sty
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/d3288671-fdad-42e0-a6b4-4ab594a699c2/sty_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Stowarzyszenie Portal Otwartej Informacji: !ruby/struct:Answer 
+    name: Stowarzyszenie Portal Otwartej Informacji
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/c8679f47-42db-4361-b883-d432ad465357/stowarzyszenie_portal_otwartej_informacji_pl.pdf
+    annexes: []
+
+    languages: 
+    - pl
+  Sabam Form  figures: !ruby/struct:Answer 
+    name: Sabam Form  figures
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/fa97f800-e732-4058-a04a-c09a26beb5de/sabam_form_%20figures_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Benelux Verenging Voor Merken En Modellenrecht: !ruby/struct:Answer 
+    name: Benelux Verenging Voor Merken En Modellenrecht
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/0b1dcc55-92b9-486e-83b0-1d5100f318dc/benelux_verenging_voor_merken_en_modellenrecht_nl.pdf
+    annexes: []
+
+    languages: 
+    - nl
+  Businesseurope: !ruby/struct:Answer 
+    name: Businesseurope
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/e331acef-edaa-48de-96cf-b77dbb0c3602/businesseurope_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Publishers Association: !ruby/struct:Answer 
+    name: Publishers Association
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/d350f2ed-16f0-4c25-86eb-ca4054d587fe/publishers_association_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Intel: !ruby/struct:Answer 
+    name: Intel
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/1cce05c5-3392-4f81-be56-cc84c73168ab/intel_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Bits Of Freedom: !ruby/struct:Answer 
+    name: Bits Of Freedom
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/923f6b6c-eb88-47d3-8b80-da8d2db8af73/bits_of_freedom_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Afep: !ruby/struct:Answer 
+    name: Afep
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/6dce7990-fcee-44bc-b37c-fa8308f150da/afep_fr.pdf
+    annexes: []
+
+    languages: 
+    - fr
+  Giart: !ruby/struct:Answer 
+    name: Giart
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/67d6aa41-9506-4e0b-87f7-53cf4bbd275f/giart_en.pdf
+    annexes: []
+
+    languages: 
+    - en
+  Icc: !ruby/struct:Answer 
+    name: Icc
+    files: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/7a294b7a-a431-4d6f-8bb1-671185d74d03/icc_en.pdf
+    annexes: 
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/25cdbd03-54d8-4823-b2af-91c45e9735d6/icc_annex1_en.pdf
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/849939d7-9792-43d7-b07b-a2f2e7a3a7c8/icc_annex2_en.pdf
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/868517a7-bc70-43bf-8d19-8d4aa40d952e/icc_annex3_en.pdf
+    - https://circabc.europa.eu/d/d/workspace/SpacesStore/5fdca15c-64ca-4618-9536-efeed8d41eef/icc_annex4_en.pdf
+    languages: 
+    - en
