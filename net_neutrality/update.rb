@@ -20,5 +20,3 @@ File.open("result.mediawiki", "w") do |f|
   f.write data
 end
 
-data.scan(/=== Amendment .+?\n\|\}/m).each do |amendment|
-end
