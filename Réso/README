@@ -1,0 +1,5 @@
+Amdts_spectre_1.odt: le fichier original
+Amdts_spectre_1.txt: le fichier original enregistré au format "texte codé"
+convert:             le script Ruby qui convertit le .txt en wiki
+template.erb:        le gabarit de formattage d'un amendement
+result.mediawiki:    le résultat de la conversion

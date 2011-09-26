@@ -1,0 +1,926 @@
+﻿
+
+
+EUROPEAN PARLIAMENT
+2009 - 2014
+
+<Commission>{ITRE}Committee on Industry, Research and Energy</Commission>
+
+PE<NoPE>472.303</NoPE><Version>v01-00</Version>
+<Date>{21/09/2011}21.9.2011</Date>
+<TypeAM>AMENDMENTS</TypeAM>
+<RangeAM>1 - 73</RangeAM>
+<TitreType>Draft motion for a resolution</TitreType>
+<Rapporteur>Herbert Reul</Rapporteur>
+<DocRefPE>(PE472.008v01-00)</DocRefPE>
+<Titre>on The open internet and net neutrality in Europe </Titre>
+
+AM_Com_NonLegRE
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>1 ++</NumAm>
+<RepeatBlock-By><Members>Marietje Schaake</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Citation X (new)</Article>
+
+Draft motion for a resolution
+Amendment
+ 
+- having regard of the amendment to the Dutch telecommunications law to article 7.4, adding a new section 7.4a,
+C</Original>
+</Amend>
+<Amend>Amendment		<NumAm>2 </NumAm>
+<RepeatBlock-By><Members>Catherine Trautmann</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Citation X (new)</Article>
+
+Draft motion for a resolution
+Amendment
+ 
+- having regards to the May 2011 IMCO study "Network Neutrality: Challenges and responses in the EU and in the U.S." (IP/A/IMCO/ST/2011-02),
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>3 +</NumAm>
+<RepeatBlock-By><Members>Petra Kammerevert, Matthias Groote</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Recital D a (new)</Article>
+
+Draft motion for a resolution
+Amendment
+ 
+Da. in der Erwägung, dass sich auf Grundlage der Netzneutralität das Internet als Innovationsmotor für wirtschaftliche und gesellschaftliche Entwicklung erwiesen hat und durch sie Vielfalt, Pluralismus, kommunikative Chancengleichheit, niedrige Zugangsbarrieren und ein fairer Wettbewerb in der modernen Kommuinikation sichergestellt werden; 
+Or. <Original>{DE}de</Original>
+</Amend>
+<Amend>Amendment		<NumAm>4 +</NumAm>
+<RepeatBlock-By><Members>Jean-Pierre Audy, Gaston Franco</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Recital D a (new)</Article>
+
+Draft motion for a resolution
+Amendment
+ 
+Da. whereas the Internet's open character has been a key driver of innovation which has led to spectacular levels of development in online applications, content and services and thus of growth in the offer and the demand of content and services; has made it a vitally important accelerator in the free circulation of knowledge, ideas and information, including in countries where there is limited access to independent news,
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>5 +</NumAm>
+<RepeatBlock-By><Members>Catherine Trautmann</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Recital D a (new)</Article>
+
+Draft motion for a resolution
+Amendment
+ 
+Da. whereas the Internet's open character has been a key driver of innovation which has led to spectacular levels of development in online applications, content and services and thus of growth in the offer and the demand of content and services; has made it a vitally important accelerator in the free circulation of knowledge, ideas and information, including in countries where there is limited access to independent news,
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>6 ++</NumAm>
+<RepeatBlock-By><Members>Marietje Schaake</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Recital D a (new)</Article>
+
+Draft motion for a resolution
+Amendment
+ 
+Da.whereas the Dutch Parliament adopted an amendment to its telecommunication law, thereby ensuring net neutrality through ex ante regulation, as a reaction to anti-competitive behaviour by mobile telecommunication operators which threatens to hamper innovation in the telecommunication sector, which hurts business, consumers and society as a whole,
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>7 </NumAm>
+<RepeatBlock-By><Members>Ivo Belet</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Recital D a (new)</Article>
+
+Draft motion for a resolution
+Amendment
+ 
+Da. whereas there are third countries that have prevented mobile broadband providers from blocking lawful websites and VoIP or video-telephony applications that compete with their own voice or video telephony services,
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>8</NumAm>
+<RepeatBlock-By><Members>Catherine Trautmann</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Recital E</Article>
+
+Draft motion for a resolution
+Amendment
+E. whereas, internet services are offered on an international scale and the internet is at the very centre of the global economy, 
+E. whereas, internet services are offered on a cross-border scale and the internet is at the very centre of the global economy, 
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>9</NumAm>
+<RepeatBlock-By><Members>Niki Tzavela</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Recital E a (new)</Article>
+
+Draft motion for a resolution
+Amendment
+ 
+Ea. whereas its open character has been a key driver of the growth of the Internet to date, and has facilitated an open environment conducive to the spectacular levels of innovation in online applications, content and services networks, meeting and stimulating demand,
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>10</NumAm>
+<RepeatBlock-By><Members>Ivo Belet</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Recital F a (new)</Article>
+
+Draft motion for a resolution
+Amendment
+ 
+Fa. whereas the internet's open character has been a key driver of innovation which has led to the  development of online applications, content and services, 
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>11 +++</NumAm>
+<RepeatBlock-By><Members>Ivo Belet, Angelika Niebler</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 1</Article>
+
+Draft motion for a resolution
+Amendment
+1. Welcomes the communication of the Commission and agrees with the analysis, in particular on the need of preserving the open and neutral character of the internet;
+1. Welcomes the communication of the Commission and agrees with the analysis, in particular on the need of preserving the open and neutral character of the internet; calls on the European Commission to ensure that internet service providers do not block, interfere with, discriminate against, impair, or degrade the ability of any person to use a broadband service to access, use, send, post, receive, or offer any lawful content, application, or service made available via the Internet;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>12</NumAm>
+<RepeatBlock-By><Members>Sabine Verheyen</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 1</Article>
+
+Draft motion for a resolution
+Amendment
+1. Welcomes the communication of the Commission and agrees with the analysis, in particular on the need of preserving the open and neutral character of the internet;
+1. Welcomes the communication of the Commission and agrees with the analysis, in particular on the need of preserving the open and neutral character of the internet as a key driver for innovation and consumer demand;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>13 +</NumAm>
+<RepeatBlock-By><Members>Catherine Trautmann</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 1</Article>
+
+Draft motion for a resolution
+Amendment
+1. Welcomes the communication of the Commission and agrees with the analysis, in particular on the need of preserving the open and neutral character of the internet;
+1. Welcomes the communication of the Commission and agrees with the analysis, in particular on the necessity to preserve the open and neutral character of the internet;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>14 +++</NumAm>
+<RepeatBlock-By><Members>Petra Kammerevert, Matthias Groote</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 1 a (new)</Article>
+
+Draft motion for a resolution
+Amendment
+ 
+1a. Fordert dazu auf, den Begriff Netzneutralität als grundsätzliche Gleichbehandlung aller Datenpakete unabhängig von Inhalt, Dienst, Anwendung, Herkunft oder Ziel zu definieren. Mobilfunk und Festnetz sind dabei gleich zu behandeln, sofern nicht zwingende technische Gründe ein unterschiedliches Netzwerkmanagement rechtfertigen. Eine Inhaltekontrolle durch Netzbetreiber darf nicht erfolgen;
+T</Original>
+</Amend>
+Translation: Calls on it to define the term net neutrality as a fundamental equality of all data packets regardless of content, service, application, source or destination. Mobile and fixed network are to be treated like this, unless there are compelling technical reasons a different network management. A content control by network operators may not take place;
+
+<Amend>Amendment		<NumAm>15 +++</NumAm>
+<RepeatBlock-By><Members>Petra Kammerevert, Matthias Groote</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 1 b (new)</Article>
+
+Draft motion for a resolution
+Amendment
+ 
+1b. Sachlicher Grund für eine Ungleichbehandlung kann die Notwendigkeit eines Netzwerkmanagements sein, sofern die Ungleichbehandlung dazu dient, die Funktionsfähigkeit und Stabilität der Netze zu sichern. Die Qualitätssicherheit bei der Übertragung zeitkritischer Dienste darf kein Argument zur Aushebelung des "Best-effort"-Prinzips sein;
+T</Original>
+</Amend>
+<Amend>
+T
+ranslation:
+Tr
+Translation: 1b. Objective reason for unequal treatment may be the need for network management, where the inequality is used to secure the functioning and stability of networks. The quality of security in the transmission of time critical services can not be an argument for the annulation of the "best effort" principle;
+
+Amendment		<NumAm>16 +</NumAm>
+<RepeatBlock-By><Members>Petra Kammerevert, Matthias Groote</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 1 c (new)</Article>
+
+Draft motion for a resolution
+Amendment
+ 
+1c. Empfiehlt, umfassende Informations- und Transparenzverpflichtungen der Netzbetreiber gegenüber allen Marktbeteiligten (insbesondere Diensteanbietern und Endkunden) festzulegen, um damit das Vorliegen notwendiger Informationen zur Beurteilung der Notwendigkeit von Maßnahmen des Netzwerkmanagements oder anderer Eingriffe in die Datenübertragung sicherzustellen; 
+Or. <Original>{DE}de</Original>
+</Amend>
+<Amend>A
+Translation: 1c. Recommends that comprehensive information and transparency obligations, the network operator to all market participants (in particular service providers and end users) to set in order to ensure the existence of necessary information to assess the need for measures of network management or other interventions in the data transmission;
+
+Amendment		<NumAm>17 ++</NumAm>
+<RepeatBlock-By><Members>Petra Kammerevert, Matthias Groote</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 1 d (new)</Article>
+
+Draft motion for a resolution
+Amendment
+ 
+1d. Empfiehlt darüber hinaus, angemessene Mindestqualitätsstandards für die Durchleitung von Datenpaketen festzulegen, um eine ausreichende "Best-Effort"-Qualität im Internet zu sichern, um Diensteanbieter sowie Endkunden zu schützen und um einen fairen Wettbewerb zu gewährleisten;
+Or. <Original>{DE}de</Original>
+</Amend>
+<Amend>
+Translation: 1d. Also recommends to establish appropriate minimum quality standards for the transmission of data packets to ensure a sufficient "best effort" quality of the Internet in order to protect service providers and consumers and ensure fair competition;
+
+Amendment		<NumAm>18 ++</NumAm>
+<RepeatBlock-By><Members>Marietje Schaake</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 2</Article>
+
+Draft motion for a resolution
+Amendment
+2. Notes that based on the present analysis there is no clear need for additional regulatory intervention on net neutrality;
+deleted
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>19 +++</NumAm>
+<RepeatBlock-By><Members>Petra Kammerevert, Matthias Groote</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 2</Article>
+
+Draft motion for a resolution
+Amendment
+2. Notes that based on the present analysis there is no clear need for additional regulatory intervention on net neutrality;
+2. Empfiehlt den Mitgliedstaaten und der Kommission, Netzneutralität als Regulierungsziel gesetzlich festzuschreiben. Sie soll der Förderung der Vielfalt von Inhalten, Diensten und Diensteanbietern dienen und das Verlangsamen, Benachteiligen oder Blockieren von Inhalten, Diensten oder Diensteanbietern ohne hinreichenden sachlichen Grund verhindern; 
+T</Original>
+</Amend>
+<Amend>
+Translation: 2nd Recommends that Member States and the Commission, net neutrality law as a regulatory target to be added. It seeks to promote the diversity of content, services and service providers and prevent the slowing down, discriminate against or block content, services or service providers without sufficient factual basis;
+
+Amendment		<NumAm>20 +</NumAm>
+<RepeatBlock-By><Members>Angelika Niebler</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 2</Article>
+
+Draft motion for a resolution
+Amendment
+2. Notes that based on the present analysis there is no clear need for additional regulatory intervention on net neutrality;
+2. Notes that based on the present analysis there is no clear need for additional regulatory intervention on net neutrality for the time being; welcomes the Commission's intention to publish by the end of 2011 the evidence emerging from BEREC's investigations, including any instance of blocking or throttling certain types of traffic, practical obstacles regarding change of operator and the discrepancy between advertised and actual delivery speeds occurring in Member States; considers regulatory intervention an appropriate and possible remedy should this investigation show that the principles of net neutrality and fair competition are endangered;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>21</NumAm>
+<RepeatBlock-By><Members>Catherine Trautmann</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 2</Article>
+
+Draft motion for a resolution
+Amendment
+2. Notes that based on the present analysis there is no clear need for additional regulatory intervention on net neutrality;
+2. Notes that based on the present analysis, in particular with regards to the mobile market, there is a need to provide EU-wide guidelines to properly and consistently enforce the provisions of the Telecoms package on net neutrality; 
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>22 +</NumAm>
+<RepeatBlock-By><Members>Jean-Pierre Audy, Gaston Franco</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 2</Article>
+
+Draft motion for a resolution
+Amendment
+2. Notes that based on the present analysis there is no clear need for additional regulatory intervention on net neutrality;
+2. Notes that based on the present Commission’s analysis there seems to be no clear need at this stage for additional regulatory intervention on net neutrality on the European level; emphasises, however, that there is a potential for anti-competitive and discriminatory behaviour in traffic management and that therefore the European legislator should do its utmost to prevent any violation of net neutrality;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>23</NumAm>
+<RepeatBlock-By><Members>Ivo Belet</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 2</Article>
+
+Draft motion for a resolution
+Amendment
+2. Notes that based on the present analysis there is no clear need for additional regulatory intervention on net neutrality;
+2. Notes that based on the present Commission's analysis there seems to be  no clear need for additional regulatory intervention on net neutrality at European level at this stage; however looks forward to the results of the Commission's ongoing investigations at discriminatory practices;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>24 +++</NumAm>
+<RepeatBlock-By><Members>Philippe Lamberts</Members>
+<AuNomDe>{VERT}on behalf of the Verts/ALE Group</AuNomDe>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 2</Article>
+
+Draft motion for a resolution
+Amendment
+2. Notes that based on the present analysis there is no clear need for additional regulatory intervention on net neutrality;
+2. Notes, however, that based on the present analysis there is evidence, particularly in the mobile market, of a need for additional regulatory intervention on net neutrality;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>25</NumAm>
+<RepeatBlock-By><Members>Jens Rohde, Lena Ek</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 2</Article>
+
+Draft motion for a resolution
+Amendment
+2. Notes that based on the present analysis there is no clear need for additional regulatory intervention on net neutrality;
+2. Notes that based on the present analysis there is currently no clear need for additional regulatory intervention on net neutrality;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>26 +</NumAm>
+<RepeatBlock-By><Members>Jens Rohde, Lena Ek</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 3 a (new)</Article>
+
+Draft motion for a resolution
+Amendment
+ 
+3a. Urges BEREC in cooperation with Member States to closely monitor the development of ISPs traffic management, in particular related to blocking and throttling of or excessive pricing for VoIP and file sharing as it is practices in these areas that have given rise to complaints of unreasonable and anti-competitive discriminatory traffic management; 
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>27</NumAm>
+<RepeatBlock-By><Members>András Gyürk</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 3 a (new)</Article>
+
+Draft motion for a resolution
+Amendment
+ 
+3a. Underlines the importance of BEREC assessing and sharing best practice solutions concerning net neutrality with Member States;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>28</NumAm>
+<RepeatBlock-By><Members>Niki Tzavela</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 4</Article>
+
+Draft motion for a resolution
+Amendment
+4. Calls on the Member States to ensure consistency in the approach on net neutrality and the effective implementation of the revised EU telecoms package;
+4. Calls on the European Commission in coordination with the Member States, to ensure consistency in the approach on net neutrality and to cooperate effectively towards the implementation of the revised EU telecoms package;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>29</NumAm>
+<RepeatBlock-By><Members>Catherine Trautmann</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 4</Article>
+
+Draft motion for a resolution
+Amendment
+4. Calls on the Member States to ensure consistency in the approach on net neutrality and the effective implementation of the revised EU telecoms package; 
+4. Calls on the Commission, the Member States and BEREC to ensure consistency in the approach on net neutrality and the fair and effective implementation of the revised EU telecoms package; 
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>30 - </NumAm>
+<RepeatBlock-By><Members>Lambert van Nistelrooij</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 5</Article>
+
+Draft motion for a resolution
+Amendment
+5. Emphasizes that any solution proposed on the issue of net neutrality should ensure a common European approach;
+5. Emphasizes that any solution proposed on the issue of net neutrality should ensure a common Eu ropean approach; and should be informed by Commission impact assessments that scrutinize the effects of net neutrality regulations on the business models of telecom industries, in certain member states that have proposed or implemented such regulations;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>31</NumAm>
+<RepeatBlock-By><Members>Ioannis A. Tsoukalas</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 5</Article>
+
+Draft motion for a resolution
+Amendment
+5. Emphasizes that any solution proposed on the issue of net neutrality should ensure a common European approach;
+5. Emphasizes that any solution proposed on the issue of net neutrality can be effective only through a common European approach;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>32</NumAm>
+<RepeatBlock-By><Members>Petra Kammerevert, Matthias Groote</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 5</Article>
+
+Draft motion for a resolution
+Amendment
+5. Emphasizes that any solution proposed on the issue of net neutrality should ensure a common European approach;
+5. Emphasizes that any solution proposed on the issue of net neutrality should ensure a coordinated European approach; 
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>33 +</NumAm>
+<RepeatBlock-By><Members>Ioan Enciu</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 6 a (new)</Article>
+
+Draft motion for a resolution
+Amendment
+ 
+6a. Suggests that Member States initiate communication actions through effective channels so that the central issues regarding net neutrality are brought to the attention of the citizens in order for them to have better knowledge of their rights and to be able to report any eventual abuses;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>34 ++</NumAm>
+<RepeatBlock-By><Members>Catherine Trautmann</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 6 a (new)</Article>
+
+Draft motion for a resolution
+Amendment
+ 
+6a. States that the development of “specialized services” with guaranteed quality (IPT etc.) should not result in a degradation of “best-effort” internet services, or in reducing the openness of the Internet - thus limiting innovation and freedom of expression; 
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>35 -</NumAm>
+<RepeatBlock-By><Members>Catherine Trautmann</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 7</Article>
+
+Draft motion for a resolution
+Amendment
+7. Recognises that reasonable traffic management is required to ensure that the end user's connectivity is not disrupted by network congestion but calls for transparency in traffic management; 
+7. Recognises that in order to meet quality of service requirements and subject to NRAs scrutiny, operators may use procedures to measure and shape Internet traffic on a network link so as to avoid filling the link to capacity or overfilling the link, which would result in network congestion; 
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Comment: 
+A
+Comment: Very specific, and to be acceptable should include safeguard in favor of equal treatment, or objective non-discriminatory criteria regarding traffic shaping. 
+Amendment		<NumAm>36</NumAm>
+<RepeatBlock-By><Members>Jens Rohde, Lena Ek</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 7</Article>
+
+Draft motion for a resolution
+Amendment
+7. Recognises that reasonable traffic management is required to ensure that the end user's connectivity is not disrupted by network congestion but calls for transparency in traffic management; 
+7. Recognises that reasonable traffic management is required to ensure that the end user's connectivity is not disrupted by network congestion but calls for transparency in traffic management; Urges the competent national regulatory authorities to ensure that traffic management interventions do not involve anti-competitive discrimination and to make full use of their powers under the Universal Service Directive to impose, if necessary, minimum QoS standards on an SMP operator;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>37 -</NumAm>
+<RepeatBlock-By><Members>Ioannis A. Tsoukalas</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 7</Article>
+
+Draft motion for a resolution
+Amendment
+7. Recognises that reasonable traffic management is required to ensure that the end user's connectivity is not disrupted by network congestion but calls for transparency in traffic management;
+7. Recognises that reasonable traffic management is required to ensure that the end user's connectivity is not disrupted by network congestion, especially in the case of mobile broadband networks,  but calls for transparency in traffic management and better information for end-users and encourages the self-regulation of network providers through the application of standardized management practices;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>38 +</NumAm>
+<RepeatBlock-By><Members>Angelika Niebler</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 7</Article>
+
+Draft motion for a resolution
+Amendment
+7. Recognises that reasonable traffic management is required to ensure that the end user's connectivity is not disrupted by network congestion but calls for transparency in traffic management;
+7. Recognises that reasonable traffic management is required to ensure that the end user's connectivity is not disrupted by network congestion but calls for transparency in traffic management; stresses that the user, instead of the internet service provider, must be able to choose the speed and volume of downloads and services;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>39 </NumAm>
+<RepeatBlock-By><Members>Niki Tzavela</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 7</Article>
+
+Draft motion for a resolution
+Amendment
+7. Recognises that reasonable traffic management is required to ensure that the end user's connectivity is not disrupted by network congestion but calls for transparency in traffic management;
+7. Recognises that reasonable traffic management is required to ensure that the end user's connectivity is not disrupted by network congestion but calls for transparency in traffic management and efforts to ensure that advertised broadband speeds accurately reflect actual users' experiences; 
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>40 -</NumAm>
+<RepeatBlock-By><Members>Lambert van Nistelrooij</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 7</Article>
+
+Draft motion for a resolution
+Amendment
+7. Recognises that reasonable traffic management is required to ensure that the end user's connectivity is not disrupted by network congestion but calls for transparency in traffic management;
+7. Recognises that reasonable traffic management is required to ensure that the end user's connectivity is not disrupted by network congestion but calls for ongoing innovation and transparency in traffic management;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>41 +++</NumAm>
+<RepeatBlock-By><Members>Ivo Belet</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 7 a (new)</Article>
+
+Draft motion for a resolution
+Amendment
+ 
+7a. Stresses that the principles of non-discrimination, equal treatment and transparency are of paramount importance to ensure an unbiased access to content for citizens; especially in the light of vertical integration in the telecoms sector; 
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>42 +</NumAm>
+<RepeatBlock-By><Members>Sabine Verheyen</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 8</Article>
+
+Draft motion for a resolution
+Amendment
+8. Draws the attention to potential challenges when departing from network neutrality including anticompetitive behaviour, blockage of innovation, restriction on freedom of expression lack of consumer awareness and infringement of privacy and that the lack of net neutrality hurts both businesses, consumers and society as whole;
+8. Draws the attention to serious challenges when departing from network neutrality including anticompetitive behaviour, blockage of innovation, restriction on freedom of expression and on media pluralism, lack of consumer awareness and infringement of privacy which will be detrimental to both businesses, consumers and the democratic society as a whole;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>43 +</NumAm>
+<RepeatBlock-By><Members>Catherine Trautmann</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 8</Article>
+
+Draft motion for a resolution
+Amendment
+8. Draws the attention to potential challenges when departing from network neutrality including anticompetitive behaviour, blockage of innovation, restriction on freedom of expression lack of consumer awareness and infringement of privacy and that the lack of net neutrality hurts both businesses, consumers and society as whole; 
+8. Draws the attention to the risks of departing from network neutrality including anticompetitive behaviour, blockage of innovation, restriction on freedom of expression lack of consumer awareness and infringement of privacy and that the lack of net neutrality hurts both businesses, consumers and society as whole; 
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>44</NumAm>
+<RepeatBlock-By><Members>Philippe Lamberts</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 8</Article>
+
+Draft motion for a resolution
+Amendment
+8. Draws the attention to potential challenges when departing from network neutrality including anticompetitive behaviour, blockage of innovation, restriction on freedom of expression lack of consumer awareness and infringement of privacy and that the lack of net neutrality hurts both businesses, consumers and society as whole;
+8. Draws the attention to potential dangers when departing from network neutrality including anticompetitive behaviour, blockage of innovation, restriction on freedom of expression lack of consumer awareness and infringement of privacy and that the lack of net neutrality hurts both businesses, consumers and society as whole;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>45</NumAm>
+<RepeatBlock-By><Members>Angelika Niebler</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 8 a (new)</Article>
+
+Draft motion for a resolution
+Amendment
+ 
+8a. Notes the existence of concerns emerging from consumers in regard to the discrepancy between advertised and actual delivery speeds from an Internet connection; calls in this respect on the Member States to coherently enforce the ban on misleading advertising; 
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>46 +</NumAm>
+<RepeatBlock-By><Members>Philippe Lamberts</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 9</Article>
+
+Draft motion for a resolution
+Amendment
+9. Reminds that the EU regulatory framework aims at promoting effective competition and therefore any measure in the area of net neutrality should in addition to existing competition law provide tools to deal with any anti-competitive practices that may emerge as well as lead to investments and facilitate new innovative business models;
+9. Reminds that the EU regulatory framework aims at promoting freedom of expression and effective competition and therefore any measure in the area of net neutrality should in addition to existing competition law provide the necessary tools to deal with any anti-competitive practices that may emerge;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>47</NumAm>
+<RepeatBlock-By><Members>Angelika Niebler</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 9 a (new)</Article>
+
+Draft motion for a resolution
+Amendment
+ 
+9a. Recognises the need for creating ways of enhancing citizens' trust and confidence in the online environment; calls therefore on the Commission and Member States to further develop educational programmes aiming at raising consumers' ICT skills and at reducing digital exclusion; 
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>48</NumAm>
+<RepeatBlock-By><Members>Catherine Trautmann</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 9 a (new)</Article>
+
+Draft motion for a resolution
+Amendment
+ 
+9a. Calls on the Commission, together with BEREC, to examine further whether certain practices, including traffic management or interconnection agreements, may trigger anticompetitive behaviour or excessive degradation of quality, as well as the discrepancy between advertised and actual delivery speeds for access to the Internet, and report to the European Parliament and the Council thereon;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>49 + </NumAm>
+<RepeatBlock-By><Members>Catherine Trautmann</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 9 b (new)</Article>
+
+Draft motion for a resolution
+Amendment
+ 
+9b. Draws the attention to the issue of "device neutrality" which should be the subject of an analysis by the Commission;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>50 +</NumAm>
+<RepeatBlock-By><Members>Catherine Trautmann</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 10</Article>
+
+Draft motion for a resolution
+Amendment
+10. Considers transparency, quality of service and ease of switching as necessary conditions of net neutrality in assuring the end-users of freedom of choice and requests; 
+10. Considers transparency, quality of service and ease of switching as fundamental yet non-exhaustive components of net neutrality; 
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>51</NumAm>
+<RepeatBlock-By><Members>Philippe Lamberts</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 10</Article>
+
+Draft motion for a resolution
+Amendment
+10. Considers transparency, quality of service and ease of switching as necessary conditions of net neutrality in assuring the end-users of freedom of choice and requests;
+10. Considers transparency in relation to exceptional non-neutral traffic management, consistent quality of service benchmarks and ease of switching as necessary complementary measures for net neutrality in order to assure the end-users of freedom of choice; 
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>52 ++</NumAm>
+<RepeatBlock-By><Members>Marietje Schaake</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 10</Article>
+
+Draft motion for a resolution
+Amendment
+10. Considers transparency, quality of service and ease of switching as necessary conditions of net neutrality in assuring the end-users of freedom of choice and requests; 
+10. Considers transparency, quality of service and ease of switching as necessary conditions of net neutrality in assuring the end-users of freedom of choice and requests, as long as these conditions are effective in practice and offer actual net neutrality;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>53</NumAm>
+<RepeatBlock-By><Members>Fiona Hall</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 10</Article>
+
+Draft motion for a resolution
+Amendment
+10. Considers transparency, quality of service and ease of switching as necessary conditions of net neutrality in assuring the end-users of freedom of choice and requests;
+10. Considers that effective competition in electronic communications combined with transparency on quality of service and ease of switching are necessary conditions for net neutrality, assuring end-users of freedom of choice and requests; 
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>54</NumAm>
+<RepeatBlock-By><Members>Jens Rohde, Lena Ek</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 10</Article>
+
+Draft motion for a resolution
+Amendment
+10. Considers transparency, quality of service and ease of switching as necessary conditions of net neutrality in assuring the end-users of freedom of choice and requests;
+10. Considers that effective competition in electronic communications combined with transparency on quality of service and ease of switching as necessary conditions of net neutrality in assuring the end-users of freedom of choice and requests;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>55</NumAm>
+<RepeatBlock-By><Members>Patrizia Toia</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 10</Article>
+
+Draft motion for a resolution
+Amendment
+10. Considers transparency, quality of service and ease of switching as necessary conditions of net neutrality in assuring the end-users of freedom of choice and requests;
+10. Considers that competition, transparency on quality of service and ease of switching are among the minimum necessary conditions for net neutrality, assuring end-users of freedom of choice and requests;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>56</NumAm>
+<RepeatBlock-By><Members>Ioannis A. Tsoukalas</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 10 a (new)</Article>
+
+Draft motion for a resolution
+Amendment
+ 
+10a. Considers the principle of net neutrality as a significant prerequisite for enabling an innovative internet ecosystem and for securing a level playing field at the service of European citizens and entrepreneurs;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>57</NumAm>
+<RepeatBlock-By><Members>Takis Hadjigeorgiou</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 10 a (new)</Article>
+
+Draft motion for a resolution
+Amendment
+ 
+10a.Calls on the Commission to invite consumer representatives and civil society to participate actively and equally with industry representatives in the discussions regarding the future of the Internet in the EU; 
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>58 - -</NumAm>
+<RepeatBlock-By><Members>Ivo Belet</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 10 a (new)</Article>
+
+Draft motion for a resolution
+Amendment
+ 
+10a. Believes a "pay-for-priorisation-system" should go hand in hand with the introduction of sufficiently high minimum quality of service requirements, so as to avoid a new digital divide; 
+C</Original>
+</Amend>
+<Amend>
+
+Comment: Dangerous redaction. Ill-defined term regarding “pay-for-priorisation”, which is incompatible with a neutral Internet. If the term refers to “managed services”, then better amendments in this regard. Any reference to managed services should draw a clear distinction with the Internet. That being said, the overall goal to have strong minimum QoS requirements is of course laudable.
+
+Amendment		<NumAm>59 ++</NumAm>
+<RepeatBlock-By><Members>Takis Hadjigeorgiou</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 10 b (new)</Article>
+
+Draft motion for a resolution
+Amendment
+ 
+10b. Draws attention to net neutrality currently being threatened by discriminatory practices by network operators who aim to  maximise their revenues through their prioritisation of content and the conclusion of exclusive agreements with content providers, thus jeopardising the right of consumers to have access to information and content of their choice;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>60</NumAm>
+<RepeatBlock-By><Members>Takis Hadjigeorgiou</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 10 c (new)</Article>
+
+Draft motion for a resolution
+Amendment
+ 
+10c. Draws attention to switching between operators being not often easy, either because of the significant costs involved such as contract cancellation fees, costs related to setting up the new network and installation costs as well as the ones related to informing third parties of the new contract information or due to contractual restrictions as in the case of bundled services;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>61</NumAm>
+<RepeatBlock-By><Members>Takis Hadjigeorgiou</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 10 d (new)</Article>
+
+Draft motion for a resolution
+Amendment
+ 
+10d. Considers that in the framework of the single market and increased competition service providers have increased their prices to the detriment of consumer protection;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>62 +++</NumAm>
+<RepeatBlock-By><Members>Philippe Lamberts</Members>
+<AuNomDe>{VERT}on behalf of the Verts/ALE Group</AuNomDe>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 11</Article>
+
+Draft motion for a resolution
+Amendment
+11. Asks the Commission to assess the need for additional guidance on net neutrality to achieve competition and freedom of choice for consumers;
+11. Asks the Commission for additional guidance on net neutrality to protect freedom of expression on the Internet as well as to achieve competition and freedom of choice for consumers; and, based on the work of BEREC, to provide the European Parliament with data on current traffic management practices, the interconnection market and alleged network congestion, looking in particular to whether the latter is related to lack of investment; 
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>63 +</NumAm>
+<RepeatBlock-By><Members>Jean-Pierre Audy, Gaston Franco</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 11</Article>
+
+Draft motion for a resolution
+Amendment
+11. Asks the Commission to assess the need for additional guidance on net neutrality to achieve competition and freedom of choice for consumers; 
+11. Asks the Commission to assess the need for additional guidance and, if necessary for further regulation on net neutrality to achieve competition and security, foster innovation of the internet, facilitate wide-ranging benefits for citizens, business and public administration uses of the Internet as well as ensure freedom of access to the information, and freedom of expression and freedom of choice for consumers;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>64</NumAm>
+<RepeatBlock-By><Members>Jens Rohde, Lena Ek</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 11</Article>
+
+Draft motion for a resolution
+Amendment
+11.Asks the Commission to assess the need for additional guidance on net neutrality to achieve competition and freedom of choice for consumers;
+11. Asks the Commission to ensure the enforcement of the EU regulatory framework for communications using all of its available powers and to furthermore assess the need for additional guidance or regulation on net neutrality to achieve effective competition and freedom of choice for consumers; 
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>65 +++</NumAm>
+<RepeatBlock-By><Members>Petra Kammerevert, Matthias Groote</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 11</Article>
+
+Draft motion for a resolution
+Amendment
+11. Asks the Commission to assess the need for additional guidance on net neutrality to achieve competition and freedom of choice for consumers;
+11. Asks the Commission to assess the need for additional guidance and for further regulation on net neutrality to achieve competition, to foster innovation, to ensure media-pluralism, freedom of access to information and freedom of expression as well as freedom of choice for consumers; 
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>66</NumAm>
+<RepeatBlock-By><Members>Niki Tzavela</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 11</Article>
+
+Draft motion for a resolution
+Amendment
+11. Asks the Commission to assess the need for additional guidance on net neutrality to achieve competition and freedom of choice for consumers;
+11. Asks the Commission to assess the need for additional guidance on net neutrality to achieve competition, foster innovation on the Internet, wide-ranging benefits for citizens, business and public administration uses of the internet; and freedom of choice for consumers;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>67 +</NumAm>
+<RepeatBlock-By><Members>Catherine Trautmann</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 11</Article>
+
+Draft motion for a resolution
+Amendment
+11. Asks the Commission to assess the need for additional guidance on net neutrality to achieve competition and freedom of choice for consumers; 
+11. Asks the Commission to assess the need for additional guidance and if necessary further regulation on net neutrality to achieve innovation, competition and freedom of choice for consumers, as well as freedom of expression; 
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>68 -</NumAm>
+<RepeatBlock-By><Members>Patrizia Toia</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 11</Article>
+
+Draft motion for a resolution
+Amendment
+11. Asks the Commission to assess the need for additional guidance on net neutrality to achieve competition and freedom of choice for consumers;
+11. Asks the Commission to ensure the enforcement of the EU regulatory framework for communications and to assess the need for additional guidance on net neutrality to achieve competition and freedom of choice for consumers;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>69 -</NumAm>
+<RepeatBlock-By><Members>Fiona Hall</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 11</Article>
+
+Draft motion for a resolution
+Amendment
+11. Asks the Commission to assess the need for additional guidance on net neutrality to achieve competition and freedom of choice for consumers;
+11. Asks the Commission to ensure the enforcement of the EU regulatory framework for communications and to assess the need for additional guidance on net neutrality to achieve competition and freedom of choice for consumers;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>70 -</NumAm>
+<RepeatBlock-By><Members>Angelika Niebler</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 11</Article>
+
+Draft motion for a resolution
+Amendment
+11. Asks the Commission to assess the need for additional guidance on net neutrality to achieve competition and freedom of choice for consumers; 
+11. Asks the Commission to assess the need for additional guidance, and if necessary, for further regulation on net neutrality to achieve competition and freedom of choice for consumers; 
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>71 - -</NumAm>
+<RepeatBlock-By><Members>Ioannis A. Tsoukalas</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 11</Article>
+
+Draft motion for a resolution
+Amendment
+11. Asks the Commission to assess the need for additional guidance on net neutrality to achieve competition and freedom of choice for consumers;
+11. Asks the Commission to assess the need for additional guidance on net neutrality in order to achieve competition, reinforce investments and enable freedom of choice for consumers;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>
+Comment: Redaction refers to “investments”, which is the typical argument operators oppose to the preservation of Net neutrality. They falsely argue that new investments requires new revenues attached to trafic discrimination.
+
+Amendment		<NumAm>72</NumAm>
+<RepeatBlock-By><Members>Lambert van Nistelrooij</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 11</Article>
+
+Draft motion for a resolution
+Amendment
+11. Asks the Commission to assess the need for additional guidance on net neutrality to achieve competition and freedom of choice for consumers;
+11. Asks the Commission to assess the need for additional guidance on net neutrality to achieve competition, freedom of expression and freedom of choice for consumers;
+Or. <Original>{EN}en</Original>
+</Amend>
+<Amend>Amendment		<NumAm>73</NumAm>
+<RepeatBlock-By><Members>Ivo Belet</Members>
+</RepeatBlock-By>
+<DocAmend>Draft motion for a resolution</DocAmend>
+<Article>Paragraph 11 a (new)</Article>
+
+Draft motion for a resolution
+Amendment
+ 
+11a. Believes additional measures are necessary to prohibit the blocking of lawful services;
+</Original>
+</Amend>
+</RepeatBlock-Amend>
+
+Comment: Neutral opinion because the amendment, to be really useful, should refer to blocking AND throttling...
