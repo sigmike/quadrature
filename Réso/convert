@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-
+# Encoding: utf-8
 # Pour lancer le script il faut ruby, rubygems et les gems nokogiri et htmldiff
 
 require 'rubygems'
@@ -7,9 +7,9 @@ require 'nokogiri'
 require 'htmldiff'
 require 'erb'
 
-IN = ARGF.shift
+IN = ARGV.shift
 
-data = File.read("Amdts_spectre_#{i}.txt")
+data = File.read(IN)
 sections = data.scan(%r(<Amend>.+?</Amend>)m)
 
 Amendment = Struct.new :num, :note, :color, :commission_rows, :amendement_rows, :members, :article
@@ -50,8 +50,8 @@ amendments = sections.map do |xml|
       raise "Invalid note: #{note.inspect}"
   end
   
-  infos = xml.scan(%r(Text proposed by the Commission\nAmendment\n(.+)\nOr.)m).first
-  raise "No info found" unless infos
+  infos = xml.scan(%r(Draft motion for a resolution\nAmendment\n(.+)\n^(Or. <Original|C|T|))m).first
+  raise "No info found #{xml}" unless infos
   
   
   infos = infos.first.split(/\n/)
@@ -65,7 +65,9 @@ amendments = sections.map do |xml|
     amendement_rows << diff(commission, amendment).to_s.gsub(%r(<del class=".+?">.+?</del>), "").gsub(%r(<ins class=".+?">(.+?)</ins>), "'''\\1'''")
   end
   
-  members = doc.css('Members').text
+  members = doc.css('Members').text.split(%r{, }).map{|m|
+    "[[#{m.split.join('')}|#{m}]]"
+  }.join(', ')
   article = doc.css('Article').text
 
   Amendment.new num, note, color, commission_rows, amendement_rows, members, article
