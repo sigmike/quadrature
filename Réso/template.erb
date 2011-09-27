@@ -1,0 +1,23 @@
+=== Amendment <%= num %><%= " " + note if note  %> ===
+{| border="1" style="border-spacing:0;" cellpadding="3"
+|-
+! colspan="2" style="background-color: <%= color %>;" |
+Amendement <%= num %>
+<br/>
+<%= article %>
+<br/>
+<%= members %>
+<br/>
+<%= note %>
+<% rows.times do |row| -%>
+|-
+|width="50%"|
+<%= commission_rows[row] %>
+|width="50%"|
+<%= amendement_rows[row] %>
+<% end -%>
+|-
+| colspan="2" |
+Comments: 
+|}
+
