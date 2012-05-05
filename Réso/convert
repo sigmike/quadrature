@@ -1,0 +1,89 @@
+#!/usr/bin/env ruby
+# Encoding: utf-8
+# Pour lancer le script il faut ruby, rubygems et les gems nokogiri et htmldiff
+
+require 'rubygems'
+require 'nokogiri'
+require 'htmldiff'
+require 'erb'
+
+IN = ARGV.shift
+
+data = File.read(IN)
+sections = data.scan(%r(<Amend>.+?</Amend>)m)
+
+Amendment = Struct.new :num, :note, :color, :commission_rows, :amendement_rows, :members, :article
+
+include HTMLDiff
+
+class Amendment
+  Template = ERB.new File.read('template.erb'), nil, '-'
+  
+  def format
+    Template.result(binding)
+  end
+  
+  def rows
+    [commission_rows.size, amendement_rows.size].max
+  end
+end
+
+amendments = sections.map do |xml|
+  doc = Nokogiri::XML(xml)
+
+  num, note = doc.css('NumAm').text.split(' ', 2)
+  num = num.to_i
+  note.gsub!(/\s/, '') if note
+  
+  color = case note.to_s.gsub(/[^-+]/, '')
+    when "--"
+      "red"
+    when "-"
+      "IndianRed"
+    when "++", "+++"
+      "green"
+    when "+"
+      "lightgreen"
+    when ""
+      "lightgrey"
+    else
+      raise "Invalid note: #{note.inspect}"
+  end
+  
+  infos = xml.scan(%r(Draft motion for a resolution\nAmendment\n(.+)\n^(Or. <Original|C|T|))m).first
+  raise "No info found #{xml}" unless infos
+  
+  
+  infos = infos.first.split(/\n/)
+
+  commission_rows = []
+  amendement_rows = []
+  infos.each_slice(2) do |commission, amendment|
+    commission = commission.to_s
+    amendment = amendment.to_s
+    commission_rows << diff(commission, amendment).to_s.gsub(%r(<ins class=".+?">.+?</ins>), "").gsub(%r(<del class=".+?">(.+?)</del>), "'''\\1'''")
+    amendement_rows << diff(commission, amendment).to_s.gsub(%r(<del class=".+?">.+?</del>), "").gsub(%r(<ins class=".+?">(.+?)</ins>), "'''\\1'''")
+  end
+  
+  members = doc.css('Members').text.split(%r{, }).map{|m|
+    "[[#{m.split.join('')}|#{m}]]"
+  }.join(', ')
+  article = doc.css('Article').text
+
+  Amendment.new num, note, color, commission_rows, amendement_rows, members, article
+end
+
+
+File.open "result.mediawiki", "w" do |f|
+  grouped = amendments.group_by { |am| (am.num - 1) / 10 }
+  grouped.keys.sort.each do |index|
+    ams = grouped[index].sort_by { |am| am.num }
+    first = ams.first.num
+    last = ams.last.num
+    f.puts "== Amendments #{first} – #{last} =="
+    ams.each do |am|
+      f.puts am.format
+    end
+    f.puts
+  end
+end
