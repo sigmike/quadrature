@@ -1,0 +1,588 @@
+﻿
+
+
+EUROPEAN PARLIAMENT
+2009 - 2014
+
+<Commission>{ITRE}Committee on Industry, Research and Energy</Commission>
+
+<RefProc>2011/0167</RefProc><RefTypeProc>(NLE)</RefTypeProc>
+<Date>{02/05/2012}2.5.2012</Date>
+<TypeAM>AMENDMENTS</TypeAM>
+<RangeAM>1 - 41</RangeAM>
+<TitreType>Draft opinion</TitreType>
+<Rapporteur>Amelia Andersdotter</Rapporteur>
+<DocRefPE>(PA 483.518v01-00)</DocRefPE>
+<Titre>on the draft Council decision on the conclusion of the Anti-Counterfeiting Trade Agreement between the European Union and its Member States, Australia, Canada, Japan, the Republic of Korea, the United Mexican States, the Kingdom of Morocco, New Zealand, the Republic of Singapore, the Swiss Confederation and the united States of America</Titre>
+<DocAmend>Proposal for a decision</DocAmend>
+<DocRef>(12195/2011 – C7‑0027/2012 – 2011/0167(NLE))</DocRef>
+
+AM_Com_LegOpinion
+
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>1</NumAm>
+<RepeatBlock-By><Members>Marita Ulvskog</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Paragraph 1</Article>
+
+Proposal for a decision
+Amendment
+1. Welcomes the aims expressed by the Anti-Counterfeiting Trade Agreement (ACTA) negotiating parties to tackle the trade in counterfeited goods;
+1. Welcomes the aims expressed by the Anti-Counterfeiting Trade Agreement (ACTA) negotiating parties to tackle the trade in counterfeited goods; regrets, however, that the agreement was negotiated by the European Commission in secrecy, without engaging or providing the European Parliament with adequate information;
+Or. <Original>{EN}en</Original>
+</Amend>
+</RepeatBlock-Amend>
+
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>2</NumAm>
+<RepeatBlock-By><Members>Corinne Lepage</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Paragraph 1</Article>
+
+Proposal for a decision
+Amendment
+1. Welcomes the aims expressed by the Anti-Counterfeiting Trade Agreement (ACTA) negotiating parties to tackle the trade in counterfeited goods;
+1. Welcomes the aims expressed by the Anti-Counterfeiting Trade Agreement (ACTA) negotiating parties to tackle the trade in counterfeited goods; regrets, however, that the Council and the Commission did not associate enough the Parliament to the definition of the negotiation mandate and failed to provide adequate transparency over the course of the discussions;
+Or. <Original>{EN}en</Original>
+</Amend>
+</RepeatBlock-Amend>
+
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>3</NumAm>
+<RepeatBlock-By><Members>Juozas Imbrasas</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Paragraph 1</Article>
+
+Proposal for a decision
+Amendment
+1. Welcomes the aims expressed by the Anti-Counterfeiting Trade Agreement (ACTA) negotiating parties to tackle the trade in counterfeited goods;
+1. Welcomes the aims expressed by the Anti-Counterfeiting Trade Agreement (ACTA) negotiating parties to tackle the trade in counterfeited goods but regrets that a right balance with regard to the rights to privacy and data protection has not been found; questions ACTA's utility due to the restricted number of signatories;
+Or. <Original>{EN}en</Original>
+</Amend>
+</RepeatBlock-Amend>
+
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>4</NumAm>
+<RepeatBlock-By><Members>Rolandas Paksas</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Paragraph 1</Article>
+
+Proposal for a decision
+Amendment
+1. Welcomes the aims expressed by the Anti-Counterfeiting Trade Agreement (ACTA) negotiating parties to tackle the trade in counterfeited goods;
+1. Welcomes the aims expressed by the Anti-Counterfeiting Trade Agreement (ACTA) negotiating parties to tackle the trade in counterfeited goods but regrets that a right balance with regard to the rights to privacy and data protection has not been found; questions ACTA's utility due to the restricted number of signatories;
+Or. <Original>{EN}en</Original>
+</Amend>
+</RepeatBlock-Amend>
+
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>5</NumAm>
+<RepeatBlock-By><Members>Adam Gierek</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Paragraph 1</Article>
+
+Proposal for a decision
+Amendment
+1. Welcomes the aims expressed by the Anti-Counterfeiting Trade Agreement (ACTA) negotiating parties to tackle the trade in counterfeited goods;
+1. Welcomes the aims expressed by the Anti-Counterfeiting Trade Agreement (ACTA) negotiating parties to tackle the trade in counterfeited goods, especially at the EU's borders;
+Or. <Original>{EN}en</Original>
+</Amend>
+</RepeatBlock-Amend>
+
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>6</NumAm>
+<RepeatBlock-By><Members>Jens Rohde, Daniel Caspary</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Paragraph 1 a (new)</Article>
+
+Proposal for a decision
+Amendment
+
+1a. Is in favour of international agreements which strengthen the respect for intellectual property rights considering the importance hereof for the EU's economy and job market as recent OECD studies1 estimate that international piracy and counterfeit account for approximately 150 billion EUR per year;
+
+__________________
+
+1OECD study: Magnitude of counterfeiting and piracy of Tangible products: an update, November 2009 http://www.oecd.org/dataoecd/57/27/44088872.pdf.
+Or. <Original>{EN}en</Original>
+</Amend>
+</RepeatBlock-Amend>
+
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>7</NumAm>
+<RepeatBlock-By><Members>Silvia-Adriana Ţicău</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Paragraph 1a (new)</Article>
+
+Proposal for a decision
+Amendment
+
+1a. Consideră că legislatia UE referitoare la respectarea drepturilor de autor in Societatea Informaționala este una dintre cele mai moderne și în deplină conformitate cu acordurile internaționale în materie;
+Or. <Original>{RO}ro</Original>
+</Amend>
+</RepeatBlock-Amend>
+
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>8</NumAm>
+<RepeatBlock-By><Members>Rolandas Paksas</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Paragraph 2</Article>
+
+Proposal for a decision
+Amendment
+2. Notes that counterfeiting, copyright and trademark infringements are covered by ACTA thus creating a one-size-fits-all instrument of enforcement which doesn't meet the unique needs of each sector; is concerned by the lack of definition of key terminologies on which the ACTA enforcement mechanisms are based; fears that this creates legal uncertainty for European companies and in particular SMEs, technology users, online platform and internet service providers;
+2. Notes that counterfeiting, copyright and trademark infringements are covered by ACTA thus creating a one-size-fits-all instrument of enforcement which doesn't meet the unique needs of each sector; is concerned by the lack of definition of key terminologies on which the ACTA enforcement mechanisms are based; fears that this creates legal uncertainty for European companies and in particular SMEs, technology users, online platform and internet service providers and could have unacceptable side effects on the fundamental rights of individuals if its provisions are not correctly implemented; doubts, in this regard, that ACTA provides for sufficient safeguards such as sufficient judicial protection, due process and the principle of the presumption of innocence;
+Or. <Original>{EN}en</Original>
+</Amend>
+</RepeatBlock-Amend>
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>9</NumAm>
+<RepeatBlock-By><Members>Juozas Imbrasas</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Paragraph 2</Article>
+
+Proposal for a decision
+Amendment
+2. Notes that counterfeiting, copyright and trademark infringements are covered by ACTA thus creating a one-size-fits-all instrument of enforcement which doesn't meet the unique needs of each sector; is concerned by the lack of definition of key terminologies on which the ACTA enforcement mechanisms are based; fears that this creates legal uncertainty for European companies and in particular SMEs, technology users, online platform and internet service providers;
+2. Notes that counterfeiting, copyright and trademark infringements are covered by ACTA thus creating a one-size-fits-all instrument of enforcement which doesn't meet the unique needs of each sector; is concerned by the lack of definition of key terminologies on which the ACTA enforcement mechanisms are based; fears that this creates legal uncertainty for European companies and in particular SMEs, technology users, online platform and internet service providers and could have unacceptable side effects on the fundamental rights of individuals if its provisions are not correctly implemented; doubts, in this regard, that ACTA provides for sufficient safeguards such as sufficient judicial protection, due process and the principle of the presumption of innocence;
+Or. <Original>{EN}en</Original>
+</Amend>
+</RepeatBlock-Amend>
+
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>10</NumAm>
+<RepeatBlock-By><Members>Corinne Lepage</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Paragraph 2</Article>
+
+Proposal for a decision
+Amendment
+2. Notes that counterfeiting, copyright and trademark infringements are covered by ACTA thus creating a one-size-fits-all instrument of enforcement which doesn't meet the unique needs of each sector; is concerned by the lack of definition of key terminologies on which the ACTA enforcement mechanisms are based; fears that this creates legal uncertainty for European companies and in particular SMEs, technology users, online platform and internet service providers;
+2. Notes that ACTA wrongly bundles together too many different types of IPR under the same umbrella, treating physical goods and digital services in the same way; is concerned by the lack of definition of key terminologies on which the ACTA enforcement mechanisms are based; fears that this creates legal uncertainty for European companies and in particular SMEs, technology users, online platform and internet service providers;
+Or. <Original>{EN}en</Original>
+</Amend>
+</RepeatBlock-Amend>
+
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>11</NumAm>
+<RepeatBlock-By><Members>Jens Rohde, Daniel Caspary</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Paragraph 2</Article>
+
+Proposal for a decision
+Amendment
+2. Notes that counterfeiting, copyright and trademark infringements are covered by ACTA thus creating a one-size-fits-all instrument of enforcement which doesn't meet the unique needs of each sector; is concerned by the lack of definition of key terminologies on which the ACTA enforcement mechanisms are based; fears that this creates legal uncertainty for European companies and in particular SMEs, technology users, online platform and internet service providers;
+2. Notes that counterfeiting, copyright and trademark infringements are covered by ACTA and recognizes the concern that a wider set of instruments of enforcement might meet the unique needs of each sector better; recognizes the concern that some definitions of key terminologies on which the ACTA enforcement mechanisms are based might not be sufficiently clear, which might lead to legal uncertainty for European companies and in particular SMEs, technology users, online platform and internet service providers;
+Or. <Original>{EN}en</Original>
+</Amend>
+</RepeatBlock-Amend>
+
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>12</NumAm>
+<RepeatBlock-By><Members>Maria Badia i Cutchet</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Paragraph 2</Article>
+
+Proposal for a decision
+Amendment
+2. Notes that counterfeiting, copyright and trademark infringements are covered by ACTA thus creating a one-size-fits-all instrument of enforcement which doesn't meet the unique needs of each sector; is concerned by the lack of definition of key terminologies on which the ACTA enforcement mechanisms are based; fears that this creates legal uncertainty for European companies and in particular SMEs, technology users, online platform and internet service providers;
+2. Notes that counterfeiting, copyright and trademark infringements are covered by ACTA thus creating a one-size-fits-all instrument of enforcement which doesn't meet the unique needs of each sector; is concerned by the lack of definition of key terminologies on which the ACTA enforcement mechanisms are based; fears that this creates legal uncertainty for European companies and in particular SMEs, technology users, online platform and internet service providers; also notes that while ACTA pretends to encourage artistic creation and preserve the interest of the artists, the artistic community seems particularly divided on the potential and possible benefits of this agreement;
+Or. <Original>{EN}en</Original>
+</Amend>
+</RepeatBlock-Amend>
+
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>13</NumAm>
+<RepeatBlock-By><Members>Adam Gierek</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Paragraph 2</Article>
+
+Proposal for a decision
+Amendment
+2. Notes that counterfeiting, copyright and trademark infringements are covered by ACTA thus creating a one-size-fits-all instrument of enforcement which doesn't meet the unique needs of each sector; is concerned by the lack of definition of key terminologies on which the ACTA enforcement mechanisms are based; fears that this creates legal uncertainty for European companies and in particular SMEs, technology users, online platform and internet service providers;
+2. Notes that counterfeiting, copyright and trademark infringements are covered by ACTA thus creating a one-size-fits-all instrument of enforcement which doesn't meet the unique needs of each sector; is concerned by the lack of definition of key terminologies on which the ACTA enforcement mechanisms are based, especially regarding copyright in computer programs and their registration; fears that this creates legal uncertainty for
+European companies and in particular SMEs, technology users, online platform and internet service providers;
+Or. <Original>{EN}en</Original>
+</Amend>
+</RepeatBlock-Amend>
+
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>14</NumAm>
+<RepeatBlock-By><Members>Ivailo Kalfin</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Paragraph 2 a (new)</Article>
+
+Proposal for a decision
+Amendment
+
+2a. Regrets that ACTA was drafted in insufficient transparency, without taking into consideration stakeholder opinions and bypassing the legitimate international bodies, which results in many structural deficiencies in the text and which contradicts well established practices and principles in the internet space.
+Or. <Original>{EN}en</Original>
+</Amend>
+</RepeatBlock-Amend>
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>15</NumAm>
+<RepeatBlock-By><Members>Silvia-Adriana Ţicău</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Paragraph 2 a (new)</Article>
+
+Proposal for a decision
+Amendment
+
+2bis. Notes that ACTA would freeze the possibility for the European Parliament to modify EU Intellectual Property Rights legislation; believes the EU should have first reviewed the IPR Enforcement Directive (IPRED) and adapted EU law towards the internet environment before negotiating such an agreement;
+Or. <Original>{EN}ro</Original>
+</Amend>
+</RepeatBlock-Amend>
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>16</NumAm>
+<RepeatBlock-By><Members>Maria Badia i Cutchet</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Paragraph 3</Article>
+
+Proposal for a decision
+Amendment
+3. Notes that while the ambition of ACTA is to strengthen EU industries, it appears to be contrary to the ambition of the EP in the Digital Agenda to make Europe the scene for cutting edge internet innovation¹, as well as the strong ambition to promote net neutrality and access to the online digital market for SMEs²;
+3. Notes that while the ambition of ACTA is to strengthen EU industries, it appears to be contrary to the ambition of the EP in the Digital Agenda to make Europe the scene for cutting edge internet innovation¹, as well as the strong ambition to promote net neutrality and access to the online digital market for SMEs²; to that extent, innovation is the most valuable EU asset and, thus, should be the basis to generate a comprehensive approach to achieve a balanced and overarching model that both respects the rights and fair remuneration of creators and right-holders and user-friendly access of users and citizens to cultural content and goods;
+Or. <Original>{EN}en</Original>
+</Amend>
+</RepeatBlock-Amend>
+
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>17</NumAm>
+<RepeatBlock-By><Members>Adam Gierek</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Paragraph 3</Article>
+
+Proposal for a decision
+Amendment
+3. Notes that while the ambition of ACTA is to strengthen EU industries, it appears to be contrary to the ambition of the EP in the Digital Agenda to make Europe the scene for cutting edge internet innovation1,as well as the strong ambition to promote net neutrality and access to the online digital market for SMEs2;
+3. Notes that Art. 27 of the ACTA Agreement appears to be contrary to the ambition of the EP in the Digital Agenda to make Europe the scene for generating cutting edge internet innovation¹, as well as the strong ambition to promote net neutrality and access to the online digital market for all users2;
+Or. <Original>{EN}en</Original>
+</Amend>
+</RepeatBlock-Amend>
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>18</NumAm>
+<RepeatBlock-By><Members>Jens Rohde, Daniel Caspary</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Paragraph 3</Article>
+
+Proposal for a decision
+Amendment
+3. Notes that while the ambition of ACTA is to strengthen EU industries, it appears to be contrary to the ambition of the EP in the Digital Agenda to make Europe the scene for cutting edge internet innovation1,as well as the strong ambition to promote net neutrality and access to the online digital market for SMEs2;
+3. Welcomes the ambition of ACTA to strengthen EU industries; recognizes the concerns regarding ACTA's digital enforcement provisions and recalls the ambition of the EP in the Digital Agenda to make Europe the scene for cutting edge internet innovation¹, as well as the strong ambition to promote net neutrality and access to the online digital market for SMEs²;
+Or. <Original>{EN}en</Original>
+</Amend>
+</RepeatBlock-Amend>
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>19</NumAm>
+<RepeatBlock-By><Members>Juozas Imbrasas</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Paragraph 3</Article>
+
+Proposal for a decision
+Amendment
+3. Notes that while the ambition of ACTA is to strengthen EU industries, it appears to be contrary to the ambition of the EP in the Digital Agenda to make Europe the scene for cutting edge internet innovation¹, as well as the strong ambition to promote net neutrality and access to the online digital market for SMEs²;
+3. Notes that while the European Commission's ambition when signing ACTA is to strengthen EU industries, it is contrary to the ambition of the EP in the Digital Agenda to make Europe the scene for cutting edge internet innovation¹, as well as the strong ambition to promote net neutrality and access to the online digital market for SMEs²;
+Or. <Original>{EN}en</Original>
+</Amend>
+</RepeatBlock-Amend>
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>20</NumAm>
+<RepeatBlock-By><Members>Rolandas Paksas</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Paragraph 3</Article>
+
+Proposal for a decision
+Amendment
+3. Notes that while the ambition of ACTA is to strengthen EU industries, it appears to be contrary to the ambition of the EP in the Digital Agenda to make Europe the scene for cutting edge internet innovation¹, as well as the strong ambition to promote net neutrality and access to the online digital market for SMEs²;
+3. Notes that while the European Commission's ambition when signing ACTA is to strengthen EU industries, it is contrary to the ambition of the EP in the Digital Agenda to make Europe the scene for cutting edge internet innovation¹, as well as the strong ambition to promote net neutrality and access to the online digital market for SMEs²;
+Or. <Original>{EN}en</Original>
+</Amend>
+</RepeatBlock-Amend>
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>21</NumAm>
+<RepeatBlock-By><Members>Corinne Lepage</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Paragraph 3</Article>
+
+Proposal for a decision
+Amendment
+3. Notes that while the ambition of ACTA is to strengthen EU industries, it appears to be contrary to the ambition of the EP in the Digital Agenda to make Europe the scene for cutting edge internet innovation¹, as well as the strong ambition to promote net neutrality and access to the online digital market for SMEs²;
+3. Deplores that while the ambition of ACTA is to strengthen EU industries, it contradicts the ambition of the EP in the Digital Agenda to make Europe the scene for cutting edge internet innovation¹, as well as the strong ambition to promote net neutrality and access to the online digital market for SMEs²;
+Or. <Original>{EN}en</Original>
+</Amend>
+</RepeatBlock-Amend>
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>22</NumAm>
+<RepeatBlock-By><Members>Francesco De Angelis</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Paragraph 4</Article>
+
+Proposal for a decision
+Amendment
+4. Recalls that data concerning the scale of IPR infringements are inconsistent, incomplete, insufficient and dispersed, and that an objective, independent impact assessment is needed for any additional legislative proposal3;
+4. Recalls that data concerning the scale of IPR infringements are inconsistent, incomplete, insufficient and dispersed, and that an objective, independent impact assessment is needed for any additional legislative proposal3; underlines that the provisions foreseen in ACTA may harm the attainment of EU2020 objectives, and specifically the call on promoting openness and capitalizing on Europe’s creative potential in the frame of the “Innovation Union” EU2020 Flagship Initiative.
+Or. <Original>{EN}en</Original>
+</Amend>
+</RepeatBlock-Amend>
+
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>23</NumAm>
+<RepeatBlock-By><Members>Jens Rohde, Daniel Caspary</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Paragraph 4</Article>
+
+Proposal for a decision
+Amendment
+4. Recalls that data concerning the scale of IPR infringements are inconsistent, incomplete, insufficient and dispersed, and that an objective, independent impact assessment is needed for any additional legislative proposal'3;
+4. Recalls that the Commission's yearly customs reports show a consistent increase in seized goods suspected of violating IPR with an increase in cases from 43,500 in 2009 to almost 80,000 in 20101; however, recognises the concern that data concerning the scale of IPR infringements are incomplete and dispersed; supports objective and independent impact assessments for legislative proposals3;
+
+__________________
+
+1http://ec.europa.eu/taxation_customs/resources/documents/customs/customs_controls/counterfeit_piracy/statistics/statistics_2010.pdf.
+Or. <Original>{EN}en</Original>
+</Amend>
+</RepeatBlock-Amend>
+
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>24</NumAm>
+<RepeatBlock-By><Members>Francesco De Angelis</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Paragraph 4 a (new)</Article>
+
+Proposal for a decision
+Amendment
+
+4a. Recalls that when dealing with the nature of IPR infringements, the European Parliament has underlined the importance of the principle of proportionality1; is therefore concerned by the fact that ACTA draws no distinction between infringements committed on a commercial scale, and infringements carried out by private users for personal and not-for-profit purposes; believes moreover that ACTA would freeze the possibility for the EP to modify in the future EU IPR legislation, while a review of the IPR Enforcement Directive (IPRED) is foreseen in the next coming months.
+
+__________________
+
+1 IPRED2 – First reading by the EP, April 2007. Art.2 par. b.
+Or. <Original>{EN}en</Original>
+</Amend>
+</RepeatBlock-Amend>
+
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>25</NumAm>
+<RepeatBlock-By><Members>Silvia-Adriana Ţicău</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Paragraph 4 a b (new)</Article>
+
+Proposal for a decision
+Amendment
+
+4b. Este îngrijorat cu privire la prevederile articolului 27 care la punctul 1 prevede « măsuri de remediere eficiente destinate să prevină orice încalcare », fără a le defini însă pe acestea, iar la punctul 4, prevede ca autoritățile competente ale unei părti semnatare să aiba « autoritatea de a solicita unui furnizor de servicii online să divulge rapid unui titular al dreptului suficiente informații pentru a identifica un abonat despre al carui cont se presupune că a fost utilizat pentru încălcare ».
+Or. <Original>{RO}ro</Original>
+</Amend>
+</RepeatBlock-Amend>
+
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>26</NumAm>
+<RepeatBlock-By><Members>Silvia-Adriana Ţicău</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Paragraph 4 a c (new)</Article>
+
+Proposal for a decision
+Amendment
+
+4c. calls on the Commission to prepare a proportionate and balanced revision of the Intellectual Property Rights Enforcement Directive, and to examine benefits of strengthening user rights and build on objective data on copyright infringements, which must be provided by the Observatory on Intellectual Property Rights set up by the Commission.
+Or. <Original>{EN}en</Original>
+</Amend>
+</RepeatBlock-Amend>
+
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>27</NumAm>
+<RepeatBlock-By><Members>Gunnar Hökmark, Pilar del Castillo Vera</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Paragraph 4 a (new)</Article>
+
+Proposal for a decision
+Amendment
+
+4a. Highlights the need to defend and safeguard a free and open internet as well as protecting intellectual property rights; underlines that there is no contradiction between property rights and the freedom of information, whether it is on- or offline.
+Or. <Original>{EN}en</Original>
+</Amend>
+</RepeatBlock-Amend>
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>28</NumAm>
+<RepeatBlock-By><Members>Corinne Lepage</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Paragraph 4 a (new)</Article>
+
+Proposal for a decision
+Amendment
+
+4a. Expresses doubt about the effectiveness of ACTA considering that countries who are the main source of counterfeit goods are not part of the Agreement.
+Or. <Original>{EN}en</Original>
+</Amend>
+</RepeatBlock-Amend>
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>29</NumAm>
+<RepeatBlock-By><Members>Silvia-Adriana Ţicău</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Paragraph 4 a (new)</Article>
+
+Proposal for a decision
+Amendment
+
+4a. Expresses serious concerns about copyright enforcement online, especially the obligation to apply criminal sanctions, without the necessary provision of binding safeguards for personal users, as well as the vague definition of terms, particularly with reference to the concept of "commercial use". For example, in Art. 14, point 2, the countries agree that "a party may exclude from the application of [...] small quantities of goods of a non-commercial nature contained in travellers’ personal luggage", which means also that a party may decide not to exclude small quantities such goods, raising serious concerns about possible infringements of the free movement of goods and persons within EU.
+Or. <Original>{EN}en</Original>
+</Amend>
+</RepeatBlock-Amend>
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>30</NumAm>
+<RepeatBlock-By><Members>Corinne Lepage</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Paragraph 5</Article>
+
+Proposal for a decision
+Amendment
+5. Is concerned that the ACTA text does not ensure a fair balance between the right to intellectual property and the freedom to conduct business, the right to protection of personal data and the freedom to receive or impart information, the requirement of which was recently ruled by the European Court of Justice4;
+5. Is highly concerned that the ACTA text does not ensure a fair balance between the right to intellectual property and the freedom to conduct business, the right to protection of personal data and the freedom to receive or impart information, the requirement of which was recently ruled by the European Court of Justice4;
+Or. <Original>{EN}en</Original>
+</Amend>
+</RepeatBlock-Amend>
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>31</NumAm>
+<RepeatBlock-By><Members>Jens Rohde, Daniel Caspary</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Paragraph 5</Article>
+
+Proposal for a decision
+Amendment
+5. Is concerned that the ACTA text does not ensure a fair balance between the right to intellectual property and the freedom to conduct business, the right to protection of personal data and the freedom to receive or impart information, the requirement of which was recently ruled by the European Court of Justice4;
+5. Considers that the several explicit obligations in ACTA on the signatories to protect fundamental rights might not be sufficiently emphasised, recognises the concern that some parts of the ACTA text might be seen as impacting on the balance between the right to intellectual property and the freedom to conduct business, the right to protection of personal data and the freedom to receive or impart information, the requirement of which was recently ruled by the European Court of Justice4;
+Or. <Original>{EN}en</Original>
+</Amend>
+</RepeatBlock-Amend>
+
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>32</NumAm>
+<RepeatBlock-By><Members>Pilar del Castillo Vera</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Paragraph 5 a (new)</Article>
+
+Proposal for a decision
+Amendment
+
+5a. Underlines the safeguards in the text of ACTA requiring that the procedures foreseen by ACTA be “implemented in a manner that avoids the creation of barriers to legitimate activity, including electronic commerce and, consistent with that Party’s law, preserves fundamental principles such as freedom of expression, fair process, and privacy”; Reminds that the European Parliament Legal Service opinion, SJ-0661/11, concludes that ACTA does not impose any obligations that conflict  with fundamental rights,  the existing EU Acquis or which require the introduction of new EU legislative acts or amendment of existing ones;
+Or. <Original>{EN}en</Original>
+</Amend>
+</RepeatBlock-Amend>
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>33</NumAm>
+<RepeatBlock-By><Members>Juozas Imbrasas</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Paragraph 5 a new</Article>
+
+Proposal for a decision
+Amendment
+
+5a. Considers that any measures that could imply surveillance on a large-scale of Internet users behaviour and electronic communications in relation to small-scale non-profit infringement would be disproportionate and in breach of the Charter of Fundamental Rights of the European Union;
+Or. <Original>{EN}en</Original>
+</Amend>
+</RepeatBlock-Amend>
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>34</NumAm>
+<RepeatBlock-By><Members>Rolandas Paksas</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Paragraph 5 a new</Article>
+
+Proposal for a decision
+Amendment
+
+5a. Considers that any measures that could imply surveillance on a large-scale of Internet users behaviour and electronic communications in relation to small-scale non-profit infringement would be disproportionate and in breach of the Charter of Fundamental Rights of the European Union;
+Or. <Original>{EN}en</Original>
+</Amend>
+</RepeatBlock-Amend>
+
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>35</NumAm>
+<RepeatBlock-By><Members>Corinne Lepage</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Paragraph 5 a new</Article>
+
+Proposal for a decision
+Amendment
+
+5bis. Is concerned by the uncertainty over how ACTA will be implemented by the Commission and EU Member States ;
+Or. <Original>{EN}en</Original>
+</Amend>
+</RepeatBlock-Amend>
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>36</NumAm>
+<RepeatBlock-By><Members>Corinne Lepage</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Paragraph 5 a new</Article>
+
+Proposal for a decision
+Amendment
+
+5a. Is concerned by the compatibility of ACTA with EU legislation, the EU’s fundamental rights, and access to legitimate generic medicines;
+Or. <Original>{EN}en</Original>
+</Amend>
+</RepeatBlock-Amend>
+
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>37</NumAm>
+<RepeatBlock-By><Members>Silvia-Adriana Ţicău</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Paragraph 5 a (new)</Article>
+
+Proposal for a decision
+Amendment
+
+5a. Consideră că lupta împotriva combaterii comercializării de produse contrafăcute nu trebuie să se facă cu riscul nerespectării drepturilor fundamentale ale cetățenilor europeni; 
+Or. <Original>{RO}ro</Original>
+</Amend>
+</RepeatBlock-Amend>
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>38</NumAm>
+<RepeatBlock-By><Members>Ivailo Kalfin</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Paragraph 5 a (new)</Article>
+
+Proposal for a decision
+Amendment
+
+5a. Takes note of the concerns, expressed by the European Data Protection Supervisor  on data privacy and protection of fundamental rights. Notes furthermore that the lack of precision in the ACTA provisions could lead to highly intrusive and unacceptable side effects on the fundamental rights of individuals, particularly in the cyberspace;
+Or. <Original>{EN}en</Original>
+</Amend>
+</RepeatBlock-Amend>
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>39</NumAm>
+<RepeatBlock-By><Members>Giles Chichester</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Paragraph 6</Article>
+
+Proposal for a decision
+Amendment
+6. Therefore, feels compelled to call on the Committee on International Trade to withhold its consent to the agreement.
+6. Therefore, feels compelled to call on the Committee on International Trade to suspend its work on the proposal pending the ruling by the ECJ. 
+Or. <Original>{EN}en</Original>
+</Amend>
+</RepeatBlock-Amend>
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>40</NumAm>
+<RepeatBlock-By><Members>Jens Rohde, Daniel Caspary</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Paragraph 6</Article>
+
+Proposal for a decision
+Amendment
+6. Therefore, feels compelled to call on the Committee on International Trade to withhold its consent to the agreement.
+6. Therefore, feels compelled to call on the Committee on International Trade to take into account the above-mentioned concerns in its evaluation of the agreement.
+Or. <Original>{EN}en</Original>
+</Amend>
+</RepeatBlock-Amend>
+<RepeatBlock-Amend><Amend>Amendment		<NumAm>41</NumAm>
+<RepeatBlock-By><Members>Jens Rohde, Daniel Caspary</Members>
+</RepeatBlock-By>
+<DocAmend>Proposal for a decision</DocAmend>
+<Article>Legislative resolution</Article>
+
+Proposal for a decision
+Amendment
+The Committee on Industry, Research and Energy calls on the Committee on International Trade, as the committee responsible, to propose that Parliament decline to give its consent.
+The Committee on Industry, Research and Energy calls on the Committee on International Trade, as the committee responsible, to take into account the above-mentioned concerns in its evaluation of the agreement.
+Or. <Original>{EN}en</Original>
+</Amend>
+</RepeatBlock-Amend>
