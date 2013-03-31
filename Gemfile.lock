@@ -2,9 +2,25 @@ GEM
   remote: http://rubygems.org/
   specs:
     clik (0.1.0)
+    ffi (1.6.0)
+    haml (4.0.1)
+      tilt
     htmldiff (0.0.1)
+    listen (0.7.3)
     nokogiri (1.5.9)
+    rack (1.5.2)
+    rack-protection (1.5.0)
+      rack
+    rb-inotify (0.9.0)
+      ffi (>= 0.5.0)
+    rerun (0.8.0)
+      listen
     rubyzip (0.9.9)
+    sinatra (1.4.2)
+      rack (~> 1.5, >= 1.5.2)
+      rack-protection (~> 1.4)
+      tilt (~> 1.3, >= 1.3.4)
+    tilt (1.3.6)
     zippy (0.2.1)
       rubyzip (>= 0.9.1)
 
@@ -13,6 +29,10 @@ PLATFORMS
 
 DEPENDENCIES
   clik
+  haml
   htmldiff
   nokogiri
+  rb-inotify
+  rerun
+  sinatra
   zippy
