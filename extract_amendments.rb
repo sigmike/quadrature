@@ -9,11 +9,13 @@ require 'nokogiri'
 xml_dump_path = nil
 def debug(values)
 end
-parse_only_one = false  
+parse_only_one = false
+parse_only_num = nil
 
-extra_args = cli '--xml-dump' => lambda { |path| xml_dump_path = path },
-                 '-d --debug' => lambda { def debug(values) p values; end },
-                 '-1 --one'   => lambda { parse_only_one = true }
+extra_args = cli '--xml-dump'  => lambda { |path| xml_dump_path = path },
+                 '-d --debug'  => lambda { def debug(values) p values; end },
+                 '-1 --one'    => lambda { parse_only_one = true },
+                 '-n --number' => lambda { |num| parse_only_num = num }
 
 opendocument_path = extra_args.first
 raise "usage: #$0 <OpenDocument file>" unless opendocument_path
@@ -55,11 +57,14 @@ amendments = []
 
 amend_nodes.each do |nodes|
   amend_text = nodes.map(&:text).join
-  debug amend_text: amend_text
+  debug amend_text: amend_text unless parse_only_num
   
   amend_doc = Nokogiri::XML::Document.parse(amend_text)
   
   num_am = amend_doc.xpath("//NumAm").first.text
+  
+  next if parse_only_num and num_am != parse_only_num
+  
   doc_amend = amend_doc.xpath("//DocAmend").first.text
   article = amend_doc.xpath("//Article").first.text
   
