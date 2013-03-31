@@ -75,7 +75,19 @@ amend_nodes.each do |nodes|
   raise "too many tables" if tables.size > 1
   table = tables.first
   
+  original_column = nil
+  amendment_column = nil
+  text_table = table.css("table|table-row").map { |row| row.css("table|table-cell").map(&:text) }
+  debug text_table: text_table
   
+  header_index = text_table.index(["Text proposed by the Commission", "Amendment"])
+  raise "first row not found in table of amendment #{num_am}" unless header_index
+  
+  changes = text_table[(header_index + 1)..-1]
+  raise "amendment changes not found" if changes.size == 0
+  
+  debug changes: changes
+  amendment[:changes] = changes
   
   amendments << amendment
   
