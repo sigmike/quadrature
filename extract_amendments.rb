@@ -31,6 +31,18 @@ if xml_dump_path
   File.open(xml_dump_path, "w") { |f| f.write doc.to_xml(indent: 2) }
 end
 
+styles = {}
+doc.css("style|style").each do |node|
+  name = node["style:name"]
+  style = {}
+  
+  text_properties = node.css("style|text-properties").first
+  if text_properties
+    style[:bold] = (text_properties["fo:font-weight"] == "bold")
+  end
+  
+  styles[name] = style
+end
 
 text = doc.xpath('//office:text').first
 raise "no office:text found" unless text
@@ -84,11 +96,16 @@ amend_nodes.each do |nodes|
     row.css("table|table-cell").map do |cell|
       cell.css("text|p").map do |paragraph|
         paragraph.children.map do |element|
+          text = element.text
+          
           if element.is_a? Nokogiri::XML::Element and element.name == 'span'
-            "'''#{element.text}'''"
-          else
-            element.text
+            style_name = element["text:style-name"]
+            if style_name and styles[style_name][:bold]
+              text = "'''#{text}'''"
+            end
           end
+          
+          text
         end.join
       end.join("\n")
     end
