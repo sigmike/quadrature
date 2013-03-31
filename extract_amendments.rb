@@ -4,6 +4,7 @@ require 'rubygems'
 require 'bundler/setup'
 require 'zippy'
 require 'clik'
+require 'nokogiri'
 
 xml_dump_path = nil
 
@@ -17,8 +18,8 @@ Zippy.open(opendocument_path) do |zip|
   xml = zip['content.xml']
 end
 
-if xml_dump_path
-  File.open(xml_dump_path, "w") { |f| f.write xml }
-end
+doc = Nokogiri::XML::Document.parse(xml)
 
-puts xml.size
+if xml_dump_path
+  File.open(xml_dump_path, "w") { |f| f.write doc.to_xml(indent: 2) }
+end
