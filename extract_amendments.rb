@@ -9,11 +9,20 @@ require 'erb'
 require 'ostruct'
 
 options = {}
-def debug(values)
+def debug(value)
+  if $DEBUG
+    case value
+    when String
+      output = value
+    else
+      output = value.inspect
+    end
+    STDERR.puts output
+  end
 end
 
 extra_args = cli '--xml-dump'  => lambda { |path| options[:xml_dump_path] = path },
-                 '-d --debug'  => lambda { def debug(values) p values; end },
+                 '-d --debug'  => lambda { $DEBUG = true },
                  '-1 --one'    => lambda { options[:parse_only_one] = true },
                  '-n --number' => lambda { |num| options[:parse_only_num] = num }
 
