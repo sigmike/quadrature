@@ -69,6 +69,14 @@ amend_nodes.each do |nodes|
     article: article,
   }
   debug amendment
+  
+  tables = nodes.css('table|table')
+  raise "amendment table not found" if tables.size == 0
+  raise "too many tables" if tables.size > 1
+  table = tables.first
+  
+  
+  
   amendments << amendment
   
   break if parse_only_one
