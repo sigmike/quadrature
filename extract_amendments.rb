@@ -23,3 +23,9 @@ doc = Nokogiri::XML::Document.parse(xml)
 if xml_dump_path
   File.open(xml_dump_path, "w") { |f| f.write doc.to_xml(indent: 2) }
 end
+
+
+text = doc.xpath('//office:text').first
+raise "no office:text found" unless text
+
+
