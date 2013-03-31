@@ -1,6 +1,7 @@
 GEM
   remote: http://rubygems.org/
   specs:
+    clik (0.1.0)
     htmldiff (0.0.1)
     nokogiri (1.5.9)
     rubyzip (0.9.9)
@@ -11,6 +12,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  clik
   htmldiff
   nokogiri
   zippy
