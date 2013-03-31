@@ -80,9 +80,19 @@ amend_nodes.each do |nodes|
   raise "too many tables" if tables.size > 1
   table = tables.first
   
-  original_column = nil
-  amendment_column = nil
-  text_table = table.css("table|table-row").map { |row| row.css("table|table-cell").map(&:text) }
+  text_table = table.css("table|table-row").map do |row|
+    row.css("table|table-cell").map do |cell|
+      cell.css("text|p").map do |paragraph|
+        paragraph.children.map do |element|
+          if element.is_a? Nokogiri::XML::Element and element.name == 'span'
+            "'''#{element.text}'''"
+          else
+            element.text
+          end
+        end.join
+      end.join("\n")
+    end
+  end
   debug text_table: text_table
   
   header_index = text_table.index(["Text proposed by the Commission", "Amendment"])
