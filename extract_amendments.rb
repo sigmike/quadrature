@@ -8,9 +8,9 @@ require 'nokogiri'
 
 xml_dump_path = nil
 
-cli '--xml-dump' => lambda { |path| xml_dump_path = path }
+extra_args = cli '--xml-dump' => lambda { |path| xml_dump_path = path }
 
-opendocument_path = ARGV.first
+opendocument_path = extra_args.first
 raise "usage: #$0 <OpenDocument file>" unless opendocument_path
 
 xml = nil
