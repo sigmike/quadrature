@@ -5,6 +5,8 @@ It's a tool to extract amendment texts from EU documents and output them in medi
 
 It was made for [La Quadrature du Net](http://www.laquadrature.net/).
 
+It's also available here: http://quadrature.herokuapp.com/
+
 Installation
 ------------
 
