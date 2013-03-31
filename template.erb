@@ -1,11 +1,12 @@
-=== Amendment <%= num %> ===
+<% amendments.each do |amendment| -%>
+=== Amendment <%= amendment.num %> ===
 {| border="1" style="border-spacing:0;" cellpadding="3" width="100%"
 |-
 ! colspan="2" style="background-color: lightgrey;" |
-Amendement <%= num %>
+Amendement <%= amendment.num %>
 <br/>
-<%= article %>
-<% changes.each do |original, changed| -%>
+<%= amendment.article %>
+<% amendment.changes.each do |original, changed| -%>
 |-
 |width="50%"|
 <%= original %>
@@ -17,3 +18,4 @@ Amendement <%= num %>
 Comments: 
 |}
 
+<% end -%>

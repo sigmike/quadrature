@@ -97,11 +97,10 @@ class AmendmentExtractor
       doc_amend = amend_doc.xpath("//DocAmend").first.text
       article = amend_doc.xpath("//Article").first.text
       
-      amendment = {
-        num: num_am,
-        doc: doc_amend,
-        article: article,
-      }
+      amendment = OpenStruct.new
+      amendment.num = num_am
+      amendment.doc = doc_amend
+      amendment.article = article
       debug amendment
 
       
@@ -145,7 +144,7 @@ class AmendmentExtractor
       raise "amendment changes not found" if changes.size == 0
       
       debug changes: changes
-      amendment[:changes] = changes
+      amendment.changes = changes
       
       amendments << amendment
       
@@ -155,13 +154,8 @@ class AmendmentExtractor
     debug "rendering amendments"
     template = ERB.new File.read('template.erb'), nil, '-'
 
-    result = []
-    amendments.each do |amendment|
-      amendment_binding = OpenStruct.new(amendment).instance_eval { binding }
-      output = template.result(amendment_binding)
-      result << output
-    end
-    result.join("\n")
+    erb_binding = OpenStruct.new(amendments: amendments).instance_eval { binding }
+    output = template.result(erb_binding)
   end
 end
 
