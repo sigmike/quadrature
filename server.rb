@@ -8,7 +8,7 @@ require 'haml'
 require './extract_amendments'
 
 get '/' do
-  haml :index
+  haml :index, locals: {template: File.read("template.erb")}
 end
 
 post '/extract' do
@@ -16,17 +16,32 @@ post '/extract' do
   haml :extract, locals: {result: result}
 end
 
+get '/bootstrap.min.css' do
+  send_file 'bootstrap.min.css'
+end
+
 __END__
 
 @@ layout
 %html
+  %head
+    %link{:href => "/bootstrap.min.css", :rel => "stylesheet"}/
+
   %body
-    = yield
+    .container
+      %h1 Amendment Extractor
+      = yield
     
 @@ index
-%form{action: "/extract", method: "POST", enctype: 'multipart/form-data'}
-  %input{type: "file", name: "file"}
-  %input{type: "submit"}
+.well
+  %form.form-horizontal{action: "/extract", method: "POST", enctype: 'multipart/form-data'}
+    .control-group
+      %label.control-label{:for => "file"} ODT File
+      .controls
+        %input#file{type: "file", name: "file"}
+    .control-group
+      .controls
+        %button.btn.btn-primary{:type => "submit"} Extract
 
 @@ extract
-%pre= Rack::Utils.escape_html(result)
+%textarea{rows: 20, style: 'width: 100%'}= Rack::Utils.escape_html(result)
