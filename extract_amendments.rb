@@ -8,16 +8,14 @@ require 'nokogiri'
 require 'erb'
 require 'ostruct'
 
-xml_dump_path = nil
+options = {}
 def debug(values)
 end
-parse_only_one = false
-parse_only_num = nil
 
-extra_args = cli '--xml-dump'  => lambda { |path| xml_dump_path = path },
+extra_args = cli '--xml-dump'  => lambda { |path| options[:xml_dump_path] = path },
                  '-d --debug'  => lambda { def debug(values) p values; end },
-                 '-1 --one'    => lambda { parse_only_one = true },
-                 '-n --number' => lambda { |num| parse_only_num = num }
+                 '-1 --one'    => lambda { options[:parse_only_one] = true },
+                 '-n --number' => lambda { |num| options[:parse_only_num] = num }
 
 opendocument_path = extra_args.first
 raise "usage: #$0 <OpenDocument file>" unless opendocument_path
@@ -29,8 +27,8 @@ end
 
 doc = Nokogiri::XML::Document.parse(xml)
 
-if xml_dump_path
-  File.open(xml_dump_path, "w") { |f| f.write doc.to_xml(indent: 2) }
+if options[:xml_dump_path]
+  File.open(options[:xml_dump_path], "w") { |f| f.write doc.to_xml(indent: 2) }
 end
 
 styles = {}
@@ -71,13 +69,13 @@ amendments = []
 
 amend_nodes.each do |nodes|
   amend_text = nodes.map(&:text).join
-  debug amend_text: amend_text unless parse_only_num
+  debug amend_text: amend_text unless options[:parse_only_num]
   
   amend_doc = Nokogiri::XML::Document.parse(amend_text)
   
   num_am = amend_doc.xpath("//NumAm").first.text
   
-  next if parse_only_num and num_am != parse_only_num
+  next if options[:parse_only_num] and num_am != options[:parse_only_num]
   
   doc_amend = amend_doc.xpath("//DocAmend").first.text
   article = amend_doc.xpath("//Article").first.text
@@ -125,7 +123,7 @@ amend_nodes.each do |nodes|
   
   amendments << amendment
   
-  break if parse_only_one
+  break if options[:parse_only_one]
 end
 
 template = ERB.new File.read('template.erb'), nil, '-'
