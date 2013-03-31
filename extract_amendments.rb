@@ -147,9 +147,10 @@ class AmendmentExtractor
     end
 
     debug "rendering amendments"
-    template = ERB.new File.read('template.erb'), nil, '-'
+    template_text = options[:template] || File.read('template.erb')
+    template = ERB.new template_text, 4, '-'
 
-    erb_binding = OpenStruct.new(amendments: amendments).instance_eval { binding }
+    erb_binding = OpenStruct.new(amendments: amendments).instance_eval { binding }.taint
     output = template.result(erb_binding)
   end
 end
@@ -157,10 +158,11 @@ end
 if $0 == __FILE__
   options = {}
 
-  extra_args = cli '--xml-dump'  => lambda { |path| options[:xml_dump_path] = path },
-                  '-d --debug'  => lambda { $DEBUG = true },
-                  '-1 --one'    => lambda { options[:parse_only_one] = true },
-                  '-n --number' => lambda { |num| options[:parse_only_num] = num }
+  extra_args = cli '--xml-dump'   => lambda { |path| options[:xml_dump_path] = path },
+                  '-d --debug'    => lambda { $DEBUG = true },
+                  '-1 --one'      => lambda { options[:parse_only_one] = true },
+                  '-n --number'   => lambda { |num| options[:parse_only_num] = num },
+                  '-t --template' => lambda { |file| options[:template] = File.read(file) }
 
   opendocument_path = extra_args.first
   raise "usage: #$0 <OpenDocument file>" unless opendocument_path

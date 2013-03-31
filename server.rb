@@ -12,7 +12,7 @@ get '/' do
 end
 
 post '/extract' do
-  result = AmendmentExtractor.new.extract(params['file'][:tempfile].path)
+  result = AmendmentExtractor.new.extract(params['file'][:tempfile].path, template: params['template'])
   haml :extract, locals: {result: result}
 end
 
@@ -40,8 +40,12 @@ __END__
       .controls
         %input#file{type: "file", name: "file"}
     .control-group
+      %label.control-label{:for => "template"} Template
+      .controls
+        %textarea.input-block-level#template{rows: 20, name: "template"}= params[:template] || File.read('template.erb')
+    .control-group
       .controls
         %button.btn.btn-primary{:type => "submit"} Extract
 
 @@ extract
-%textarea{rows: 20, style: 'width: 100%'}= Rack::Utils.escape_html(result)
+%textarea.input-block-level{rows: 20}= Rack::Utils.escape_html(result)
