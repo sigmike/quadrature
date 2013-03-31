@@ -1,0 +1,16 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    htmldiff (0.0.1)
+    nokogiri (1.5.9)
+    rubyzip (0.9.9)
+    zippy (0.2.1)
+      rubyzip (>= 0.9.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  htmldiff
+  nokogiri
+  zippy
