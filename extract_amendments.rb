@@ -28,4 +28,21 @@ end
 text = doc.xpath('//office:text').first
 raise "no office:text found" unless text
 
+amend_start = nil
+amend_nodes = []
+
+text.children.each_with_index do |node, i|
+  if node.search("[text()='<Amend>']").size > 0
+    amend_start = i
+  elsif node.search("[text()='</Amend>']").size > 0
+    if amend_start.nil?
+      raise "amend end before amend start"
+    end
+    amend_end = i
+    amend_nodes << text.children.slice(amend_start..amend_end)
+    amend_start = nil
+  end
+end
+
+p amend_nodes.length
 
