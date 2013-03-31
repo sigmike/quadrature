@@ -7,10 +7,13 @@ require 'clik'
 require 'nokogiri'
 
 xml_dump_path = nil
-def debug(values); end
+def debug(values)
+end
+parse_only_one = false  
 
 extra_args = cli '--xml-dump' => lambda { |path| xml_dump_path = path },
-                 '-d --debug' => lambda { def debug(values) p values; end }
+                 '-d --debug' => lambda { def debug(values) p values; end },
+                 '-1 --one'   => lambda { parse_only_one = true }
 
 opendocument_path = extra_args.first
 raise "usage: #$0 <OpenDocument file>" unless opendocument_path
@@ -67,5 +70,7 @@ amend_nodes.each do |nodes|
   }
   debug amendment
   amendments << amendment
+  
+  break if parse_only_one
 end
 
