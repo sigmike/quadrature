@@ -1,7 +1,5 @@
-<% amendments.each_slice(10) do |slice| -%>
-=== Amendments <%= slice.first.num %> - <%= slice.last.num %> ===
-<% slice.each do |amendment| -%>
-==== Amendments <%= amendment.num %> ====
+<% amendments.each do |amendment| -%>
+=== Amendment <%= amendment.num %> ===
 {| border="1" style="border-spacing:0;" cellpadding="3" width="100%"
 |-
 ! colspan="2" style="background-color: lightgrey;" |
@@ -20,5 +18,4 @@ Amendement <%= amendment.num %>
 Comments: 
 |}
 
-<% end -%>
 <% end -%>
