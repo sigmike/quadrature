@@ -65,7 +65,7 @@ text.children.each_with_index do |node, i|
   end
 end
 
-puts "#{amend_nodes.length} amendments found"
+debug amendments_found: amend_nodes.length
 
 amendments = []
 
@@ -83,8 +83,8 @@ amend_nodes.each do |nodes|
   article = amend_doc.xpath("//Article").first.text
   
   amendment = {
-    num_am: num_am,
-    doc_amend: doc_amend,
+    num: num_am,
+    doc: doc_amend,
     article: article,
   }
   debug amendment
