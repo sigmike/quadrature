@@ -134,13 +134,8 @@ class AmendmentExtractor
       debug text_table: text_table
       
 
-      debug "locating header"
-      header_index = text_table.index(["Text proposed by the Commission", "Amendment"])
-      raise "header not found in table of amendment #{num_am}" unless header_index
-      
-
       debug "extracting changes from table"
-      changes = text_table[(header_index + 1)..-1]
+      changes = text_table[2..-1]
       raise "amendment changes not found" if changes.size == 0
       
       debug changes: changes
