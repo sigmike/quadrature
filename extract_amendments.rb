@@ -5,6 +5,8 @@ require 'bundler/setup'
 require 'zippy'
 require 'clik'
 require 'nokogiri'
+require 'erb'
+require 'ostruct'
 
 xml_dump_path = nil
 def debug(values)
@@ -125,4 +127,13 @@ amend_nodes.each do |nodes|
   
   break if parse_only_one
 end
+
+template = ERB.new File.read('template.erb'), nil, '-'
+
+amendments.each do |amendment|
+  amendment_binding = OpenStruct.new(amendment).instance_eval { binding }
+  output = template.result(amendment_binding)
+  puts output
+end
+
 

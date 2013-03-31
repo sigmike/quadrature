@@ -1,0 +1,19 @@
+=== Amendment <%= am_num %> ===
+{| border="1" style="border-spacing:0;" cellpadding="3"
+|-
+! colspan="2" style="background-color: transparent;" |
+Amendement <%= am_num %>
+<br/>
+<%= article %>
+<% changes.each do |original, changed| -%>
+|-
+|width="50%"|
+<%= original %>
+|width="50%"|
+<%= changed %>
+<% end -%>
+|-
+| colspan="2" |
+Comments: 
+|}
+
