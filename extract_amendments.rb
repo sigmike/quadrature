@@ -48,6 +48,8 @@ end
 
 puts "#{amend_nodes.length} amendments found"
 
+amendments = []
+
 amend_nodes.each do |nodes|
   amend_text = nodes.map(&:text).join
   debug amend_text: amend_text
@@ -58,7 +60,12 @@ amend_nodes.each do |nodes|
   doc_amend = amend_doc.xpath("//DocAmend").first.text
   article = amend_doc.xpath("//Article").first.text
   
-  debug num_am: num_am, doc_amend: doc_amend, article: article
+  amendment = {
+    num_am: num_am,
+    doc_amend: doc_amend,
+    article: article,
+  }
+  debug amendment
+  amendments << amendment
 end
-
 
