@@ -7,8 +7,10 @@ require 'clik'
 require 'nokogiri'
 
 xml_dump_path = nil
+def debug(values); end
 
-extra_args = cli '--xml-dump' => lambda { |path| xml_dump_path = path }
+extra_args = cli '--xml-dump' => lambda { |path| xml_dump_path = path },
+                 '-d --debug' => lambda { def debug(values) p values; end }
 
 opendocument_path = extra_args.first
 raise "usage: #$0 <OpenDocument file>" unless opendocument_path
@@ -44,5 +46,19 @@ text.children.each_with_index do |node, i|
   end
 end
 
-p amend_nodes.length
+puts "#{amend_nodes.length} amendments found"
+
+amend_nodes.each do |nodes|
+  amend_text = nodes.map(&:text).join
+  debug amend_text: amend_text
+  
+  amend_doc = Nokogiri::XML::Document.parse(amend_text)
+  
+  num_am = amend_doc.xpath("//NumAm").first.text
+  doc_amend = amend_doc.xpath("//DocAmend").first.text
+  article = amend_doc.xpath("//Article").first.text
+  
+  debug num_am: num_am, doc_amend: doc_amend, article: article
+end
+
 
