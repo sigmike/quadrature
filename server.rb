@@ -5,13 +5,15 @@ require 'bundler/setup'
 
 require 'sinatra'
 require 'haml'
+require './extract_amendments'
 
 get '/' do
   haml :index
 end
 
 post '/extract' do
-  haml :extract, locals: {result: %x(ruby extract_amendments.rb #{params['file'][:tempfile].path})}
+  result = AmendmentExtractor.new.extract(params['file'][:tempfile].path)
+  haml :extract, locals: {result: result}
 end
 
 __END__
