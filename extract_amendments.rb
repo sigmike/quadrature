@@ -7,6 +7,7 @@ require 'clik'
 require 'nokogiri'
 require 'erb'
 require 'ostruct'
+require 'active_support/core_ext/object'
 
 class AmendmentExtractor
   def debug(value)

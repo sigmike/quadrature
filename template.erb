@@ -4,9 +4,13 @@
 {| border="1" style="border-spacing:0;" cellpadding="3" width="100%"
 |-
 ! colspan="2" style="background-color: lightgrey;" |
-Amendment <%= amendment.num %>
-<br/>
-<%= amendment.article %>
+<%=
+  [
+    "Amendment #{amendment.num}",
+    amendment.doc,
+    amendment.article,
+  ].reject(&:blank?).join("\n<br/>\n")
+%>
 <% amendment.changes.each do |original, changed| -%>
 |-
 |width="50%"|
