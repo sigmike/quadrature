@@ -141,6 +141,15 @@ class AmendmentExtractor
       debug changes: changes
       amendment.changes = changes
       
+      if justification_title_parent_node = nodes.detect { |node| node.search("[text()='<TitreJust>']").size > 0 }
+        justification_title_index = nodes.index(justification_title_parent_node)
+        justification_node = nodes[justification_title_index + 1]
+        justification_text = justification_node.text
+        debug justification_text: justification_text
+        amendment.justification = justification_text
+      end
+
+      
       amendments << amendment
       
       break if options[:parse_only_one]

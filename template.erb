@@ -13,6 +13,11 @@ Amendement <%= amendment.num %>
 |width="50%"|
 <%= changed %>
 <% end -%>
+<% if amendment.justification -%>
+|-
+| colspan="2" |
+Justification: <%= amendment.justification %>
+<% end -%>
 |-
 | colspan="2" |
 Comments: 
