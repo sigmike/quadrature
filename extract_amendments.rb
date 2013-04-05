@@ -116,19 +116,40 @@ class AmendmentExtractor
       text_table = table.css("table|table-row").map do |row|
         row.css("table|table-cell").map do |cell|
           cell.css("text|p").map do |paragraph|
-            paragraph.children.map do |element|
+            parts = paragraph.children.map do |element|
               text = element.text
+              style = :normal
               
-              # add mediawiki triple quote if the text is bold in the document
-              if element.is_a? Nokogiri::XML::Element and element.name == 'span'
+              if text.present? and element.is_a? Nokogiri::XML::Element
                 style_name = element["text:style-name"]
                 if style_name and styles[style_name][:bold]
-                  text = "'''#{text}'''"
+                  style = :bold
                 end
               end
               
-              text
+              [style, text]
+            end
+            
+            # merge contiguous styles
+            result = []
+            last_style = nil
+            parts.each do |style, text|
+              if style == last_style
+                result.last[1] += text
+              else
+                result << [style, text]
+              end
+            end
+            
+            result = result.map do |style, text|
+              case style
+              when :bold
+                "'''#{text}'''"
+              else
+                text
+              end
             end.join
+            
           end.join("\n")
         end
       end
