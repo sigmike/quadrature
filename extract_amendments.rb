@@ -21,6 +21,14 @@ class AmendmentExtractor
       STDERR.puts output
     end
   end
+  
+  def style_weight(style_name)
+    if @styles[style_name] and @styles[style_name][:bold]
+      :bold
+    else
+      :normal
+    end
+  end
 
   def extract(opendocument_path, options = {})
     debug "extracting content from document"
@@ -52,6 +60,7 @@ class AmendmentExtractor
       
       styles[name] = style
     end
+    @styles = styles
 
     
     debug "extracting document text"
@@ -116,15 +125,16 @@ class AmendmentExtractor
       text_table = table.css("table|table-row").map do |row|
         row.css("table|table-cell").map do |cell|
           cell.css("text|p").map do |paragraph|
+            style_name = paragraph["text:style-name"]
+            paragraph_style = style_name ? style_weight(style_name) : :normal
+            
             parts = paragraph.children.map do |element|
               text = element.text
-              style = :normal
+              style = paragraph_style
               
               if text.present? and element.is_a? Nokogiri::XML::Element
                 style_name = element["text:style-name"]
-                if style_name and styles[style_name][:bold]
-                  style = :bold
-                end
+                style = style_weight(style_name) if style_name
               end
               
               [style, text]
