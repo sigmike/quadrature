@@ -64,11 +64,11 @@ class AmendmentExtractor
     amend_nodes = []
 
     text.children.each_with_index do |node, i|
-      if node.search("[text()='<Amend>']").size > 0
+      if node.search("[text()='<Amend>']").size > 0 or node.search("[text()='<RepeatBlock-Amend><Amend>']").size > 0
         amend_start = i
       elsif node.search("[text()='</Amend>']").size > 0
         if amend_start.nil?
-          raise "amend end before amend start"
+          raise "amend end before amend start (#{node.path})"
         end
         amend_end = i
         amend_nodes << text.children.slice(amend_start..amend_end)
