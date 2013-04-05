@@ -156,7 +156,7 @@ class AmendmentExtractor
             result = result.map do |style, text|
               case style
               when :bold
-                "'''#{text}'''"
+                "<b>#{text}</b>"
               else
                 text
               end
