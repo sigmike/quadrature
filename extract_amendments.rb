@@ -132,7 +132,7 @@ class AmendmentExtractor
               text = element.text
               style = paragraph_style
               
-              if text.present? and element.is_a? Nokogiri::XML::Element
+              if element.is_a? Nokogiri::XML::Element
                 style_name = element["text:style-name"]
                 style = style_weight(style_name) if style_name
               end
@@ -144,10 +144,12 @@ class AmendmentExtractor
             result = []
             last_style = nil
             parts.each do |style, text|
+              next if text.empty?
               if style == last_style
                 result.last[1] += text
               else
                 result << [style, text]
+                last_style = style
               end
             end
             
